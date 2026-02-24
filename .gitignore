@@ -1,0 +1,8 @@
+# Ignore everything by default
+*
+
+# Re-include the catalog and root docs
+!.gitignore
+!CLAUDE.md
+!_catalog/
+!_catalog/**

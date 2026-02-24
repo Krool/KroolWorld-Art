@@ -1,0 +1,599 @@
+[
+  {
+    "pack": "2dcutecharacterspack",
+    "description": "Cute/chibi-style 2D character sprites with multiple animation states. Includes PSD source files.",
+    "category": "characters",
+    "style": "cute, chibi, cartoon",
+    "usage": "Player characters, NPCs, overworld sprites",
+    "tags": [
+      "character",
+      "sprite",
+      "animated",
+      "cute",
+      "chibi",
+      "top-down"
+    ],
+    "file_count": 627,
+    "file_types": {
+      ".png": 622,
+      ".psd": 5
+    }
+  },
+  {
+    "pack": "7soulsrpggraphics_cavetileset",
+    "description": "Cave and underground tileset for RPG games.",
+    "category": "tileset",
+    "style": "pixel art, rpg",
+    "usage": "Underground levels, cave biomes, dungeon interiors",
+    "tags": [
+      "tileset",
+      "cave",
+      "underground",
+      "rpg",
+      "pixel"
+    ],
+    "file_count": 4,
+    "file_types": {
+      ".png": 3,
+      ".txt": 1
+    }
+  },
+  {
+    "pack": "7soulsrpggraphics_dungeontileset",
+    "description": "Dungeon tileset with animated tiles and autotile support.",
+    "category": "tileset",
+    "style": "pixel art, rpg",
+    "usage": "Dungeon floors, walls, animated tiles for RPGMaker or custom engine",
+    "tags": [
+      "tileset",
+      "dungeon",
+      "animated",
+      "autotile",
+      "rpg",
+      "pixel"
+    ],
+    "file_count": 14,
+    "file_types": {
+      ".png": 12,
+      ".gif": 2
+    }
+  },
+  {
+    "pack": "japantileset",
+    "description": "Japanese-themed environment tileset.",
+    "category": "tileset",
+    "style": "pixel art, japanese",
+    "usage": "Japanese town/village environments",
+    "tags": [
+      "tileset",
+      "japan",
+      "japanese",
+      "environment",
+      "town"
+    ],
+    "file_count": 4,
+    "file_types": {
+      ".png": 4
+    }
+  },
+  {
+    "pack": "medievalfantasycharacters",
+    "description": "Large pack of medieval fantasy character sprites with many classes and animation states.",
+    "category": "characters",
+    "style": "pixel art, medieval, fantasy",
+    "usage": "RPG player characters, enemies, NPCs \u2014 medieval fantasy setting",
+    "tags": [
+      "character",
+      "sprite",
+      "animated",
+      "medieval",
+      "fantasy",
+      "rpg",
+      "pixel"
+    ],
+    "file_count": 5606,
+    "file_types": {
+      ".txt": 2,
+      ".png": 5599,
+      ".gif": 5
+    }
+  },
+  {
+    "pack": "medievalrpgpack",
+    "description": "General medieval RPG asset pack \u2014 mix of tiles, props, and decorative elements.",
+    "category": "mixed",
+    "style": "pixel art, medieval",
+    "usage": "Medieval RPG environments, general-purpose sprites",
+    "tags": [
+      "medieval",
+      "rpg",
+      "tileset",
+      "prop",
+      "pixel"
+    ],
+    "file_count": 286,
+    "file_types": {
+      ".png": 286
+    }
+  },
+  {
+    "pack": "medievalskillandabilityicons",
+    "description": "Medieval skill and ability icons for RPG UI. Includes PSD source files.",
+    "category": "icons",
+    "style": "stylized, fantasy",
+    "usage": "Skill trees, ability bars, inventory UI, spell icons",
+    "tags": [
+      "icon",
+      "ui",
+      "skill",
+      "ability",
+      "medieval",
+      "fantasy",
+      "rpg"
+    ],
+    "file_count": 361,
+    "file_types": {
+      ".png": 360,
+      ".psd": 1
+    }
+  },
+  {
+    "pack": "medievaltechnologyandskillicons",
+    "description": "Technology and crafting skill icons for RPG UI. Includes PSD source files.",
+    "category": "icons",
+    "style": "stylized, fantasy",
+    "usage": "Tech trees, crafting menus, upgrade screens",
+    "tags": [
+      "icon",
+      "ui",
+      "technology",
+      "crafting",
+      "skill",
+      "medieval"
+    ],
+    "file_count": 271,
+    "file_types": {
+      ".png": 270,
+      ".psd": 1
+    }
+  },
+  {
+    "pack": "outdoorandforesttileset",
+    "description": "Outdoor and forest environment tileset with animated elements. Includes Aseprite source files.",
+    "category": "tileset",
+    "style": "pixel art",
+    "usage": "Forest biomes, outdoor overworld maps",
+    "tags": [
+      "tileset",
+      "outdoor",
+      "forest",
+      "nature",
+      "animated",
+      "pixel"
+    ],
+    "file_count": 40,
+    "file_types": {
+      ".aseprite": 2,
+      ".gif": 17,
+      ".png": 21
+    }
+  },
+  {
+    "pack": "pixelhouseandfurnies",
+    "description": "Pixel art house interiors and furniture sprites. Includes Aseprite source files.",
+    "category": "props",
+    "style": "pixel art",
+    "usage": "Indoor scenes, house interiors, furniture decoration",
+    "tags": [
+      "prop",
+      "interior",
+      "furniture",
+      "house",
+      "pixel"
+    ],
+    "file_count": 11,
+    "file_types": {
+      ".png": 5,
+      ".aseprite": 3,
+      ".gif": 3
+    }
+  },
+  {
+    "pack": "potionbottles",
+    "description": "Potion bottle item sprites. Includes PSD source files.",
+    "category": "items",
+    "style": "stylized, fantasy",
+    "usage": "Inventory items, consumables, potion icons",
+    "tags": [
+      "item",
+      "potion",
+      "consumable",
+      "inventory",
+      "fantasy"
+    ],
+    "file_count": 12,
+    "file_types": {
+      ".psd": 1,
+      ".png": 11
+    }
+  },
+  {
+    "pack": "rpgbuildingshouses",
+    "description": "RPG building and house sprites. Includes PSD source files.",
+    "category": "buildings",
+    "style": "pixel art, rpg",
+    "usage": "Overworld buildings, towns, villages",
+    "tags": [
+      "building",
+      "house",
+      "structure",
+      "overworld",
+      "rpg",
+      "pixel"
+    ],
+    "file_count": 10,
+    "file_types": {
+      ".png": 5,
+      ".psd": 5
+    }
+  },
+  {
+    "pack": "rpgcharacterportraits",
+    "description": "Character portrait illustrations for RPG dialogue and character screens. Includes PSD source files.",
+    "category": "portraits",
+    "style": "illustrated, fantasy",
+    "usage": "Dialogue boxes, character selection screens, party UI",
+    "tags": [
+      "portrait",
+      "character",
+      "ui",
+      "dialogue",
+      "fantasy",
+      "rpg"
+    ],
+    "file_count": 91,
+    "file_types": {
+      ".png": 90,
+      ".psd": 1
+    }
+  },
+  {
+    "pack": "rpggame1700plusicons",
+    "description": "Massive icon pack with 1700+ RPG game icons across many categories: weapons, armor, consumables, materials, skills, accessories.",
+    "category": "icons",
+    "style": "pixel art, rpg",
+    "usage": "Inventory items, equipment slots, loot, skill icons \u2014 comprehensive RPG UI icon set",
+    "tags": [
+      "icon",
+      "ui",
+      "weapon",
+      "armor",
+      "item",
+      "skill",
+      "consumable",
+      "material",
+      "rpg",
+      "pixel"
+    ],
+    "file_count": 14360,
+    "file_types": {
+      ".png": 14360
+    }
+  },
+  {
+    "pack": "rpginventoryiconsv1",
+    "description": "RPG inventory item icons version 1. Includes PSD source files.",
+    "category": "icons",
+    "style": "pixel art, rpg",
+    "usage": "Inventory UI, item pickups, loot drops",
+    "tags": [
+      "icon",
+      "inventory",
+      "item",
+      "ui",
+      "rpg",
+      "pixel"
+    ],
+    "file_count": 102,
+    "file_types": {
+      ".txt": 1,
+      ".png": 100,
+      ".psd": 1
+    }
+  },
+  {
+    "pack": "rpgitemssetv3",
+    "description": "RPG items icon set version 3 \u2014 equipment, consumables, and misc items.",
+    "category": "items",
+    "style": "pixel art, rpg",
+    "usage": "Item icons for inventory, shops, drops",
+    "tags": [
+      "item",
+      "icon",
+      "equipment",
+      "consumable",
+      "rpg",
+      "pixel"
+    ],
+    "file_count": 200,
+    "file_types": {
+      ".png": 200
+    }
+  },
+  {
+    "pack": "rpgpixelweapons",
+    "description": "Small pixel art weapons sprite sheet.",
+    "category": "weapons",
+    "style": "pixel art",
+    "usage": "Weapon icons or equippable sprites",
+    "tags": [
+      "weapon",
+      "icon",
+      "pixel",
+      "equipment"
+    ],
+    "file_count": 2,
+    "file_types": {
+      ".png": 2
+    }
+  },
+  {
+    "pack": "rpgsurvivalcharacter",
+    "description": "Survival-themed RPG character with animation states. Includes Aseprite source files.",
+    "category": "characters",
+    "style": "pixel art, survival",
+    "usage": "Survival game player character, post-apocalyptic or wilderness RPG",
+    "tags": [
+      "character",
+      "sprite",
+      "animated",
+      "survival",
+      "rpg",
+      "pixel"
+    ],
+    "file_count": 275,
+    "file_types": {
+      ".aseprite": 1,
+      ".gif": 128,
+      ".png": 146
+    }
+  },
+  {
+    "pack": "rpgweaponsv1",
+    "description": "RPG weapon illustrations version 1 \u2014 swords, axes, bows, etc. Includes PSD source files.",
+    "category": "weapons",
+    "style": "stylized, fantasy",
+    "usage": "Weapon item icons, inventory, equipment screens",
+    "tags": [
+      "weapon",
+      "icon",
+      "sword",
+      "axe",
+      "bow",
+      "fantasy",
+      "rpg"
+    ],
+    "file_count": 26,
+    "file_types": {
+      ".png": 25,
+      ".psd": 1
+    }
+  },
+  {
+    "pack": "rpgworldsdecorativeprops",
+    "description": "Decorative prop sprites for RPG world environments. Includes PSD source files.",
+    "category": "props",
+    "style": "pixel art, rpg",
+    "usage": "Environment decoration, map detailing",
+    "tags": [
+      "prop",
+      "decoration",
+      "environment",
+      "rpg",
+      "pixel"
+    ],
+    "file_count": 35,
+    "file_types": {
+      ".png": 17,
+      ".psd": 18
+    }
+  },
+  {
+    "pack": "rpgworldsgrassland",
+    "description": "Grassland biome tileset for RPG worlds. Includes PSD source files.",
+    "category": "tileset",
+    "style": "pixel art, rpg",
+    "usage": "Overworld grassland maps, fields, plains",
+    "tags": [
+      "tileset",
+      "grassland",
+      "nature",
+      "overworld",
+      "rpg",
+      "pixel"
+    ],
+    "file_count": 36,
+    "file_types": {
+      ".png": 18,
+      ".psd": 18
+    }
+  },
+  {
+    "pack": "rpgworldshousesandinteriors",
+    "description": "House and interior sprites for RPG worlds. Includes PSD source files.",
+    "category": "buildings",
+    "style": "pixel art, rpg",
+    "usage": "Building interiors, house rooms, indoor environments",
+    "tags": [
+      "building",
+      "interior",
+      "house",
+      "rpg",
+      "pixel"
+    ],
+    "file_count": 8,
+    "file_types": {
+      ".png": 4,
+      ".psd": 4
+    }
+  },
+  {
+    "pack": "rpgworldsmarshland",
+    "description": "Marshland/swamp biome tileset for RPG worlds. Includes PSD source files.",
+    "category": "tileset",
+    "style": "pixel art, rpg",
+    "usage": "Swamp biomes, marsh environments, wetlands",
+    "tags": [
+      "tileset",
+      "marsh",
+      "swamp",
+      "wetland",
+      "biome",
+      "rpg",
+      "pixel"
+    ],
+    "file_count": 36,
+    "file_types": {
+      ".png": 18,
+      ".psd": 18
+    }
+  },
+  {
+    "pack": "rpgworldssnowylands",
+    "description": "Snowy landscape tileset for RPG worlds. Includes PSD source files.",
+    "category": "tileset",
+    "style": "pixel art, rpg",
+    "usage": "Winter biomes, snow environments, icy lands",
+    "tags": [
+      "tileset",
+      "snow",
+      "winter",
+      "cold",
+      "biome",
+      "rpg",
+      "pixel"
+    ],
+    "file_count": 4,
+    "file_types": {
+      ".png": 2,
+      ".psd": 2
+    }
+  },
+  {
+    "pack": "segel2dcharactersbundle",
+    "description": "Large bundle of 2D character sprites by Segel. Includes Spriter (SCML) animation files and PSD sources.",
+    "category": "characters",
+    "style": "pixel art, fantasy",
+    "usage": "RPG characters with skeletal animation support (Spriter), player and NPC sprites",
+    "tags": [
+      "character",
+      "sprite",
+      "animated",
+      "spriter",
+      "scml",
+      "rpg",
+      "pixel",
+      "fantasy"
+    ],
+    "file_count": 4723,
+    "file_types": {
+      ".txt": 29,
+      ".psd": 25,
+      ".png": 4644,
+      ".scml": 25
+    }
+  },
+  {
+    "pack": "snowforesttilesets",
+    "description": "Snow-covered forest tileset with animated elements. Includes Aseprite source files.",
+    "category": "tileset",
+    "style": "pixel art",
+    "usage": "Winter forest biomes, snowy outdoor environments",
+    "tags": [
+      "tileset",
+      "snow",
+      "forest",
+      "winter",
+      "animated",
+      "pixel"
+    ],
+    "file_count": 47,
+    "file_types": {
+      ".png": 21,
+      ".aseprite": 8,
+      ".gif": 18
+    }
+  },
+  {
+    "pack": "swordsandshields",
+    "description": "Sword and shield weapon/equipment sprites. Includes PSD source files.",
+    "category": "weapons",
+    "style": "pixel art, fantasy",
+    "usage": "Melee weapon and shield icons, equipment UI",
+    "tags": [
+      "weapon",
+      "sword",
+      "shield",
+      "equipment",
+      "icon",
+      "fantasy",
+      "pixel"
+    ],
+    "file_count": 41,
+    "file_types": {
+      ".psd": 2,
+      ".png": 39
+    }
+  },
+  {
+    "pack": "tropicalislandgameassets",
+    "description": "Comprehensive tropical island asset pack \u2014 tiles, animated shorelines, boats, dolphins, cliffs, doors, and more. Includes RPGMaker MV/MZ support and Aseprite sources.",
+    "category": "tileset",
+    "style": "pixel art, tropical",
+    "usage": "Tropical island maps, ocean shores, water tiles, island structures, RPGMaker-compatible",
+    "tags": [
+      "tileset",
+      "tropical",
+      "island",
+      "ocean",
+      "water",
+      "animated",
+      "boat",
+      "shore",
+      "rpgmaker",
+      "pixel"
+    ],
+    "file_count": 3537,
+    "file_types": {
+      ".gif": 4,
+      ".png": 3512,
+      ".aseprite": 16,
+      ".zip": 4,
+      ".ds_store": 1
+    }
+  },
+  {
+    "pack": "wintervillagegameassets",
+    "description": "Winter village asset pack \u2014 tiles, doors, animated elements, cabin/shed structures. RPGMaker MV/MZ compatible.",
+    "category": "tileset",
+    "style": "pixel art, winter",
+    "usage": "Winter village maps, snowy town environments, cabin interiors, RPGMaker-compatible",
+    "tags": [
+      "tileset",
+      "winter",
+      "village",
+      "snow",
+      "cabin",
+      "door",
+      "animated",
+      "rpgmaker",
+      "pixel"
+    ],
+    "file_count": 1603,
+    "file_types": {
+      ".png": 1598,
+      ".zip": 4,
+      ".ds_store": 1
+    }
+  }
+]
