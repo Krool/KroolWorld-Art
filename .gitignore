@@ -4,5 +4,6 @@
 # Re-include the catalog and root docs
 !.gitignore
 !CLAUDE.md
+!README.md
 !_catalog/
 !_catalog/**
