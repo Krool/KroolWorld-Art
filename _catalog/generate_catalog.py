@@ -2,11 +2,13 @@
 Asset Catalog Generator
 Scans all art packs and produces:
   - assets.jsonl     (one record per file)
-  - packs.json       (one record per pack)
+  - packs.json       (one record per pack, includes visual_notes.json data)
   - GUIDE.md         (human + LLM readable overview)
+
+Visual metadata is read from visual_notes.json and merged into packs.json.
+Edit visual_notes.json to update visual descriptions; re-run this script to apply.
 """
 
-import os
 import json
 import re
 from pathlib import Path
@@ -256,8 +258,20 @@ def get_asset_type(pack_category: str, ext: str, filename: str) -> str:
     return pack_category
 
 
+def load_visual_notes() -> dict:
+    path = CATALOG_DIR / "visual_notes.json"
+    if path.exists():
+        with open(path, encoding="utf-8") as f:
+            return json.load(f)
+    return {}
+
+
 def main():
     CATALOG_DIR.mkdir(exist_ok=True)
+
+    visual_notes = load_visual_notes()
+    if visual_notes:
+        print(f"  Loaded visual_notes.json ({len(visual_notes)} entries)")
 
     packs = []
     all_assets = []
@@ -316,6 +330,7 @@ def main():
             "tags": ctx.get("tags", []),
             "file_count": file_count,
             "file_types": dict(files_by_ext),
+            "visual": visual_notes.get(pack_name, {}),
         }
         packs.append(pack_record)
         print(f"  {pack_name}: {file_count} files")
@@ -349,13 +364,24 @@ def main():
         for cat, cat_packs in sorted(by_cat.items()):
             f.write(f"## {cat.title()}\n\n")
             for p in cat_packs:
+                v = p.get("visual", {})
                 f.write(f"### `{p['pack']}/`\n")
                 f.write(f"**{p['file_count']} files** | Style: {p['style']}  \n")
                 f.write(f"{p['description']}  \n")
                 f.write(f"**Usage:** {p['usage']}  \n")
                 f.write(f"**Tags:** {', '.join(p['tags'])}  \n")
                 ftypes = ", ".join(f"{ext}({n})" for ext, n in sorted(p["file_types"].items()))
-                f.write(f"**File types:** {ftypes}  \n\n")
+                f.write(f"**File types:** {ftypes}  \n")
+                if v:
+                    f.write(f"**Art style:** {v.get('art_style', '')}  \n")
+                    f.write(f"**Perspective:** {v.get('perspective', '')}  \n")
+                    f.write(f"**Resolution:** {v.get('approx_resolution', '')}  \n")
+                    f.write(f"**Palette:** {v.get('palette', '')}  \n")
+                    if v.get('compatibility_group'):
+                        f.write(f"**Compatibility group:** {v.get('compatibility_group')}  \n")
+                    if v.get('notes'):
+                        f.write(f"**Notes:** {v.get('notes')}  \n")
+                f.write("\n")
 
     print(f"Wrote {guide_path}")
 

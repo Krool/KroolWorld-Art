@@ -17,6 +17,18 @@
     "file_types": {
       ".png": 622,
       ".psd": 5
+    },
+    "visual": {
+      "art_style": "stylized cartoon",
+      "render_method": "illustrated, vector-like with smooth gradients",
+      "outline": "thick black outline",
+      "perspective": "top-down / orthographic",
+      "approx_resolution": "128-256px per item",
+      "palette": "full color, saturated",
+      "pixel_art": false,
+      "animated": true,
+      "compatibility_group": "chibi-cartoon",
+      "notes": "Clean chibi characters, thick outlines. Pairs well with segel2dcharactersbundle."
     }
   },
   {
@@ -36,6 +48,18 @@
     "file_types": {
       ".png": 3,
       ".txt": 1
+    },
+    "visual": {
+      "art_style": "pixel art",
+      "render_method": "pixel art",
+      "outline": "black outline",
+      "perspective": "top-down, RPGMaker format",
+      "approx_resolution": "48px tiles",
+      "palette": "dark reds, black, brown",
+      "pixel_art": true,
+      "animated": false,
+      "compatibility_group": "pixel-rpgmaker",
+      "notes": "Dark cave tileset. RPGMaker A/B tile layout. Pairs with dungeon tileset from same creator."
     }
   },
   {
@@ -56,6 +80,18 @@
     "file_types": {
       ".png": 12,
       ".gif": 2
+    },
+    "visual": {
+      "art_style": "pixel art",
+      "render_method": "pixel art",
+      "outline": "black outline",
+      "perspective": "top-down, RPGMaker format",
+      "approx_resolution": "48px tiles",
+      "palette": "brown, tan, warm stone tones",
+      "pixel_art": true,
+      "animated": true,
+      "compatibility_group": "pixel-rpgmaker",
+      "notes": "Dungeon tileset with autotile support. Same creator/style as cave tileset."
     }
   },
   {
@@ -74,6 +110,18 @@
     "file_count": 4,
     "file_types": {
       ".png": 4
+    },
+    "visual": {
+      "art_style": "pixel art",
+      "render_method": "pixel art",
+      "outline": "subtle pixel outline",
+      "perspective": "top-down, RPGMaker format",
+      "approx_resolution": "32px tiles",
+      "palette": "pastel \u2014 soft pinks, blues, greens, warm tans",
+      "pixel_art": true,
+      "animated": false,
+      "compatibility_group": "pixel-rpgmaker",
+      "notes": "Cute/soft Japanese town tileset. Pastel palette stands apart from darker RPG packs. Unique aesthetic."
     }
   },
   {
@@ -96,6 +144,18 @@
       ".txt": 2,
       ".png": 5599,
       ".gif": 5
+    },
+    "visual": {
+      "art_style": "pixel art",
+      "render_method": "pixel art",
+      "outline": "black pixel outline",
+      "perspective": "top-down, 4/8-directional",
+      "approx_resolution": "16-32px per character frame",
+      "palette": "varied, muted medieval tones",
+      "pixel_art": true,
+      "animated": true,
+      "compatibility_group": "pixel-small",
+      "notes": "Very small pixel characters. Large variety of classes. Standard RPGMaker-scale sprites."
     }
   },
   {
@@ -114,6 +174,18 @@
     "file_count": 286,
     "file_types": {
       ".png": 286
+    },
+    "visual": {
+      "art_style": "pixel art",
+      "render_method": "pixel art",
+      "outline": "black pixel outline",
+      "perspective": "top-down, 4-directional",
+      "approx_resolution": "48px per character",
+      "palette": "blue-green, teal, muted",
+      "pixel_art": true,
+      "animated": true,
+      "compatibility_group": "pixel-small",
+      "notes": "Quirky bird/creature-style characters with full animation sets. Slightly larger scale than medievalfantasycharacters."
     }
   },
   {
@@ -135,6 +207,18 @@
     "file_types": {
       ".png": 360,
       ".psd": 1
+    },
+    "visual": {
+      "art_style": "painted / illustrated",
+      "render_method": "digital painting, dark background with glow",
+      "outline": "none (glow effects)",
+      "perspective": "flat icon, front-facing",
+      "approx_resolution": "256-512px per icon",
+      "palette": "dark backgrounds, vibrant glowing colors, blues and teals",
+      "pixel_art": false,
+      "animated": false,
+      "compatibility_group": "painted-icons",
+      "notes": "High quality painted icons with glowing effects on dark BG. Pairs with medievaltechnologyandskillicons (same style/creator)."
     }
   },
   {
@@ -155,6 +239,18 @@
     "file_types": {
       ".png": 270,
       ".psd": 1
+    },
+    "visual": {
+      "art_style": "painted / illustrated",
+      "render_method": "digital painting, dark background with glow",
+      "outline": "none (glow/light effects)",
+      "perspective": "flat icon, front-facing",
+      "approx_resolution": "256-512px per icon",
+      "palette": "dark backgrounds, earthy browns, blue glows",
+      "pixel_art": false,
+      "animated": false,
+      "compatibility_group": "painted-icons",
+      "notes": "Same creator/style as medievalskillandabilityicons. Focuses on crafting and tech skills."
     }
   },
   {
@@ -176,6 +272,18 @@
       ".aseprite": 2,
       ".gif": 17,
       ".png": 21
+    },
+    "visual": {
+      "art_style": "pixel art",
+      "render_method": "pixel art",
+      "outline": "black pixel outline",
+      "perspective": "top-down / side-view (mixed)",
+      "approx_resolution": "16-24px tiles",
+      "palette": "warm orange, brown, earthy",
+      "pixel_art": true,
+      "animated": true,
+      "compatibility_group": "pixel-small",
+      "notes": "Small pixel art. Animated chest frames. Warm earthy palette."
     }
   },
   {
@@ -196,6 +304,18 @@
       ".png": 5,
       ".aseprite": 3,
       ".gif": 3
+    },
+    "visual": {
+      "art_style": "pixel art",
+      "render_method": "pixel art",
+      "outline": "black pixel outline",
+      "perspective": "top-down / front-facing (interior)",
+      "approx_resolution": "16-32px tiles",
+      "palette": "dark red, charcoal, warm tones",
+      "pixel_art": true,
+      "animated": true,
+      "compatibility_group": "pixel-small",
+      "notes": "Interior furniture and fireplace animations. Dark warm palette."
     }
   },
   {
@@ -215,6 +335,18 @@
     "file_types": {
       ".psd": 1,
       ".png": 11
+    },
+    "visual": {
+      "art_style": "stylized cartoon",
+      "render_method": "illustrated, smooth gradients, cell-shaded",
+      "outline": "thick dark outline",
+      "perspective": "flat icon, front-facing",
+      "approx_resolution": "256-512px per item",
+      "palette": "rich warm browns, teal accent, cork tan",
+      "pixel_art": false,
+      "animated": false,
+      "compatibility_group": "stylized-items",
+      "notes": "Stylized cartoon potions with thick outlines. Zelda/adventure game aesthetic. Pairs with swordsandshields style."
     }
   },
   {
@@ -235,6 +367,18 @@
     "file_types": {
       ".png": 5,
       ".psd": 5
+    },
+    "visual": {
+      "art_style": "pixel art",
+      "render_method": "pixel art",
+      "outline": "black pixel outline",
+      "perspective": "top-down orthographic",
+      "approx_resolution": "32-48px per tile",
+      "palette": "brown wood, grey stone, muted medieval",
+      "pixel_art": true,
+      "animated": false,
+      "compatibility_group": "pixel-medium-rpgworlds",
+      "notes": "Top-down furniture and building interiors. Same style family as rpgworlds* packs."
     }
   },
   {
@@ -255,6 +399,18 @@
     "file_types": {
       ".png": 90,
       ".psd": 1
+    },
+    "visual": {
+      "art_style": "realistic / semi-realistic",
+      "render_method": "digital painting, photorealistic",
+      "outline": "none",
+      "perspective": "bust portrait, front/3-quarter facing",
+      "approx_resolution": "256-512px per portrait",
+      "palette": "realistic skin tones, dark moody backgrounds, desaturated",
+      "pixel_art": false,
+      "animated": false,
+      "compatibility_group": "realistic-portraits",
+      "notes": "Realistic painted character portraits. Dramatic lighting. Suited for dialogue boxes or character screens."
     }
   },
   {
@@ -278,6 +434,18 @@
     "file_count": 14360,
     "file_types": {
       ".png": 14360
+    },
+    "visual": {
+      "art_style": "pixel art",
+      "render_method": "pixel art",
+      "outline": "black pixel outline",
+      "perspective": "flat icon, front-facing",
+      "approx_resolution": "16-32px per icon",
+      "palette": "varied, bright classic RPG colors",
+      "pixel_art": true,
+      "animated": false,
+      "compatibility_group": "pixel-small",
+      "notes": "Classic 16-bit style RPG icon sheet. Massive variety. Standard RPGMaker icon format."
     }
   },
   {
@@ -299,6 +467,18 @@
       ".txt": 1,
       ".png": 100,
       ".psd": 1
+    },
+    "visual": {
+      "art_style": "pixel art",
+      "render_method": "pixel art",
+      "outline": "black pixel outline",
+      "perspective": "flat icon, front-facing",
+      "approx_resolution": "32px per icon",
+      "palette": "varied, muted RPG tones",
+      "pixel_art": true,
+      "animated": false,
+      "compatibility_group": "pixel-small",
+      "notes": "Small pixel art inventory items. Similar scale/style to rpggame1700plusicons."
     }
   },
   {
@@ -318,6 +498,18 @@
     "file_count": 200,
     "file_types": {
       ".png": 200
+    },
+    "visual": {
+      "art_style": "painted / illustrated",
+      "render_method": "digital painting, dark vignette border/background",
+      "outline": "decorative frame border",
+      "perspective": "flat icon, front-facing",
+      "approx_resolution": "128-256px per icon",
+      "palette": "dark backgrounds, metallic greys, reds, golds",
+      "pixel_art": false,
+      "animated": false,
+      "compatibility_group": "painted-icons",
+      "notes": "Painted armor/equipment icons with decorative dark border. Semi-realistic rendering. Pairs with painted icon packs."
     }
   },
   {
@@ -335,6 +527,18 @@
     "file_count": 2,
     "file_types": {
       ".png": 2
+    },
+    "visual": {
+      "art_style": "pixel art",
+      "render_method": "pixel art",
+      "outline": "black pixel outline",
+      "perspective": "flat icon, angled",
+      "approx_resolution": "16-24px per weapon",
+      "palette": "varied, bright colors, classic RPG",
+      "pixel_art": true,
+      "animated": false,
+      "compatibility_group": "pixel-small",
+      "notes": "Dense sprite sheet of many weapon types. Very small scale. Classic 16-bit RPG feel."
     }
   },
   {
@@ -356,6 +560,18 @@
       ".aseprite": 1,
       ".gif": 128,
       ".png": 146
+    },
+    "visual": {
+      "art_style": "pixel art",
+      "render_method": "pixel art",
+      "outline": "black pixel outline",
+      "perspective": "top-down, 4-directional",
+      "approx_resolution": "24-32px per character frame",
+      "palette": "warm orange/red hair, muted earth tones",
+      "pixel_art": true,
+      "animated": true,
+      "compatibility_group": "pixel-small",
+      "notes": "Top-down survival character with full animation states. Slightly larger than RPGMaker default scale."
     }
   },
   {
@@ -377,6 +593,18 @@
     "file_types": {
       ".png": 25,
       ".psd": 1
+    },
+    "visual": {
+      "art_style": "realistic / painted",
+      "render_method": "high-detail digital painting, transparent background",
+      "outline": "none (natural shading)",
+      "perspective": "angled/diagonal, front-facing",
+      "approx_resolution": "512px per weapon",
+      "palette": "realistic \u2014 dark steels, warm wood browns, metallic",
+      "pixel_art": false,
+      "animated": false,
+      "compatibility_group": "painted-items",
+      "notes": "Highly detailed realistic weapon paintings. Full transparency. Best for UI/inventory at larger sizes."
     }
   },
   {
@@ -396,6 +624,18 @@
     "file_types": {
       ".png": 17,
       ".psd": 18
+    },
+    "visual": {
+      "art_style": "pixel art",
+      "render_method": "pixel art",
+      "outline": "black pixel outline",
+      "perspective": "top-down orthographic",
+      "approx_resolution": "32-48px per prop",
+      "palette": "muted medieval \u2014 reds, greys, greens",
+      "pixel_art": true,
+      "animated": true,
+      "compatibility_group": "pixel-medium-rpgworlds",
+      "notes": "Animated flags and decorative props. Part of rpgworlds style family."
     }
   },
   {
@@ -416,6 +656,18 @@
     "file_types": {
       ".png": 18,
       ".psd": 18
+    },
+    "visual": {
+      "art_style": "pixel art",
+      "render_method": "pixel art",
+      "outline": "black pixel outline",
+      "perspective": "top-down orthographic",
+      "approx_resolution": "48-64px per object",
+      "palette": "deep reds, dark purple bark, muted fantasy",
+      "pixel_art": true,
+      "animated": true,
+      "compatibility_group": "pixel-medium-rpgworlds",
+      "notes": "Animated trees with autumn/fantasy red foliage. Cohesive with other rpgworlds* packs."
     }
   },
   {
@@ -435,6 +687,18 @@
     "file_types": {
       ".png": 4,
       ".psd": 4
+    },
+    "visual": {
+      "art_style": "pixel art",
+      "render_method": "pixel art",
+      "outline": "black pixel outline",
+      "perspective": "top-down orthographic",
+      "approx_resolution": "32-48px per tile",
+      "palette": "dark wood browns, grey stone, muted",
+      "pixel_art": true,
+      "animated": false,
+      "compatibility_group": "pixel-medium-rpgworlds",
+      "notes": "Interior props \u2014 log piles, anvils, crates, wells, shields. Consistent with rpgworlds family."
     }
   },
   {
@@ -456,6 +720,18 @@
     "file_types": {
       ".png": 18,
       ".psd": 18
+    },
+    "visual": {
+      "art_style": "pixel art",
+      "render_method": "pixel art",
+      "outline": "subtle pixel outline",
+      "perspective": "top-down orthographic",
+      "approx_resolution": "32-48px per tile",
+      "palette": "very dark earthy brown, near-black, murky",
+      "pixel_art": true,
+      "animated": true,
+      "compatibility_group": "pixel-medium-rpgworlds",
+      "notes": "Very dark swamp/marsh tileset. Animated bubble effects. Pairs with rpgworlds family."
     }
   },
   {
@@ -477,6 +753,18 @@
     "file_types": {
       ".png": 2,
       ".psd": 2
+    },
+    "visual": {
+      "art_style": "pixel art",
+      "render_method": "pixel art",
+      "outline": "black pixel outline",
+      "perspective": "top-down orthographic",
+      "approx_resolution": "32-48px per tile",
+      "palette": "blue-grey, white, cold tones with green pines",
+      "pixel_art": true,
+      "animated": false,
+      "compatibility_group": "pixel-medium-rpgworlds",
+      "notes": "Snowy rocks, pine trees, frozen decor. Consistent rpgworlds style."
     }
   },
   {
@@ -501,6 +789,18 @@
       ".psd": 25,
       ".png": 4644,
       ".scml": 25
+    },
+    "visual": {
+      "art_style": "stylized cartoon",
+      "render_method": "illustrated, smooth cel-shaded with thick outlines",
+      "outline": "thick black outline",
+      "perspective": "side-scrolling / front-facing",
+      "approx_resolution": "256-512px per frame",
+      "palette": "clean, saturated, classic anime-adjacent colors",
+      "pixel_art": false,
+      "animated": true,
+      "compatibility_group": "chibi-cartoon",
+      "notes": "Large chibi-style characters for side-scrolling. Spriter SCML skeletal animation. Very high quality. Pairs with 2dcutecharacterspack aesthetic."
     }
   },
   {
@@ -522,6 +822,18 @@
       ".png": 21,
       ".aseprite": 8,
       ".gif": 18
+    },
+    "visual": {
+      "art_style": "pixel art",
+      "render_method": "pixel art",
+      "outline": "black pixel outline",
+      "perspective": "top-down / isometric-ish",
+      "approx_resolution": "16-24px per tile",
+      "palette": "light blue, grey-white, icy cold tones",
+      "pixel_art": true,
+      "animated": true,
+      "compatibility_group": "pixel-small",
+      "notes": "Very small pixel art. Icy chest animations. Cold/winter palette."
     }
   },
   {
@@ -543,6 +855,18 @@
     "file_types": {
       ".psd": 2,
       ".png": 39
+    },
+    "visual": {
+      "art_style": "stylized cartoon",
+      "render_method": "illustrated, flat shading with bold outlines",
+      "outline": "thick bold outline",
+      "perspective": "flat icon, front-facing",
+      "approx_resolution": "256-512px per item",
+      "palette": "deep blues, teals, steel greys, gem accents",
+      "pixel_art": false,
+      "animated": false,
+      "compatibility_group": "stylized-items",
+      "notes": "Stylized cartoon weapons with bold flat shading. Not pixel art. Pairs with potionbottles aesthetic."
     }
   },
   {
@@ -570,6 +894,18 @@
       ".aseprite": 16,
       ".zip": 4,
       ".ds_store": 1
+    },
+    "visual": {
+      "art_style": "pixel art",
+      "render_method": "pixel art, clean smooth curves",
+      "outline": "black pixel outline",
+      "perspective": "top-down, RPGMaker autotile format",
+      "approx_resolution": "48-64px per tile",
+      "palette": "sandy tan, bright ocean blue, warm tropical",
+      "pixel_art": true,
+      "animated": true,
+      "compatibility_group": "pixel-gdm",
+      "notes": "GDM creator. Polished RPGMaker-compatible tileset. Animated shorelines, boats, cliffs. Pairs perfectly with wintervillagegameassets (same creator)."
     }
   },
   {
@@ -594,6 +930,18 @@
       ".png": 1598,
       ".zip": 4,
       ".ds_store": 1
+    },
+    "visual": {
+      "art_style": "pixel art",
+      "render_method": "pixel art, clean smooth curves",
+      "outline": "black pixel outline",
+      "perspective": "top-down, RPGMaker autotile format",
+      "approx_resolution": "48-64px per tile",
+      "palette": "blue-grey, white, cold desaturated winter tones",
+      "pixel_art": true,
+      "animated": true,
+      "compatibility_group": "pixel-gdm",
+      "notes": "GDM creator. Winter village buildings, doors, animated elements. Direct sibling to tropicalislandgameassets."
     }
   }
 ]
