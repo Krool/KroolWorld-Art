@@ -17,7 +17,7 @@ from collections import defaultdict
 ART_DIR = Path(__file__).parent.parent
 CATALOG_DIR = Path(__file__).parent
 
-SKIP_DIRS = {"_catalog"}
+SKIP_DIRS = {"_catalog", "Settings", "TutorialInfo"}
 SKIP_EXTS = {".meta", ".db", ".DS_Store", ""}
 TEXT_EXTS  = {".txt", ".md", ".csv"}
 
@@ -225,6 +225,69 @@ PACK_CONTEXT = {
         "style": "pixel art, winter",
         "usage": "Winter village maps, snowy town environments, cabin interiors, RPGMaker-compatible",
         "tags": ["tileset", "winter", "village", "snow", "cabin", "door", "animated", "rpgmaker", "pixel"],
+    },
+    "Area730": {
+        "description": "Comprehensive game UI kit — sliced PNG components for buttons, bars, dialog boxes, icons, loading screens, menus, notifications, panels, progress bars, and sliders. Includes AI source files.",
+        "category": "ui",
+        "style": "stylized, modern",
+        "usage": "Game UI — menus, HUD, dialog boxes, buttons, progress bars, notifications",
+        "tags": ["ui", "button", "panel", "dialog", "menu", "hud", "bar", "slider", "icon", "notification"],
+    },
+    "Casual_Hit": {
+        "description": "Casual hit/impact visual effect prefabs with textures. 4 hit variations in 4 color variants (blue, red, yellow, normal). Unity prefabs with materials and shaders.",
+        "category": "effects",
+        "style": "casual, cartoon",
+        "usage": "Hit/impact particle effects, damage feedback, combat VFX",
+        "tags": ["effect", "particle", "hit", "impact", "vfx", "casual", "unity"],
+    },
+    "FantasyBackgrounds": {
+        "description": "6 painted fantasy background illustrations — Arctic, Dead Sea, Desert, Forest, Volcano, Wood. Includes PSD source file.",
+        "category": "backgrounds",
+        "style": "painted, fantasy",
+        "usage": "Scene backgrounds, title screens, menu backgrounds, battle arenas",
+        "tags": ["background", "painted", "fantasy", "environment", "scene"],
+    },
+    "FantasyIconsMegaPack": {
+        "description": "Massive hand-drawn fantasy icon set with 2672+ icons across 13 categories: armor, weapons, potions, gems, food, herbs, loot, magic items, engineering/craft, and resources. Multiple color variants per icon. 256×256px with transparent backgrounds.",
+        "category": "icons",
+        "style": "hand-drawn, fantasy",
+        "usage": "Inventory icons, loot, crafting menus, shops, item tooltips — comprehensive RPG icon coverage",
+        "tags": ["icon", "ui", "weapon", "armor", "potion", "gem", "food", "crafting", "loot", "magic", "resource", "fantasy", "inventory"],
+    },
+    "FantasyInventoryIcons": {
+        "description": "2300+ fantasy inventory item icons organized by equipment slot (armor, boots, belts, bows, capes, gloves, helmets, masks, shields, weapons, etc.) with themed variants (Knights, Samurai, Vikings, SandLords, SwampLords, Christmas). Includes sprite atlases, background plates, and UI frame components.",
+        "category": "icons",
+        "style": "stylized, fantasy",
+        "usage": "Inventory system UI, equipment slots, item management, character loadout screens",
+        "tags": ["icon", "inventory", "equipment", "armor", "weapon", "shield", "helmet", "ui", "fantasy", "rpg"],
+    },
+    "HeroEditor": {
+        "description": "Comprehensive character customization system — Fantasy and Undead hero variants with body part customization (hair, eyes, ears, scars, facial hair), equipment icons across multiple themed sets, 39 animations (walk, run, jump, crouch, climb, combat), ranged weapon assets, and 54+ WAV sound effects. Includes C# inventory/shop system scripts.",
+        "category": "characters",
+        "style": "pixel art, fantasy",
+        "usage": "Character creation/customization, RPG equipment systems, animated player/NPC sprites",
+        "tags": ["character", "sprite", "animated", "customization", "equipment", "armor", "weapon", "fantasy", "undead", "rpg", "pixel", "sound"],
+    },
+    "RPG Unitframe #1": {
+        "description": "RPG unit frame UI components — health/mana/energy bars, character portrait frames in 3 tiers (simple, half-elite, elite), level indicators, and frame masks. Includes PSD source.",
+        "category": "ui",
+        "style": "stylized, fantasy",
+        "usage": "Player/NPC unit frames, health bars, portrait displays, party UI",
+        "tags": ["ui", "unitframe", "healthbar", "portrait", "hud", "bar", "rpg", "fantasy"],
+    },
+    "Skill_Icon_Pack": {
+        "description": "250+ skill/ability icons organized by color theme — blue, red, green, yellow, gray, emerald, violet — plus addon/modifier icons. Each color may represent a skill school or element.",
+        "category": "icons",
+        "style": "stylized, fantasy",
+        "usage": "Skill trees, ability bars, spell icons, talent systems",
+        "tags": ["icon", "skill", "ability", "spell", "ui", "fantasy", "rpg"],
+    },
+    "Universal Sound FX": {
+        "description": "Massive professional sound effects library with 10,000+ mono WAV files across 75+ categories including: 8-bit retro, actions, ambiences, animals, battles, buttons, cartoon, construction, doors, electricity, explosions, foley, glass, gore, impacts, industrial, magic, mechanical, monsters, music stingers, nature, notifications, sci-fi, UI, vehicles, voices, water, weather, and more.",
+        "category": "audio",
+        "style": "professional, universal",
+        "usage": "Game sound effects — UI, combat, environment, creatures, foley, ambient, everything",
+        "tags": ["audio", "sfx", "sound", "wav", "ui", "combat", "ambient", "foley", "explosion", "impact", "creature", "environment"],
     },
 }
 

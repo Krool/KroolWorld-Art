@@ -95,6 +95,243 @@
     }
   },
   {
+    "pack": "Area730",
+    "description": "Comprehensive game UI kit \u2014 sliced PNG components for buttons, bars, dialog boxes, icons, loading screens, menus, notifications, panels, progress bars, and sliders. Includes AI source files.",
+    "category": "ui",
+    "style": "stylized, modern",
+    "usage": "Game UI \u2014 menus, HUD, dialog boxes, buttons, progress bars, notifications",
+    "tags": [
+      "ui",
+      "button",
+      "panel",
+      "dialog",
+      "menu",
+      "hud",
+      "bar",
+      "slider",
+      "icon",
+      "notification"
+    ],
+    "file_count": 468,
+    "file_types": {
+      ".png": 465,
+      ".ai": 3
+    },
+    "visual": {
+      "art_style": "stylized, modern",
+      "render_method": "vector/rasterized UI components, sliced PNGs",
+      "outline": "subtle rounded edges",
+      "perspective": "flat UI",
+      "approx_resolution": "varied, scalable sliced components",
+      "palette": "multiple color themes across button/panel sets",
+      "pixel_art": false,
+      "animated": false,
+      "compatibility_group": "style-independent",
+      "notes": "Complete game UI kit. Sliced PNG components for buttons, bars, dialogs, menus, panels, sliders, loading screens. Includes AI source files."
+    }
+  },
+  {
+    "pack": "Casual_Hit",
+    "description": "Casual hit/impact visual effect prefabs with textures. 4 hit variations in 4 color variants (blue, red, yellow, normal). Unity prefabs with materials and shaders.",
+    "category": "effects",
+    "style": "casual, cartoon",
+    "usage": "Hit/impact particle effects, damage feedback, combat VFX",
+    "tags": [
+      "effect",
+      "particle",
+      "hit",
+      "impact",
+      "vfx",
+      "casual",
+      "unity"
+    ],
+    "file_count": 31,
+    "file_types": {
+      ".mat": 7,
+      ".prefab": 16,
+      ".cs": 1,
+      ".shadergraph": 1,
+      ".png": 6
+    },
+    "visual": {
+      "art_style": "casual, cartoon",
+      "render_method": "particle textures and Unity prefabs",
+      "outline": "none (glow/particle effects)",
+      "perspective": "flat/screen-space",
+      "approx_resolution": "varied texture sizes",
+      "palette": "blue, red, yellow, neutral color variants",
+      "pixel_art": false,
+      "animated": true,
+      "compatibility_group": "style-independent",
+      "notes": "Unity hit/impact VFX. 4 hit variations \u00d7 4 colors. Requires Unity for prefab usage; textures usable standalone."
+    }
+  },
+  {
+    "pack": "FantasyBackgrounds",
+    "description": "6 painted fantasy background illustrations \u2014 Arctic, Dead Sea, Desert, Forest, Volcano, Wood. Includes PSD source file.",
+    "category": "backgrounds",
+    "style": "painted, fantasy",
+    "usage": "Scene backgrounds, title screens, menu backgrounds, battle arenas",
+    "tags": [
+      "background",
+      "painted",
+      "fantasy",
+      "environment",
+      "scene"
+    ],
+    "file_count": 8,
+    "file_types": {
+      ".png": 6,
+      ".psd": 1,
+      ".unity": 1
+    },
+    "visual": {
+      "art_style": "painted, fantasy",
+      "render_method": "digital painting",
+      "outline": "none",
+      "perspective": "landscape scene, front-facing",
+      "approx_resolution": "high resolution scene images",
+      "palette": "varied per scene \u2014 icy blues, desert golds, forest greens, volcanic reds",
+      "pixel_art": false,
+      "animated": false,
+      "compatibility_group": "painted-scenes",
+      "notes": "6 painted fantasy backgrounds: Arctic, Dead Sea, Desert, Forest, Volcano, Wood. Includes PSD source. Good for title screens, menus, battle arenas."
+    }
+  },
+  {
+    "pack": "FantasyIconsMegaPack",
+    "description": "Massive hand-drawn fantasy icon set with 2672+ icons across 13 categories: armor, weapons, potions, gems, food, herbs, loot, magic items, engineering/craft, and resources. Multiple color variants per icon. 256\u00d7256px with transparent backgrounds.",
+    "category": "icons",
+    "style": "hand-drawn, fantasy",
+    "usage": "Inventory icons, loot, crafting menus, shops, item tooltips \u2014 comprehensive RPG icon coverage",
+    "tags": [
+      "icon",
+      "ui",
+      "weapon",
+      "armor",
+      "potion",
+      "gem",
+      "food",
+      "crafting",
+      "loot",
+      "magic",
+      "resource",
+      "fantasy",
+      "inventory"
+    ],
+    "file_count": 4854,
+    "file_types": {
+      ".txt": 1,
+      ".psd": 142,
+      ".png": 4711
+    },
+    "visual": {
+      "art_style": "hand-drawn, illustrated",
+      "render_method": "hand-drawn digital illustration",
+      "outline": "ink-style outlines",
+      "perspective": "flat icon, front-facing",
+      "approx_resolution": "256px per icon",
+      "palette": "multiple color variants per icon (black, colored)",
+      "pixel_art": false,
+      "animated": false,
+      "compatibility_group": "illustrated-icons",
+      "notes": "2672+ hand-drawn icons across 13 categories. Transparent backgrounds. Multiple color variants. Covers weapons, armor, potions, gems, food, herbs, loot, magic, crafting, resources."
+    }
+  },
+  {
+    "pack": "FantasyInventoryIcons",
+    "description": "2300+ fantasy inventory item icons organized by equipment slot (armor, boots, belts, bows, capes, gloves, helmets, masks, shields, weapons, etc.) with themed variants (Knights, Samurai, Vikings, SandLords, SwampLords, Christmas). Includes sprite atlases, background plates, and UI frame components.",
+    "category": "icons",
+    "style": "stylized, fantasy",
+    "usage": "Inventory system UI, equipment slots, item management, character loadout screens",
+    "tags": [
+      "icon",
+      "inventory",
+      "equipment",
+      "armor",
+      "weapon",
+      "shield",
+      "helmet",
+      "ui",
+      "fantasy",
+      "rpg"
+    ],
+    "file_count": 2338,
+    "file_types": {
+      ".spriteatlas": 1,
+      ".png": 2333,
+      ".psd": 3,
+      ".cs": 1
+    },
+    "visual": {
+      "art_style": "stylized, illustrated",
+      "render_method": "digital illustration with clean rendering",
+      "outline": "subtle outlines",
+      "perspective": "flat icon, front-facing",
+      "approx_resolution": "varied, sprite atlas format",
+      "palette": "themed color sets per variant (Knights, Samurai, Vikings, etc.)",
+      "pixel_art": false,
+      "animated": false,
+      "compatibility_group": "illustrated-icons",
+      "notes": "2300+ equipment slot icons with themed variants. Includes sprite atlases, background plates, and UI frame components. Organized by slot type (armor, boots, helmets, weapons, etc.)."
+    }
+  },
+  {
+    "pack": "HeroEditor",
+    "description": "Comprehensive character customization system \u2014 Fantasy and Undead hero variants with body part customization (hair, eyes, ears, scars, facial hair), equipment icons across multiple themed sets, 39 animations (walk, run, jump, crouch, climb, combat), ranged weapon assets, and 54+ WAV sound effects. Includes C# inventory/shop system scripts.",
+    "category": "characters",
+    "style": "pixel art, fantasy",
+    "usage": "Character creation/customization, RPG equipment systems, animated player/NPC sprites",
+    "tags": [
+      "character",
+      "sprite",
+      "animated",
+      "customization",
+      "equipment",
+      "armor",
+      "weapon",
+      "fantasy",
+      "undead",
+      "rpg",
+      "pixel",
+      "sound"
+    ],
+    "file_count": 4187,
+    "file_types": {
+      ".unity": 4,
+      ".pdf": 3,
+      ".chm": 2,
+      ".controller": 2,
+      ".anim": 39,
+      ".spriteatlas": 8,
+      ".ttf": 1,
+      ".png": 3912,
+      ".prefab": 25,
+      ".mat": 14,
+      ".wav": 54,
+      ".mp3": 2,
+      ".txt": 4,
+      ".cs": 104,
+      ".dll": 2,
+      ".shader": 1,
+      ".zip": 1,
+      ".asset": 6,
+      ".psd": 3
+    },
+    "visual": {
+      "art_style": "pixel art",
+      "render_method": "pixel art with skeletal-style part swapping",
+      "outline": "black pixel outline",
+      "perspective": "side-view / front-facing",
+      "approx_resolution": "32-64px per character frame",
+      "palette": "varied, fantasy RPG tones",
+      "pixel_art": true,
+      "animated": true,
+      "compatibility_group": "pixel-small",
+      "notes": "Character customization system. Fantasy + Undead heroes with swappable body parts and equipment. 39 animations, 54+ WAV sounds. Includes C# scripts for inventory/shop. Multiple themed equipment sets."
+    }
+  },
+  {
     "pack": "japantileset",
     "description": "Japanese-themed environment tileset.",
     "category": "tileset",
@@ -347,6 +584,40 @@
       "animated": false,
       "compatibility_group": "stylized-items",
       "notes": "Stylized cartoon potions with thick outlines. Zelda/adventure game aesthetic. Pairs with swordsandshields style."
+    }
+  },
+  {
+    "pack": "RPG Unitframe #1",
+    "description": "RPG unit frame UI components \u2014 health/mana/energy bars, character portrait frames in 3 tiers (simple, half-elite, elite), level indicators, and frame masks. Includes PSD source.",
+    "category": "ui",
+    "style": "stylized, fantasy",
+    "usage": "Player/NPC unit frames, health bars, portrait displays, party UI",
+    "tags": [
+      "ui",
+      "unitframe",
+      "healthbar",
+      "portrait",
+      "hud",
+      "bar",
+      "rpg",
+      "fantasy"
+    ],
+    "file_count": 13,
+    "file_types": {
+      ".psd": 1,
+      ".png": 12
+    },
+    "visual": {
+      "art_style": "stylized, fantasy",
+      "render_method": "digital illustration, UI components",
+      "outline": "decorative frame borders",
+      "perspective": "flat UI",
+      "approx_resolution": "varied component sizes",
+      "palette": "dark fantasy \u2014 gold accents, dark backgrounds",
+      "pixel_art": false,
+      "animated": false,
+      "compatibility_group": "style-independent",
+      "notes": "Unit frame UI kit. Health/mana/energy bars, portrait frames in 3 tiers (simple, half-elite, elite), level indicators, frame masks. Includes PSD source."
     }
   },
   {
@@ -804,6 +1075,40 @@
     }
   },
   {
+    "pack": "Skill_Icon_Pack",
+    "description": "250+ skill/ability icons organized by color theme \u2014 blue, red, green, yellow, gray, emerald, violet \u2014 plus addon/modifier icons. Each color may represent a skill school or element.",
+    "category": "icons",
+    "style": "stylized, fantasy",
+    "usage": "Skill trees, ability bars, spell icons, talent systems",
+    "tags": [
+      "icon",
+      "skill",
+      "ability",
+      "spell",
+      "ui",
+      "fantasy",
+      "rpg"
+    ],
+    "file_count": 255,
+    "file_types": {
+      ".unity": 1,
+      ".lighting": 1,
+      ".png": 253
+    },
+    "visual": {
+      "art_style": "stylized, illustrated",
+      "render_method": "digital illustration with color theming",
+      "outline": "subtle",
+      "perspective": "flat icon, front-facing",
+      "approx_resolution": "varied icon sizes",
+      "palette": "7 color themes: blue, red, green, yellow, gray, emerald, violet",
+      "pixel_art": false,
+      "animated": false,
+      "compatibility_group": "illustrated-icons",
+      "notes": "250+ skill/ability icons organized by color. Each color may represent a skill school or element. Includes addon/modifier icons."
+    }
+  },
+  {
     "pack": "snowforesttilesets",
     "description": "Snow-covered forest tileset with animated elements. Includes Aseprite source files.",
     "category": "tileset",
@@ -906,6 +1211,44 @@
       "animated": true,
       "compatibility_group": "pixel-gdm",
       "notes": "GDM creator. Polished RPGMaker-compatible tileset. Animated shorelines, boats, cliffs. Pairs perfectly with wintervillagegameassets (same creator)."
+    }
+  },
+  {
+    "pack": "Universal Sound FX",
+    "description": "Massive professional sound effects library with 10,000+ mono WAV files across 75+ categories including: 8-bit retro, actions, ambiences, animals, battles, buttons, cartoon, construction, doors, electricity, explosions, foley, glass, gore, impacts, industrial, magic, mechanical, monsters, music stingers, nature, notifications, sci-fi, UI, vehicles, voices, water, weather, and more.",
+    "category": "audio",
+    "style": "professional, universal",
+    "usage": "Game sound effects \u2014 UI, combat, environment, creatures, foley, ambient, everything",
+    "tags": [
+      "audio",
+      "sfx",
+      "sound",
+      "wav",
+      "ui",
+      "combat",
+      "ambient",
+      "foley",
+      "explosion",
+      "impact",
+      "creature",
+      "environment"
+    ],
+    "file_count": 10102,
+    "file_types": {
+      ".txt": 1,
+      ".wav": 10101
+    },
+    "visual": {
+      "art_style": "N/A (audio)",
+      "render_method": "N/A (audio)",
+      "outline": "N/A",
+      "perspective": "N/A",
+      "approx_resolution": "mono WAV files",
+      "palette": "N/A",
+      "pixel_art": false,
+      "animated": false,
+      "compatibility_group": "style-independent",
+      "notes": "10,000+ professional mono WAV sound effects. 75+ categories: 8-bit, actions, ambiences, animals, battles, buttons, cartoon, doors, explosions, foley, impacts, magic, monsters, nature, sci-fi, UI, vehicles, weather, and more."
     }
   },
   {

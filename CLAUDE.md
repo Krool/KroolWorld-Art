@@ -1,6 +1,6 @@
-# KroolWorld Shared Art Library
+# KroolWorld Shared Asset Library
 
-This folder is a shared 2D game asset library. It contains 29 art packs (~32,000 files).
+This folder is a shared game asset library. It contains 38 packs (~55,000 files) — art, UI, icons, sound effects, and more.
 Do not modify the asset folders. Copy assets out to your project using the tools below.
 
 ---
@@ -46,9 +46,12 @@ Read these files before recommending or selecting assets:
 
 ## Key facts for asset recommendations
 
-- Packs fall into **5 style groups** — see `_catalog/style_rules.md` before recommending
+- Packs fall into **5 visual style groups** plus style-independent packs (UI, audio) — see `_catalog/style_rules.md` before recommending
 - Never mix cartoon/illustrated characters (Group D) with pixel art tilesets (Group A/B)
 - The `rpgworlds*` packs are a cohesive family — use them together
 - `tropicalislandgameassets` and `wintervillagegameassets` are siblings by the same creator
-- `rpggame1700plusicons` is the most comprehensive icon set (1700+ items) — check it first for UI icons
+- `rpggame1700plusicons` is the most comprehensive pixel icon set (1700+ items) — check it first for pixel RPG UI icons
+- `FantasyIconsMegaPack` has 2672+ hand-drawn icons — the largest icon pack for non-pixel projects
+- `Universal Sound FX` contains 10,000+ WAV sound effects across 75+ categories — check it first for any sound need
+- `Area730` is a complete game UI kit (buttons, bars, panels, dialogs)
 - Source files (.psd, .aseprite, .scml) are excluded from exports by default

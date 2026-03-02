@@ -1,9 +1,39 @@
 # KroolWorld Art Asset Guide
 
-**Total packs:** 29  
-**Total files:** 32372  
+**Total packs:** 38  
+**Total files:** 54628  
 
 ---
+
+## Audio
+
+### `Universal Sound FX/`
+**10102 files** | Style: professional, universal  
+Massive professional sound effects library with 10,000+ mono WAV files across 75+ categories including: 8-bit retro, actions, ambiences, animals, battles, buttons, cartoon, construction, doors, electricity, explosions, foley, glass, gore, impacts, industrial, magic, mechanical, monsters, music stingers, nature, notifications, sci-fi, UI, vehicles, voices, water, weather, and more.  
+**Usage:** Game sound effects — UI, combat, environment, creatures, foley, ambient, everything  
+**Tags:** audio, sfx, sound, wav, ui, combat, ambient, foley, explosion, impact, creature, environment  
+**File types:** .txt(1), .wav(10101)  
+**Art style:** N/A (audio)  
+**Perspective:** N/A  
+**Resolution:** mono WAV files  
+**Palette:** N/A  
+**Compatibility group:** style-independent  
+**Notes:** 10,000+ professional mono WAV sound effects. 75+ categories: 8-bit, actions, ambiences, animals, battles, buttons, cartoon, doors, explosions, foley, impacts, magic, monsters, nature, sci-fi, UI, vehicles, weather, and more.  
+
+## Backgrounds
+
+### `FantasyBackgrounds/`
+**8 files** | Style: painted, fantasy  
+6 painted fantasy background illustrations — Arctic, Dead Sea, Desert, Forest, Volcano, Wood. Includes PSD source file.  
+**Usage:** Scene backgrounds, title screens, menu backgrounds, battle arenas  
+**Tags:** background, painted, fantasy, environment, scene  
+**File types:** .png(6), .psd(1), .unity(1)  
+**Art style:** painted, fantasy  
+**Perspective:** landscape scene, front-facing  
+**Resolution:** high resolution scene images  
+**Palette:** varied per scene — icy blues, desert golds, forest greens, volcanic reds  
+**Compatibility group:** painted-scenes  
+**Notes:** 6 painted fantasy backgrounds: Arctic, Dead Sea, Desert, Forest, Volcano, Wood. Includes PSD source. Good for title screens, menus, battle arenas.  
 
 ## Buildings
 
@@ -48,6 +78,19 @@ Cute/chibi-style 2D character sprites with multiple animation states. Includes P
 **Compatibility group:** chibi-cartoon  
 **Notes:** Clean chibi characters, thick outlines. Pairs well with segel2dcharactersbundle.  
 
+### `HeroEditor/`
+**4187 files** | Style: pixel art, fantasy  
+Comprehensive character customization system — Fantasy and Undead hero variants with body part customization (hair, eyes, ears, scars, facial hair), equipment icons across multiple themed sets, 39 animations (walk, run, jump, crouch, climb, combat), ranged weapon assets, and 54+ WAV sound effects. Includes C# inventory/shop system scripts.  
+**Usage:** Character creation/customization, RPG equipment systems, animated player/NPC sprites  
+**Tags:** character, sprite, animated, customization, equipment, armor, weapon, fantasy, undead, rpg, pixel, sound  
+**File types:** .anim(39), .asset(6), .chm(2), .controller(2), .cs(104), .dll(2), .mat(14), .mp3(2), .pdf(3), .png(3912), .prefab(25), .psd(3), .shader(1), .spriteatlas(8), .ttf(1), .txt(4), .unity(4), .wav(54), .zip(1)  
+**Art style:** pixel art  
+**Perspective:** side-view / front-facing  
+**Resolution:** 32-64px per character frame  
+**Palette:** varied, fantasy RPG tones  
+**Compatibility group:** pixel-small  
+**Notes:** Character customization system. Fantasy + Undead heroes with swappable body parts and equipment. 39 animations, 54+ WAV sounds. Includes C# scripts for inventory/shop. Multiple themed equipment sets.  
+
 ### `medievalfantasycharacters/`
 **5606 files** | Style: pixel art, medieval, fantasy  
 Large pack of medieval fantasy character sprites with many classes and animation states.  
@@ -87,7 +130,48 @@ Large bundle of 2D character sprites by Segel. Includes Spriter (SCML) animation
 **Compatibility group:** chibi-cartoon  
 **Notes:** Large chibi-style characters for side-scrolling. Spriter SCML skeletal animation. Very high quality. Pairs with 2dcutecharacterspack aesthetic.  
 
+## Effects
+
+### `Casual_Hit/`
+**31 files** | Style: casual, cartoon  
+Casual hit/impact visual effect prefabs with textures. 4 hit variations in 4 color variants (blue, red, yellow, normal). Unity prefabs with materials and shaders.  
+**Usage:** Hit/impact particle effects, damage feedback, combat VFX  
+**Tags:** effect, particle, hit, impact, vfx, casual, unity  
+**File types:** .cs(1), .mat(7), .png(6), .prefab(16), .shadergraph(1)  
+**Art style:** casual, cartoon  
+**Perspective:** flat/screen-space  
+**Resolution:** varied texture sizes  
+**Palette:** blue, red, yellow, neutral color variants  
+**Compatibility group:** style-independent  
+**Notes:** Unity hit/impact VFX. 4 hit variations × 4 colors. Requires Unity for prefab usage; textures usable standalone.  
+
 ## Icons
+
+### `FantasyIconsMegaPack/`
+**4854 files** | Style: hand-drawn, fantasy  
+Massive hand-drawn fantasy icon set with 2672+ icons across 13 categories: armor, weapons, potions, gems, food, herbs, loot, magic items, engineering/craft, and resources. Multiple color variants per icon. 256×256px with transparent backgrounds.  
+**Usage:** Inventory icons, loot, crafting menus, shops, item tooltips — comprehensive RPG icon coverage  
+**Tags:** icon, ui, weapon, armor, potion, gem, food, crafting, loot, magic, resource, fantasy, inventory  
+**File types:** .png(4711), .psd(142), .txt(1)  
+**Art style:** hand-drawn, illustrated  
+**Perspective:** flat icon, front-facing  
+**Resolution:** 256px per icon  
+**Palette:** multiple color variants per icon (black, colored)  
+**Compatibility group:** illustrated-icons  
+**Notes:** 2672+ hand-drawn icons across 13 categories. Transparent backgrounds. Multiple color variants. Covers weapons, armor, potions, gems, food, herbs, loot, magic, crafting, resources.  
+
+### `FantasyInventoryIcons/`
+**2338 files** | Style: stylized, fantasy  
+2300+ fantasy inventory item icons organized by equipment slot (armor, boots, belts, bows, capes, gloves, helmets, masks, shields, weapons, etc.) with themed variants (Knights, Samurai, Vikings, SandLords, SwampLords, Christmas). Includes sprite atlases, background plates, and UI frame components.  
+**Usage:** Inventory system UI, equipment slots, item management, character loadout screens  
+**Tags:** icon, inventory, equipment, armor, weapon, shield, helmet, ui, fantasy, rpg  
+**File types:** .cs(1), .png(2333), .psd(3), .spriteatlas(1)  
+**Art style:** stylized, illustrated  
+**Perspective:** flat icon, front-facing  
+**Resolution:** varied, sprite atlas format  
+**Palette:** themed color sets per variant (Knights, Samurai, Vikings, etc.)  
+**Compatibility group:** illustrated-icons  
+**Notes:** 2300+ equipment slot icons with themed variants. Includes sprite atlases, background plates, and UI frame components. Organized by slot type (armor, boots, helmets, weapons, etc.).  
 
 ### `medievalskillandabilityicons/`
 **361 files** | Style: stylized, fantasy  
@@ -140,6 +224,19 @@ RPG inventory item icons version 1. Includes PSD source files.
 **Palette:** varied, muted RPG tones  
 **Compatibility group:** pixel-small  
 **Notes:** Small pixel art inventory items. Similar scale/style to rpggame1700plusicons.  
+
+### `Skill_Icon_Pack/`
+**255 files** | Style: stylized, fantasy  
+250+ skill/ability icons organized by color theme — blue, red, green, yellow, gray, emerald, violet — plus addon/modifier icons. Each color may represent a skill school or element.  
+**Usage:** Skill trees, ability bars, spell icons, talent systems  
+**Tags:** icon, skill, ability, spell, ui, fantasy, rpg  
+**File types:** .lighting(1), .png(253), .unity(1)  
+**Art style:** stylized, illustrated  
+**Perspective:** flat icon, front-facing  
+**Resolution:** varied icon sizes  
+**Palette:** 7 color themes: blue, red, green, yellow, gray, emerald, violet  
+**Compatibility group:** illustrated-icons  
+**Notes:** 250+ skill/ability icons organized by color. Each color may represent a skill school or element. Includes addon/modifier icons.  
 
 ## Items
 
@@ -358,6 +455,34 @@ Winter village asset pack — tiles, doors, animated elements, cabin/shed struct
 **Palette:** blue-grey, white, cold desaturated winter tones  
 **Compatibility group:** pixel-gdm  
 **Notes:** GDM creator. Winter village buildings, doors, animated elements. Direct sibling to tropicalislandgameassets.  
+
+## Ui
+
+### `Area730/`
+**468 files** | Style: stylized, modern  
+Comprehensive game UI kit — sliced PNG components for buttons, bars, dialog boxes, icons, loading screens, menus, notifications, panels, progress bars, and sliders. Includes AI source files.  
+**Usage:** Game UI — menus, HUD, dialog boxes, buttons, progress bars, notifications  
+**Tags:** ui, button, panel, dialog, menu, hud, bar, slider, icon, notification  
+**File types:** .ai(3), .png(465)  
+**Art style:** stylized, modern  
+**Perspective:** flat UI  
+**Resolution:** varied, scalable sliced components  
+**Palette:** multiple color themes across button/panel sets  
+**Compatibility group:** style-independent  
+**Notes:** Complete game UI kit. Sliced PNG components for buttons, bars, dialogs, menus, panels, sliders, loading screens. Includes AI source files.  
+
+### `RPG Unitframe #1/`
+**13 files** | Style: stylized, fantasy  
+RPG unit frame UI components — health/mana/energy bars, character portrait frames in 3 tiers (simple, half-elite, elite), level indicators, and frame masks. Includes PSD source.  
+**Usage:** Player/NPC unit frames, health bars, portrait displays, party UI  
+**Tags:** ui, unitframe, healthbar, portrait, hud, bar, rpg, fantasy  
+**File types:** .png(12), .psd(1)  
+**Art style:** stylized, fantasy  
+**Perspective:** flat UI  
+**Resolution:** varied component sizes  
+**Palette:** dark fantasy — gold accents, dark backgrounds  
+**Compatibility group:** style-independent  
+**Notes:** Unit frame UI kit. Health/mana/energy bars, portrait frames in 3 tiers (simple, half-elite, elite), level indicators, frame masks. Includes PSD source.  
 
 ## Weapons
 

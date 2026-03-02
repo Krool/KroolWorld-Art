@@ -9,8 +9,9 @@ decisions.
 
 ## Style Groups
 
-The 29 packs fall into **5 distinct visual styles**. Mixing across groups will create
+The visual art packs fall into **5 distinct visual styles**. Mixing across groups will create
 visual inconsistency. Within a group, packs are safe to combine.
+Some packs are **style-independent** (UI kits, audio, VFX) and can be used with any group — see the end of this document.
 
 ---
 
@@ -28,6 +29,7 @@ visual inconsistency. Within a group, packs are safe to combine.
 | `outdoorandforesttileset` | Forest tiles + animated chest |
 | `pixelhouseandfurnies` | Interior furniture, animated fireplace |
 | `snowforesttilesets` | Snow/ice tiles, animated chest |
+| `HeroEditor` | Customizable fantasy/undead characters, equipment, animations |
 
 **Palette:** Varied but generally muted/earthy or classic bright RPG colors
 **Resolution:** 16–32px per tile/sprite
@@ -106,6 +108,36 @@ visual inconsistency. Within a group, packs are safe to combine.
 **Perspective:** Flat icon or portrait bust
 **Note:** All suit a "premium UI" look. `medievalskill` + `medievaltechnology` are a matched pair.
 `rpgweaponsv1` is the odd one out (transparent BG, no dark frame) but still fits the painted aesthetic.
+`FantasyBackgrounds` provides painted scene backgrounds (arctic, desert, forest, volcano, etc.).
+
+---
+
+### Group F — Hand-Drawn / Illustrated Icons
+*High-detail hand-drawn icons. Not pixel art, not painted-realism. Distinct illustrated style.*
+
+| Pack | Notes |
+|---|---|
+| `FantasyIconsMegaPack` | 2672+ icons across 13 categories, multiple color variants, 256px |
+| `FantasyInventoryIcons` | 2300+ equipment slot icons with themed variants (Knights, Samurai, Vikings) |
+| `Skill_Icon_Pack` | 250+ skill icons organized by color theme |
+
+**Palette:** Varied — each pack has its own palette; color variants available
+**Resolution:** 256px per icon (FantasyIcons), varied others
+**Perspective:** Flat icon, front-facing
+**Note:** These icon packs work as UI overlays with any style group, similar to Group E.
+`FantasyIconsMegaPack` and `FantasyInventoryIcons` complement each other well (items vs. equipment slots).
+
+---
+
+### Style-Independent Packs
+*These packs are not visual-style-specific and can be used alongside any style group.*
+
+| Pack | Type | Notes |
+|---|---|---|
+| `Universal Sound FX` | Audio | 10,000+ WAV sound effects, 75+ categories |
+| `Area730` | UI Kit | Sliced PNG components — buttons, bars, dialogs, menus, panels |
+| `RPG Unitframe #1` | UI Kit | Unit frame components — health/mana bars, portrait frames |
+| `Casual_Hit` | VFX | Hit/impact effect prefabs (Unity) with textures |
 
 ---
 
@@ -120,6 +152,8 @@ Group C only          Modern RPGMaker project
 Group D only          Side-scroll adventure or chibi action game
 Group E only          Premium UI layer (skill trees, inventory, portraits)
 Group A/B + Group E   Pixel game world + premium UI layer (common combo)
+Group A/B + Group F   Pixel game world + illustrated icon UI layer
+Any + Style-Indep.    UI kits, audio, and VFX work with everything
 
 AVOID MIXING
 ─────────────────────────────────────────────────────
@@ -127,6 +161,7 @@ Group A + Group C     Scale mismatch (16px chars on 64px tiles)
 Group D + Group A/B   Pixel art world with cartoon characters (style clash)
 Group E + Group D     Painted realism with thick-outline cartoon (style clash)
 Group C + Group D     Polished pixel tiles with cartoon characters (scale/style clash)
+Group E + Group F     Two different illustrated icon styles side-by-side (jarring)
 ```
 
 ---
@@ -173,4 +208,8 @@ When recommending assets from this collection:
 4. **tropicalislandgameassets + wintervillagegameassets** are sibling packs by the same creator — they share format and quality
 5. **Group E packs are UI layers** — they overlay a game world, they don't define it
 6. **segel2dcharactersbundle** uses Spriter skeletal animation (SCML files) — not frame-by-frame sprite sheets
-7. **rpggame1700plusicons** is the most complete icon set — use it first for inventory/UI before reaching for other icon packs
+7. **rpggame1700plusicons** is the most complete pixel icon set — use it first for pixel RPG inventory/UI
+8. **FantasyIconsMegaPack** is the largest non-pixel icon set (2672+ items) — use it for illustrated/hand-drawn UI
+9. **Universal Sound FX** has 10,000+ sound effects — check it first for any audio need
+10. **Area730** and **RPG Unitframe #1** are UI kits — style-independent, usable with any visual group
+11. **Casual_Hit** contains Unity prefabs — only useful in Unity projects

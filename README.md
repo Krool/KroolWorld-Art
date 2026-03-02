@@ -1,6 +1,6 @@
-# KroolWorld Art Library
+# KroolWorld Asset Library
 
-Shared 2D game asset library for KroolWorld projects. Contains 29 art packs (~32,000 files) with a catalog, search tool, and export tool for pulling assets into other projects.
+Shared game asset library for KroolWorld projects. Contains 38 packs (~55,000 files) — art, UI, icons, sound effects, and more — with a catalog, search tool, and export tool for pulling assets into other projects.
 
 The art files themselves are local-only. This repo tracks the catalog metadata and tooling.
 
@@ -10,13 +10,17 @@ The art files themselves are local-only. This repo tracks the catalog metadata a
 
 | Pack category | Packs |
 |---|---|
-| Characters | Cute chibi, medieval fantasy, survival, Segel bundle |
+| Characters | Cute chibi, medieval fantasy, survival, Segel bundle, Hero Editor (customizable) |
 | Tilesets | Cave, dungeon, japan, forest, grassland, marsh, snow, tropical island, winter village |
-| Icons | 1700+ RPG icons, inventory icons, skill/ability icons, tech icons |
+| Icons | 1700+ RPG pixel icons, 2672+ hand-drawn fantasy icons, inventory icons, skill icons, tech icons |
+| UI | Game UI kit (Area730), RPG unit frames, skill icon pack |
 | Weapons | Pixel weapons, painted weapons, swords & shields |
 | Items | Potion bottles, RPG item sets |
 | Buildings | Houses, interiors, decorative props |
 | Portraits | Character portrait paintings |
+| Backgrounds | Fantasy painted backgrounds (arctic, desert, forest, volcano, etc.) |
+| Effects | Hit/impact VFX (Casual Hit) |
+| Audio | 10,000+ universal sound effects (75+ categories) |
 
 Full pack listing: [`_catalog/GUIDE.md`](_catalog/GUIDE.md)
 Style compatibility rules: [`_catalog/style_rules.md`](_catalog/style_rules.md)
@@ -111,7 +115,7 @@ Example manifest:
 | `_catalog/style_rules.md` | Style groups and compatibility rules |
 | `_catalog/visual_notes.json` | Visual metadata per pack (style, scale, palette) |
 | `_catalog/packs.json` | Machine-readable pack data |
-| `_catalog/assets.jsonl` | One record per file (32k+ entries) |
+| `_catalog/assets.jsonl` | One record per file (54k+ entries) |
 | `_catalog/search.py` | Search CLI |
 | `_catalog/export.py` | Export/copy CLI |
 | `_catalog/generate_catalog.py` | Regenerates all catalog files |
