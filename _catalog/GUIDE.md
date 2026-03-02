@@ -1,7 +1,7 @@
 # KroolWorld Art Asset Guide
 
-**Total packs:** 38  
-**Total files:** 54628  
+**Total packs:** 39  
+**Total files:** 55095  
 
 ---
 
@@ -129,6 +129,19 @@ Large bundle of 2D character sprites by Segel. Includes Spriter (SCML) animation
 **Palette:** clean, saturated, classic anime-adjacent colors  
 **Compatibility group:** chibi-cartoon  
 **Notes:** Large chibi-style characters for side-scrolling. Spriter SCML skeletal animation. Very high quality. Pairs with 2dcutecharacterspack aesthetic.  
+
+### `Tiny RPG Character Asset Pack v1.03b -Full 20 Characters/`
+**467 files** | Style: pixel art, fantasy  
+20 tiny pixel art RPG characters with full animation sets (idle, walk, attack, death, hurt, block, heal). Includes heroes (Knight, Archer, Wizard, Priest, Soldier, Swordsman, Lancer), enemies (Orc, Skeleton, Slime, Werebear, Werewolf), and variants. Provides shadow sprites, split VFX overlays, and projectile assets (arrows, magic). Includes Aseprite source files.  
+**Usage:** Side-view RPG battle characters, combat sprites, player and enemy characters  
+**Tags:** character, sprite, animated, pixel, fantasy, rpg, combat, knight, wizard, orc, skeleton, side-view  
+**File types:** .aseprite(20), .png(447)  
+**Art style:** pixel art  
+**Perspective:** side-view / front-facing  
+**Resolution:** 16-24px character height on 100x100 frames (also 32x32 projectiles)  
+**Palette:** muted fantasy tones — dark armor greys, greens, browns, bone white  
+**Compatibility group:** pixel-small  
+**Notes:** 20 tiny side-view RPG characters: heroes (Knight, Archer, Wizard, Priest, Soldier, Swordsman, Lancer, Knight Templar), enemies (Orc, Armored Orc, Elite Orc, Orc Rider, Skeleton, Armored Skeleton, Greatsword Skeleton, Skeleton Archer, Slime, Werebear, Werewolf). Full animation sets (idle, walk, attack, death, hurt, block, heal). Includes shadow sprites, split VFX overlays, arrow/magic projectiles, and Aseprite sources. Side-view perspective suits battle scenes and side-scrolling combat. Pairs with HeroEditor for side-view pixel characters.  
 
 ## Effects
 

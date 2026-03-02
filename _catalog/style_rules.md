@@ -30,10 +30,11 @@ Some packs are **style-independent** (UI kits, audio, VFX) and can be used with 
 | `pixelhouseandfurnies` | Interior furniture, animated fireplace |
 | `snowforesttilesets` | Snow/ice tiles, animated chest |
 | `HeroEditor` | Customizable fantasy/undead characters, equipment, animations |
+| `Tiny RPG Character Asset Pack v1.03b -Full 20 Characters` | 20 tiny side-view battle characters (heroes + enemies), full animations |
 
 **Palette:** Varied but generally muted/earthy or classic bright RPG colors
 **Resolution:** 16–32px per tile/sprite
-**Perspective:** Top-down, 4 or 8-directional
+**Perspective:** Top-down, 4 or 8-directional; side-view for battle characters
 
 ---
 

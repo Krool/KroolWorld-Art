@@ -1,6 +1,6 @@
 # KroolWorld Shared Asset Library
 
-This folder is a shared game asset library. It contains 38 packs (~55,000 files) — art, UI, icons, sound effects, and more.
+This folder is a shared game asset library. It contains 39 packs (~55,000 files) — art, UI, icons, sound effects, and more.
 Do not modify the asset folders. Copy assets out to your project using the tools below.
 
 ---

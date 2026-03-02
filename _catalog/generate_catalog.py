@@ -289,6 +289,13 @@ PACK_CONTEXT = {
         "usage": "Game sound effects — UI, combat, environment, creatures, foley, ambient, everything",
         "tags": ["audio", "sfx", "sound", "wav", "ui", "combat", "ambient", "foley", "explosion", "impact", "creature", "environment"],
     },
+    "Tiny RPG Character Asset Pack v1.03b -Full 20 Characters": {
+        "description": "20 tiny pixel art RPG characters with full animation sets (idle, walk, attack, death, hurt, block, heal). Includes heroes (Knight, Archer, Wizard, Priest, Soldier, Swordsman, Lancer), enemies (Orc, Skeleton, Slime, Werebear, Werewolf), and variants. Provides shadow sprites, split VFX overlays, and projectile assets (arrows, magic). Includes Aseprite source files.",
+        "category": "characters",
+        "style": "pixel art, fantasy",
+        "usage": "Side-view RPG battle characters, combat sprites, player and enemy characters",
+        "tags": ["character", "sprite", "animated", "pixel", "fantasy", "rpg", "combat", "knight", "wizard", "orc", "skeleton", "side-view"],
+    },
 }
 
 # ── Tag inference from filename patterns ───────────────────────────────────────

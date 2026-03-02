@@ -1175,6 +1175,44 @@
     }
   },
   {
+    "pack": "Tiny RPG Character Asset Pack v1.03b -Full 20 Characters",
+    "description": "20 tiny pixel art RPG characters with full animation sets (idle, walk, attack, death, hurt, block, heal). Includes heroes (Knight, Archer, Wizard, Priest, Soldier, Swordsman, Lancer), enemies (Orc, Skeleton, Slime, Werebear, Werewolf), and variants. Provides shadow sprites, split VFX overlays, and projectile assets (arrows, magic). Includes Aseprite source files.",
+    "category": "characters",
+    "style": "pixel art, fantasy",
+    "usage": "Side-view RPG battle characters, combat sprites, player and enemy characters",
+    "tags": [
+      "character",
+      "sprite",
+      "animated",
+      "pixel",
+      "fantasy",
+      "rpg",
+      "combat",
+      "knight",
+      "wizard",
+      "orc",
+      "skeleton",
+      "side-view"
+    ],
+    "file_count": 467,
+    "file_types": {
+      ".png": 447,
+      ".aseprite": 20
+    },
+    "visual": {
+      "art_style": "pixel art",
+      "render_method": "pixel art, crisp tiny sprites on transparent 100x100 frames",
+      "outline": "black pixel outline",
+      "perspective": "side-view / front-facing",
+      "approx_resolution": "16-24px character height on 100x100 frames (also 32x32 projectiles)",
+      "palette": "muted fantasy tones \u2014 dark armor greys, greens, browns, bone white",
+      "pixel_art": true,
+      "animated": true,
+      "compatibility_group": "pixel-small",
+      "notes": "20 tiny side-view RPG characters: heroes (Knight, Archer, Wizard, Priest, Soldier, Swordsman, Lancer, Knight Templar), enemies (Orc, Armored Orc, Elite Orc, Orc Rider, Skeleton, Armored Skeleton, Greatsword Skeleton, Skeleton Archer, Slime, Werebear, Werewolf). Full animation sets (idle, walk, attack, death, hurt, block, heal). Includes shadow sprites, split VFX overlays, arrow/magic projectiles, and Aseprite sources. Side-view perspective suits battle scenes and side-scrolling combat. Pairs with HeroEditor for side-view pixel characters."
+    }
+  },
+  {
     "pack": "tropicalislandgameassets",
     "description": "Comprehensive tropical island asset pack \u2014 tiles, animated shorelines, boats, dolphins, cliffs, doors, and more. Includes RPGMaker MV/MZ support and Aseprite sources.",
     "category": "tileset",
