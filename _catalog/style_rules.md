@@ -31,6 +31,8 @@ Some packs are **style-independent** (UI kits, audio, VFX) and can be used with 
 | `snowforesttilesets` | Snow/ice tiles, animated chest |
 | `HeroEditor` | Customizable fantasy/undead characters, equipment, animations |
 | `Tiny RPG Character Asset Pack v1.03b -Full 20 Characters` | 20 tiny side-view battle characters (heroes + enemies), full animations |
+| `10k Game Assets` (Pixel Art section only) | 8-bit adventure, RPG characters/tilesets, inventory icons, retro monsters, control prompts |
+| `Game Assets(2)` (ZIP — requires extraction) | Fantasy Dreamland tilesets/chars, Pixel Battlers monsters, Pixel VFX, Platformer World tiles |
 
 **Palette:** Varied but generally muted/earthy or classic bright RPG colors
 **Resolution:** 16–32px per tile/sprite
@@ -136,6 +138,10 @@ Some packs are **style-independent** (UI kits, audio, VFX) and can be used with 
 | Pack | Type | Notes |
 |---|---|---|
 | `Universal Sound FX` | Audio | 10,000+ WAV sound effects, 75+ categories |
+| `Cute RPG Music Pack 1–5` | Music | 25 cute/lighthearted RPG tracks (MP3/OGG/WAV, loopable) |
+| `Epic Medieval I–V Music Pack` | Music | 30 epic orchestral medieval/fantasy tracks (MP3/OGG/WAV) |
+| `Farming RPG Music Pack 1–5` | Music | 26 pastoral/relaxing farming RPG tracks (MP3/OGG/WAV, loopable) |
+| `10k Game Assets` (HD section only) | Mixed | HD platformer, UI, dice, cards, puzzles, planets, 3D vehicles, 792 WAV SFX |
 | `Area730` | UI Kit | Sliced PNG components — buttons, bars, dialogs, menus, panels |
 | `RPG Unitframe #1` | UI Kit | Unit frame components — health/mana bars, portrait frames |
 | `Casual_Hit` | VFX | Hit/impact effect prefabs (Unity) with textures |

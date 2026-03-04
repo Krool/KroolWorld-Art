@@ -1,5 +1,55 @@
 [
   {
+    "pack": "10k Game Assets",
+    "description": "Massive multi-category game asset pack by Chequered Ink \u2014 10,000+ assets across pixel art (8-bit adventure, RPG characters/tilesets, inventory icons, retro monsters, control prompts), HD graphics (platformer, UI, 3D cars, dice, icons, puzzles, cards, board games, planets, particles), audio (792 WAV SFX across retro, arcade, RPG, and modern categories), fonts, and 3D vehicle models.",
+    "category": "mixed",
+    "style": "mixed \u2014 pixel art + HD illustrated",
+    "usage": "General-purpose game assets \u2014 prototyping, game jams, full projects. Pixel art for retro/RPG games, HD graphics for modern/casual games, audio for any project",
+    "tags": [
+      "pixel",
+      "hd",
+      "character",
+      "sprite",
+      "tileset",
+      "icon",
+      "ui",
+      "audio",
+      "sfx",
+      "platformer",
+      "rpg",
+      "retro",
+      "font",
+      "3d",
+      "mixed"
+    ],
+    "file_count": 10775,
+    "file_types": {
+      ".url": 1,
+      ".txt": 3,
+      ".model": 35,
+      ".mtl": 35,
+      ".obj": 35,
+      ".wav": 792,
+      ".ttf": 5,
+      ".png": 9866,
+      ".win": 1,
+      ".ini": 1,
+      ".exe": 1
+    },
+    "visual": {
+      "art_style": "mixed \u2014 pixel art + HD illustrated",
+      "render_method": "pixel art (retro/8-bit) and HD illustrated (cartoon, smooth gradients)",
+      "outline": "varies \u2014 pixel outlines for retro, clean edges for HD",
+      "perspective": "mixed \u2014 top-down RPG, side-scrolling platformer, flat icons, isometric",
+      "approx_resolution": "pixel art: 16-64px per sprite/tile. HD: 512-1024px+ per asset",
+      "palette": "pixel: limited retro palettes. HD: full color with gradients and shading",
+      "pixel_art": true,
+      "animated": true,
+      "compatibility_group": "mixed-multigroup",
+      "notes": "10,000+ assets from Chequered Ink spanning two incompatible visual styles. Pixel Art section (4,574 files): 8bit adventure platformer, RPG characters/tilesets, inventory icons, retro monsters, control prompts, 1-bit puzzle assets. HD Graphics section (5,114 files): platformer, UI, 3D cars, dice, icons, puzzles, cards, board games, planets, particles, monsters. Also includes 792 WAV SFX, fonts, and 35 3D vehicle models. Do NOT mix pixel and HD assets in the same project."
+    }
+  },
+  {
     "pack": "2dcutecharacterspack",
     "description": "Cute/chibi-style 2D character sprites with multiple animation states. Includes PSD source files.",
     "category": "characters",
@@ -167,6 +217,399 @@
     }
   },
   {
+    "pack": "Cute RPG Music Pack 1(1)",
+    "description": "5 cute/lighthearted RPG music tracks in MP3, OGG, and WAV formats. Loopable and non-loopable variants. Tracks: Adorable Adventures, Dreamy Dandelion, Sunny Symphony, Treasure Island, Waddlin' Away.",
+    "category": "audio",
+    "style": "cute, lighthearted",
+    "usage": "Background music for cute/casual RPGs, overworld themes, town music, menus",
+    "tags": [
+      "audio",
+      "music",
+      "soundtrack",
+      "rpg",
+      "cute",
+      "lighthearted",
+      "loop",
+      "mp3",
+      "ogg",
+      "wav"
+    ],
+    "file_count": 32,
+    "file_types": {
+      ".ini": 1,
+      ".txt": 1,
+      ".mp3": 10,
+      ".ogg": 10,
+      ".wav": 10
+    },
+    "visual": {
+      "art_style": "N/A (audio)",
+      "render_method": "N/A (audio)",
+      "outline": "N/A",
+      "perspective": "N/A",
+      "approx_resolution": "MP3/OGG/WAV",
+      "palette": "N/A",
+      "pixel_art": false,
+      "animated": false,
+      "compatibility_group": "style-independent",
+      "notes": "5 cute/lighthearted RPG music tracks with loopable variants. By ElvGames & Pegonthetrack. Series of 5 packs (25 total tracks). Tracks: Adorable Adventures, Dreamy Dandelion, Sunny Symphony, Treasure Island, Waddlin' Away."
+    }
+  },
+  {
+    "pack": "Cute RPG Music Pack 2",
+    "description": "5 cute RPG music tracks in MP3, OGG, and WAV formats. Loopable and non-loopable variants. Tracks: City Stroll, Dreamy Days, Fluffy Cloudtops, Magical Forest, Seaside Lunch.",
+    "category": "audio",
+    "style": "cute, lighthearted",
+    "usage": "Background music for cute/casual RPGs, town and exploration themes",
+    "tags": [
+      "audio",
+      "music",
+      "soundtrack",
+      "rpg",
+      "cute",
+      "lighthearted",
+      "loop",
+      "mp3",
+      "ogg",
+      "wav"
+    ],
+    "file_count": 32,
+    "file_types": {
+      ".ini": 1,
+      ".txt": 1,
+      ".mp3": 10,
+      ".ogg": 10,
+      ".wav": 10
+    },
+    "visual": {
+      "art_style": "N/A (audio)",
+      "render_method": "N/A (audio)",
+      "outline": "N/A",
+      "perspective": "N/A",
+      "approx_resolution": "MP3/OGG/WAV",
+      "palette": "N/A",
+      "pixel_art": false,
+      "animated": false,
+      "compatibility_group": "style-independent",
+      "notes": "5 cute RPG music tracks with loopable variants. Tracks: City Stroll, Dreamy Days, Fluffy Cloudtops, Magical Forest, Seaside Lunch."
+    }
+  },
+  {
+    "pack": "Cute RPG Music Pack 3",
+    "description": "5 cute RPG music tracks in MP3, OGG, and WAV formats. Loopable and non-loopable variants. Tracks: Candy Bazaar, Cool Summer, Fantasy Prelude, Jazzberry Jam, Windowsill Cat.",
+    "category": "audio",
+    "style": "cute, lighthearted",
+    "usage": "Background music for cute/casual RPGs, shop themes, exploration",
+    "tags": [
+      "audio",
+      "music",
+      "soundtrack",
+      "rpg",
+      "cute",
+      "lighthearted",
+      "loop",
+      "mp3",
+      "ogg",
+      "wav"
+    ],
+    "file_count": 29,
+    "file_types": {
+      ".ini": 1,
+      ".txt": 1,
+      ".mp3": 9,
+      ".ogg": 9,
+      ".wav": 9
+    },
+    "visual": {
+      "art_style": "N/A (audio)",
+      "render_method": "N/A (audio)",
+      "outline": "N/A",
+      "perspective": "N/A",
+      "approx_resolution": "MP3/OGG/WAV",
+      "palette": "N/A",
+      "pixel_art": false,
+      "animated": false,
+      "compatibility_group": "style-independent",
+      "notes": "5 cute RPG music tracks with loopable variants. Tracks: Candy Bazaar, Cool Summer, Fantasy Prelude, Jazzberry Jam, Windowsill Cat."
+    }
+  },
+  {
+    "pack": "Cute RPG Music Pack 4",
+    "description": "5 cute RPG music tracks in MP3, OGG, and WAV formats. Loopable and non-loopable variants. Tracks: Dazzling Bubbles, Otto's Shell Collection, Paw-some Stars, Sunny's Adventure, The Bear Boogie.",
+    "category": "audio",
+    "style": "cute, lighthearted",
+    "usage": "Background music for cute/casual RPGs, adventure and overworld themes",
+    "tags": [
+      "audio",
+      "music",
+      "soundtrack",
+      "rpg",
+      "cute",
+      "lighthearted",
+      "loop",
+      "mp3",
+      "ogg",
+      "wav"
+    ],
+    "file_count": 32,
+    "file_types": {
+      ".ini": 1,
+      ".txt": 1,
+      ".mp3": 10,
+      ".ogg": 10,
+      ".wav": 10
+    },
+    "visual": {
+      "art_style": "N/A (audio)",
+      "render_method": "N/A (audio)",
+      "outline": "N/A",
+      "perspective": "N/A",
+      "approx_resolution": "MP3/OGG/WAV",
+      "palette": "N/A",
+      "pixel_art": false,
+      "animated": false,
+      "compatibility_group": "style-independent",
+      "notes": "5 cute RPG music tracks with loopable variants. Tracks: Dazzling Bubbles, Otto's Shell Collection, Paw-some Stars, Sunny's Adventure, The Bear Boogie."
+    }
+  },
+  {
+    "pack": "Cute RPG Music Pack 5",
+    "description": "5 cute RPG music tracks in MP3, OGG, and WAV formats. Loopable and non-loopable variants. Tracks: Butterfly Hunt, Fireflies, In the Clouds, Spring Time, Way Back.",
+    "category": "audio",
+    "style": "cute, lighthearted",
+    "usage": "Background music for cute/casual RPGs, nature and seasonal themes",
+    "tags": [
+      "audio",
+      "music",
+      "soundtrack",
+      "rpg",
+      "cute",
+      "lighthearted",
+      "loop",
+      "mp3",
+      "ogg",
+      "wav"
+    ],
+    "file_count": 32,
+    "file_types": {
+      ".ini": 1,
+      ".txt": 1,
+      ".mp3": 10,
+      ".ogg": 10,
+      ".wav": 10
+    },
+    "visual": {
+      "art_style": "N/A (audio)",
+      "render_method": "N/A (audio)",
+      "outline": "N/A",
+      "perspective": "N/A",
+      "approx_resolution": "MP3/OGG/WAV",
+      "palette": "N/A",
+      "pixel_art": false,
+      "animated": false,
+      "compatibility_group": "style-independent",
+      "notes": "5 cute RPG music tracks with loopable variants. Tracks: Butterfly Hunt, Fireflies, In the Clouds, Spring Time, Way Back."
+    }
+  },
+  {
+    "pack": "Epic Medieval I Music Pack",
+    "description": "6 epic medieval/fantasy orchestral music tracks in MP3, OGG, and WAV formats. Tracks: Clear Waters, End of the Road, Fortified, Sewage, Theme, War.",
+    "category": "audio",
+    "style": "epic, orchestral, medieval",
+    "usage": "Background music for medieval/fantasy RPGs \u2014 battle themes, exploration, menus",
+    "tags": [
+      "audio",
+      "music",
+      "soundtrack",
+      "rpg",
+      "medieval",
+      "fantasy",
+      "epic",
+      "orchestral",
+      "mp3",
+      "ogg",
+      "wav"
+    ],
+    "file_count": 19,
+    "file_types": {
+      ".txt": 1,
+      ".mp3": 6,
+      ".ogg": 6,
+      ".wav": 6
+    },
+    "visual": {
+      "art_style": "N/A (audio)",
+      "render_method": "N/A (audio)",
+      "outline": "N/A",
+      "perspective": "N/A",
+      "approx_resolution": "MP3/OGG/WAV",
+      "palette": "N/A",
+      "pixel_art": false,
+      "animated": false,
+      "compatibility_group": "style-independent",
+      "notes": "6 epic orchestral medieval/fantasy music tracks. By ElvGames & Pegonthetrack. Series of 5 packs (30 total tracks). Tracks: Clear Waters, End of the Road, Fortified, Sewage, Theme, War."
+    }
+  },
+  {
+    "pack": "Epic Medieval II Music Pack",
+    "description": "5 epic medieval/fantasy orchestral music tracks in MP3, OGG, and WAV formats. Tracks: Endless Mountains, Fairy Forest, Memories, Valley Tribes, Warrior of the West.",
+    "category": "audio",
+    "style": "epic, orchestral, medieval",
+    "usage": "Background music for medieval/fantasy RPGs \u2014 exploration, dramatic scenes",
+    "tags": [
+      "audio",
+      "music",
+      "soundtrack",
+      "rpg",
+      "medieval",
+      "fantasy",
+      "epic",
+      "orchestral",
+      "mp3",
+      "ogg",
+      "wav"
+    ],
+    "file_count": 16,
+    "file_types": {
+      ".txt": 1,
+      ".mp3": 5,
+      ".ogg": 5,
+      ".wav": 5
+    },
+    "visual": {
+      "art_style": "N/A (audio)",
+      "render_method": "N/A (audio)",
+      "outline": "N/A",
+      "perspective": "N/A",
+      "approx_resolution": "MP3/OGG/WAV",
+      "palette": "N/A",
+      "pixel_art": false,
+      "animated": false,
+      "compatibility_group": "style-independent",
+      "notes": "5 epic orchestral medieval/fantasy music tracks. Tracks: Endless Mountains, Fairy Forest, Memories, Valley Tribes, Warrior of the West."
+    }
+  },
+  {
+    "pack": "Epic Medieval III Music Pack(1)",
+    "description": "6 epic medieval/fantasy orchestral music tracks in MP3, OGG, and WAV formats. Includes vocal variants. Tracks: Awakening, Business As Usual, Frigg, Swords On Demand, Training Grounds, Frigg (No Vocals).",
+    "category": "audio",
+    "style": "epic, orchestral, medieval",
+    "usage": "Background music for medieval/fantasy RPGs \u2014 battle, training, dramatic scenes",
+    "tags": [
+      "audio",
+      "music",
+      "soundtrack",
+      "rpg",
+      "medieval",
+      "fantasy",
+      "epic",
+      "orchestral",
+      "vocal",
+      "mp3",
+      "ogg",
+      "wav"
+    ],
+    "file_count": 19,
+    "file_types": {
+      ".txt": 1,
+      ".mp3": 6,
+      ".ogg": 6,
+      ".wav": 6
+    },
+    "visual": {
+      "art_style": "N/A (audio)",
+      "render_method": "N/A (audio)",
+      "outline": "N/A",
+      "perspective": "N/A",
+      "approx_resolution": "MP3/OGG/WAV",
+      "palette": "N/A",
+      "pixel_art": false,
+      "animated": false,
+      "compatibility_group": "style-independent",
+      "notes": "6 epic orchestral medieval/fantasy music tracks. Includes vocal variants. Tracks: Awakening, Business As Usual, Frigg, Swords On Demand, Training Grounds, Frigg (No Vocals)."
+    }
+  },
+  {
+    "pack": "Epic Medieval IV Music Pack",
+    "description": "6 epic medieval/fantasy orchestral music tracks in MP3, OGG, and WAV formats. Includes vocal variants. Tracks: Endless Peace, Fields Of War, Grand Palace, Grasslands (Vocals), The Horde, Grasslands (No Vocals).",
+    "category": "audio",
+    "style": "epic, orchestral, medieval",
+    "usage": "Background music for medieval/fantasy RPGs \u2014 palace, war, peaceful exploration",
+    "tags": [
+      "audio",
+      "music",
+      "soundtrack",
+      "rpg",
+      "medieval",
+      "fantasy",
+      "epic",
+      "orchestral",
+      "vocal",
+      "mp3",
+      "ogg",
+      "wav"
+    ],
+    "file_count": 19,
+    "file_types": {
+      ".txt": 1,
+      ".mp3": 6,
+      ".ogg": 6,
+      ".wav": 6
+    },
+    "visual": {
+      "art_style": "N/A (audio)",
+      "render_method": "N/A (audio)",
+      "outline": "N/A",
+      "perspective": "N/A",
+      "approx_resolution": "MP3/OGG/WAV",
+      "palette": "N/A",
+      "pixel_art": false,
+      "animated": false,
+      "compatibility_group": "style-independent",
+      "notes": "6 epic orchestral medieval/fantasy music tracks. Includes vocal variants. Tracks: Endless Peace, Fields Of War, Grand Palace, Grasslands, The Horde."
+    }
+  },
+  {
+    "pack": "Epic Medieval V Music Pack",
+    "description": "7 epic medieval/fantasy orchestral music tracks in MP3, OGG, and WAV formats. Includes loopable variants. Tracks: A Forgotten Tale, Battlefield, Follow The Light, Hearth Fire, Reigentanz.",
+    "category": "audio",
+    "style": "epic, orchestral, medieval",
+    "usage": "Background music for medieval/fantasy RPGs \u2014 battle, tavern, exploration",
+    "tags": [
+      "audio",
+      "music",
+      "soundtrack",
+      "rpg",
+      "medieval",
+      "fantasy",
+      "epic",
+      "orchestral",
+      "loop",
+      "mp3",
+      "ogg",
+      "wav"
+    ],
+    "file_count": 22,
+    "file_types": {
+      ".txt": 1,
+      ".mp3": 7,
+      ".ogg": 7,
+      ".wav": 7
+    },
+    "visual": {
+      "art_style": "N/A (audio)",
+      "render_method": "N/A (audio)",
+      "outline": "N/A",
+      "perspective": "N/A",
+      "approx_resolution": "MP3/OGG/WAV",
+      "palette": "N/A",
+      "pixel_art": false,
+      "animated": false,
+      "compatibility_group": "style-independent",
+      "notes": "7 epic orchestral medieval/fantasy music tracks. Includes loopable variants. Tracks: A Forgotten Tale, Battlefield, Follow The Light, Hearth Fire, Reigentanz."
+    }
+  },
+  {
     "pack": "FantasyBackgrounds",
     "description": "6 painted fantasy background illustrations \u2014 Arctic, Dead Sea, Desert, Forest, Volcano, Wood. Includes PSD source file.",
     "category": "backgrounds",
@@ -274,6 +717,238 @@
       "animated": false,
       "compatibility_group": "illustrated-icons",
       "notes": "2300+ equipment slot icons with themed variants. Includes sprite atlases, background plates, and UI frame components. Organized by slot type (armor, boots, helmets, weapons, etc.)."
+    }
+  },
+  {
+    "pack": "Farming RPG Music Pack 1",
+    "description": "6 pastoral/relaxing RPG music tracks in MP3, OGG, and WAV formats. Includes loopable variants. Tracks: Dragonfly, Fate, Good Morning, Seaside Promenade, Village.",
+    "category": "audio",
+    "style": "pastoral, relaxing",
+    "usage": "Background music for farming/life sim games \u2014 village, morning, seaside themes",
+    "tags": [
+      "audio",
+      "music",
+      "soundtrack",
+      "rpg",
+      "farming",
+      "pastoral",
+      "relaxing",
+      "loop",
+      "mp3",
+      "ogg",
+      "wav"
+    ],
+    "file_count": 19,
+    "file_types": {
+      ".txt": 1,
+      ".mp3": 6,
+      ".ogg": 6,
+      ".wav": 6
+    },
+    "visual": {
+      "art_style": "N/A (audio)",
+      "render_method": "N/A (audio)",
+      "outline": "N/A",
+      "perspective": "N/A",
+      "approx_resolution": "MP3/OGG/WAV",
+      "palette": "N/A",
+      "pixel_art": false,
+      "animated": false,
+      "compatibility_group": "style-independent",
+      "notes": "6 pastoral/relaxing farming RPG music tracks with loopable variants. By ElvGames & Pegonthetrack. Series of 5 packs (26 total tracks). Tracks: Dragonfly, Fate, Good Morning, Seaside Promenade, Village."
+    }
+  },
+  {
+    "pack": "Farming RPG Music Pack 2",
+    "description": "5 pastoral/relaxing RPG music tracks in MP3, OGG, and WAV formats. Loopable and non-loopable variants. Tracks: Cosy Island, Dusk Has Fallen, Falling Leaves, Stargazing, Up At Dawn.",
+    "category": "audio",
+    "style": "pastoral, relaxing",
+    "usage": "Background music for farming/life sim games \u2014 evening, seasonal, nature themes",
+    "tags": [
+      "audio",
+      "music",
+      "soundtrack",
+      "rpg",
+      "farming",
+      "pastoral",
+      "relaxing",
+      "loop",
+      "mp3",
+      "ogg",
+      "wav"
+    ],
+    "file_count": 31,
+    "file_types": {
+      ".txt": 1,
+      ".mp3": 10,
+      ".ogg": 10,
+      ".wav": 10
+    },
+    "visual": {
+      "art_style": "N/A (audio)",
+      "render_method": "N/A (audio)",
+      "outline": "N/A",
+      "perspective": "N/A",
+      "approx_resolution": "MP3/OGG/WAV",
+      "palette": "N/A",
+      "pixel_art": false,
+      "animated": false,
+      "compatibility_group": "style-independent",
+      "notes": "5 pastoral/relaxing farming RPG music tracks with loopable variants. Tracks: Cosy Island, Dusk Has Fallen, Falling Leaves, Stargazing, Up At Dawn."
+    }
+  },
+  {
+    "pack": "Farming RPG Music Pack 3",
+    "description": "5 pastoral/relaxing RPG music tracks in MP3, OGG, and WAV formats. Loopable and non-loopable variants. Tracks: Nature's Serenity, Picnic Memories, Resting In The Hay, The Fruits Of Labour, Water Lily.",
+    "category": "audio",
+    "style": "pastoral, relaxing",
+    "usage": "Background music for farming/life sim games \u2014 nature, harvest, peaceful themes",
+    "tags": [
+      "audio",
+      "music",
+      "soundtrack",
+      "rpg",
+      "farming",
+      "pastoral",
+      "relaxing",
+      "loop",
+      "mp3",
+      "ogg",
+      "wav"
+    ],
+    "file_count": 32,
+    "file_types": {
+      ".ini": 1,
+      ".txt": 1,
+      ".mp3": 10,
+      ".ogg": 10,
+      ".wav": 10
+    },
+    "visual": {
+      "art_style": "N/A (audio)",
+      "render_method": "N/A (audio)",
+      "outline": "N/A",
+      "perspective": "N/A",
+      "approx_resolution": "MP3/OGG/WAV",
+      "palette": "N/A",
+      "pixel_art": false,
+      "animated": false,
+      "compatibility_group": "style-independent",
+      "notes": "5 pastoral/relaxing farming RPG music tracks with loopable variants. Tracks: Nature's Serenity, Picnic Memories, Resting In The Hay, The Fruits Of Labour, Water Lily."
+    }
+  },
+  {
+    "pack": "Farming RPG Music Pack 4",
+    "description": "5 pastoral/relaxing RPG music tracks in MP3, OGG, and WAV formats. Loopable and non-loopable variants. Tracks: Fields of Tranquility, Harvest Festival, Homestead Harmony, Rise and Shine, Sunlit Meadows.",
+    "category": "audio",
+    "style": "pastoral, relaxing",
+    "usage": "Background music for farming/life sim games \u2014 harvest, homestead, morning themes",
+    "tags": [
+      "audio",
+      "music",
+      "soundtrack",
+      "rpg",
+      "farming",
+      "pastoral",
+      "relaxing",
+      "loop",
+      "mp3",
+      "ogg",
+      "wav"
+    ],
+    "file_count": 32,
+    "file_types": {
+      ".ini": 1,
+      ".txt": 1,
+      ".mp3": 10,
+      ".ogg": 10,
+      ".wav": 10
+    },
+    "visual": {
+      "art_style": "N/A (audio)",
+      "render_method": "N/A (audio)",
+      "outline": "N/A",
+      "perspective": "N/A",
+      "approx_resolution": "MP3/OGG/WAV",
+      "palette": "N/A",
+      "pixel_art": false,
+      "animated": false,
+      "compatibility_group": "style-independent",
+      "notes": "5 pastoral/relaxing farming RPG music tracks with loopable variants. Tracks: Fields of Tranquility, Harvest Festival, Homestead Harmony, Rise and Shine, Sunlit Meadows."
+    }
+  },
+  {
+    "pack": "Farming RPG Music Pack 5",
+    "description": "5 pastoral/relaxing RPG music tracks in MP3, OGG, and WAV formats. Tracks: Dreams and Memories, Gramp's Still Got It, Lazy Afternoon, Moonlit Cruise, Woodland Melody.",
+    "category": "audio",
+    "style": "pastoral, relaxing",
+    "usage": "Background music for farming/life sim games \u2014 evening, nostalgia, woodland themes",
+    "tags": [
+      "audio",
+      "music",
+      "soundtrack",
+      "rpg",
+      "farming",
+      "pastoral",
+      "relaxing",
+      "mp3",
+      "ogg",
+      "wav"
+    ],
+    "file_count": 30,
+    "file_types": {
+      ".ini": 1,
+      ".txt": 1,
+      ".mp3": 9,
+      ".ogg": 9,
+      ".wav": 10
+    },
+    "visual": {
+      "art_style": "N/A (audio)",
+      "render_method": "N/A (audio)",
+      "outline": "N/A",
+      "perspective": "N/A",
+      "approx_resolution": "MP3/OGG/WAV",
+      "palette": "N/A",
+      "pixel_art": false,
+      "animated": false,
+      "compatibility_group": "style-independent",
+      "notes": "5 pastoral/relaxing farming RPG music tracks. Tracks: Dreams and Memories, Gramp's Still Got It, Lazy Afternoon, Moonlit Cruise, Woodland Melody."
+    }
+  },
+  {
+    "pack": "Game Assets(2)",
+    "description": "Collection of 70 ZIP archives containing pixel art fantasy RPG assets \u2014 Fantasy Dreamland tilesets/characters (16x16 tiles, 48x48 characters), Pixel Battlers RPG monster sprites, Pixel VFX spell animations, Platformer World tilesets, and sound effects (MP3). RPG Maker MV/MZ compatible formats included. NOTE: Assets are inside ZIP files and must be extracted before use.",
+    "category": "mixed",
+    "style": "pixel art, fantasy",
+    "usage": "Fantasy RPG tilesets, character sprites, monster battlers, spell VFX, platformer tiles \u2014 requires extraction from ZIP archives",
+    "tags": [
+      "pixel",
+      "rpg",
+      "tileset",
+      "character",
+      "monster",
+      "vfx",
+      "platformer",
+      "fantasy",
+      "rpgmaker",
+      "zip"
+    ],
+    "file_count": 70,
+    "file_types": {
+      ".zip": 70
+    },
+    "visual": {
+      "art_style": "pixel art",
+      "render_method": "pixel art, 16-bit RPG style",
+      "outline": "black pixel outline",
+      "perspective": "top-down RPG, side-view platformer, front-facing battlers",
+      "approx_resolution": "16x16 tiles, 48x48 characters",
+      "palette": "warm colorful fantasy palette",
+      "pixel_art": true,
+      "animated": true,
+      "compatibility_group": "pixel-small",
+      "notes": "ZIP ARCHIVES \u2014 assets must be extracted before use. Contains: Fantasy Dreamland (tilesets, characters, bosses, enemies, icons \u2014 RPG Maker MZ format), Pixel Battlers (RPG monster sprites with multiple animation states), Pixel VFX (fire/ice/light/buff spell animations), Platformer World (16x16 themed platformer tilesets), Sound Effects (footsteps, game SFX, sci-fi UI \u2014 MP3). All consistent 16-bit pixel art style."
     }
   },
   {

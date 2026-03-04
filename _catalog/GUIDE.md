@@ -1,11 +1,206 @@
 # KroolWorld Art Asset Guide
 
-**Total packs:** 39  
-**Total files:** 55095  
+**Total packs:** 56  
+**Total files:** 66336  
 
 ---
 
 ## Audio
+
+### `Cute RPG Music Pack 1(1)/`
+**32 files** | Style: cute, lighthearted  
+5 cute/lighthearted RPG music tracks in MP3, OGG, and WAV formats. Loopable and non-loopable variants. Tracks: Adorable Adventures, Dreamy Dandelion, Sunny Symphony, Treasure Island, Waddlin' Away.  
+**Usage:** Background music for cute/casual RPGs, overworld themes, town music, menus  
+**Tags:** audio, music, soundtrack, rpg, cute, lighthearted, loop, mp3, ogg, wav  
+**File types:** .ini(1), .mp3(10), .ogg(10), .txt(1), .wav(10)  
+**Art style:** N/A (audio)  
+**Perspective:** N/A  
+**Resolution:** MP3/OGG/WAV  
+**Palette:** N/A  
+**Compatibility group:** style-independent  
+**Notes:** 5 cute/lighthearted RPG music tracks with loopable variants. By ElvGames & Pegonthetrack. Series of 5 packs (25 total tracks). Tracks: Adorable Adventures, Dreamy Dandelion, Sunny Symphony, Treasure Island, Waddlin' Away.  
+
+### `Cute RPG Music Pack 2/`
+**32 files** | Style: cute, lighthearted  
+5 cute RPG music tracks in MP3, OGG, and WAV formats. Loopable and non-loopable variants. Tracks: City Stroll, Dreamy Days, Fluffy Cloudtops, Magical Forest, Seaside Lunch.  
+**Usage:** Background music for cute/casual RPGs, town and exploration themes  
+**Tags:** audio, music, soundtrack, rpg, cute, lighthearted, loop, mp3, ogg, wav  
+**File types:** .ini(1), .mp3(10), .ogg(10), .txt(1), .wav(10)  
+**Art style:** N/A (audio)  
+**Perspective:** N/A  
+**Resolution:** MP3/OGG/WAV  
+**Palette:** N/A  
+**Compatibility group:** style-independent  
+**Notes:** 5 cute RPG music tracks with loopable variants. Tracks: City Stroll, Dreamy Days, Fluffy Cloudtops, Magical Forest, Seaside Lunch.  
+
+### `Cute RPG Music Pack 3/`
+**29 files** | Style: cute, lighthearted  
+5 cute RPG music tracks in MP3, OGG, and WAV formats. Loopable and non-loopable variants. Tracks: Candy Bazaar, Cool Summer, Fantasy Prelude, Jazzberry Jam, Windowsill Cat.  
+**Usage:** Background music for cute/casual RPGs, shop themes, exploration  
+**Tags:** audio, music, soundtrack, rpg, cute, lighthearted, loop, mp3, ogg, wav  
+**File types:** .ini(1), .mp3(9), .ogg(9), .txt(1), .wav(9)  
+**Art style:** N/A (audio)  
+**Perspective:** N/A  
+**Resolution:** MP3/OGG/WAV  
+**Palette:** N/A  
+**Compatibility group:** style-independent  
+**Notes:** 5 cute RPG music tracks with loopable variants. Tracks: Candy Bazaar, Cool Summer, Fantasy Prelude, Jazzberry Jam, Windowsill Cat.  
+
+### `Cute RPG Music Pack 4/`
+**32 files** | Style: cute, lighthearted  
+5 cute RPG music tracks in MP3, OGG, and WAV formats. Loopable and non-loopable variants. Tracks: Dazzling Bubbles, Otto's Shell Collection, Paw-some Stars, Sunny's Adventure, The Bear Boogie.  
+**Usage:** Background music for cute/casual RPGs, adventure and overworld themes  
+**Tags:** audio, music, soundtrack, rpg, cute, lighthearted, loop, mp3, ogg, wav  
+**File types:** .ini(1), .mp3(10), .ogg(10), .txt(1), .wav(10)  
+**Art style:** N/A (audio)  
+**Perspective:** N/A  
+**Resolution:** MP3/OGG/WAV  
+**Palette:** N/A  
+**Compatibility group:** style-independent  
+**Notes:** 5 cute RPG music tracks with loopable variants. Tracks: Dazzling Bubbles, Otto's Shell Collection, Paw-some Stars, Sunny's Adventure, The Bear Boogie.  
+
+### `Cute RPG Music Pack 5/`
+**32 files** | Style: cute, lighthearted  
+5 cute RPG music tracks in MP3, OGG, and WAV formats. Loopable and non-loopable variants. Tracks: Butterfly Hunt, Fireflies, In the Clouds, Spring Time, Way Back.  
+**Usage:** Background music for cute/casual RPGs, nature and seasonal themes  
+**Tags:** audio, music, soundtrack, rpg, cute, lighthearted, loop, mp3, ogg, wav  
+**File types:** .ini(1), .mp3(10), .ogg(10), .txt(1), .wav(10)  
+**Art style:** N/A (audio)  
+**Perspective:** N/A  
+**Resolution:** MP3/OGG/WAV  
+**Palette:** N/A  
+**Compatibility group:** style-independent  
+**Notes:** 5 cute RPG music tracks with loopable variants. Tracks: Butterfly Hunt, Fireflies, In the Clouds, Spring Time, Way Back.  
+
+### `Epic Medieval I Music Pack/`
+**19 files** | Style: epic, orchestral, medieval  
+6 epic medieval/fantasy orchestral music tracks in MP3, OGG, and WAV formats. Tracks: Clear Waters, End of the Road, Fortified, Sewage, Theme, War.  
+**Usage:** Background music for medieval/fantasy RPGs — battle themes, exploration, menus  
+**Tags:** audio, music, soundtrack, rpg, medieval, fantasy, epic, orchestral, mp3, ogg, wav  
+**File types:** .mp3(6), .ogg(6), .txt(1), .wav(6)  
+**Art style:** N/A (audio)  
+**Perspective:** N/A  
+**Resolution:** MP3/OGG/WAV  
+**Palette:** N/A  
+**Compatibility group:** style-independent  
+**Notes:** 6 epic orchestral medieval/fantasy music tracks. By ElvGames & Pegonthetrack. Series of 5 packs (30 total tracks). Tracks: Clear Waters, End of the Road, Fortified, Sewage, Theme, War.  
+
+### `Epic Medieval II Music Pack/`
+**16 files** | Style: epic, orchestral, medieval  
+5 epic medieval/fantasy orchestral music tracks in MP3, OGG, and WAV formats. Tracks: Endless Mountains, Fairy Forest, Memories, Valley Tribes, Warrior of the West.  
+**Usage:** Background music for medieval/fantasy RPGs — exploration, dramatic scenes  
+**Tags:** audio, music, soundtrack, rpg, medieval, fantasy, epic, orchestral, mp3, ogg, wav  
+**File types:** .mp3(5), .ogg(5), .txt(1), .wav(5)  
+**Art style:** N/A (audio)  
+**Perspective:** N/A  
+**Resolution:** MP3/OGG/WAV  
+**Palette:** N/A  
+**Compatibility group:** style-independent  
+**Notes:** 5 epic orchestral medieval/fantasy music tracks. Tracks: Endless Mountains, Fairy Forest, Memories, Valley Tribes, Warrior of the West.  
+
+### `Epic Medieval III Music Pack(1)/`
+**19 files** | Style: epic, orchestral, medieval  
+6 epic medieval/fantasy orchestral music tracks in MP3, OGG, and WAV formats. Includes vocal variants. Tracks: Awakening, Business As Usual, Frigg, Swords On Demand, Training Grounds, Frigg (No Vocals).  
+**Usage:** Background music for medieval/fantasy RPGs — battle, training, dramatic scenes  
+**Tags:** audio, music, soundtrack, rpg, medieval, fantasy, epic, orchestral, vocal, mp3, ogg, wav  
+**File types:** .mp3(6), .ogg(6), .txt(1), .wav(6)  
+**Art style:** N/A (audio)  
+**Perspective:** N/A  
+**Resolution:** MP3/OGG/WAV  
+**Palette:** N/A  
+**Compatibility group:** style-independent  
+**Notes:** 6 epic orchestral medieval/fantasy music tracks. Includes vocal variants. Tracks: Awakening, Business As Usual, Frigg, Swords On Demand, Training Grounds, Frigg (No Vocals).  
+
+### `Epic Medieval IV Music Pack/`
+**19 files** | Style: epic, orchestral, medieval  
+6 epic medieval/fantasy orchestral music tracks in MP3, OGG, and WAV formats. Includes vocal variants. Tracks: Endless Peace, Fields Of War, Grand Palace, Grasslands (Vocals), The Horde, Grasslands (No Vocals).  
+**Usage:** Background music for medieval/fantasy RPGs — palace, war, peaceful exploration  
+**Tags:** audio, music, soundtrack, rpg, medieval, fantasy, epic, orchestral, vocal, mp3, ogg, wav  
+**File types:** .mp3(6), .ogg(6), .txt(1), .wav(6)  
+**Art style:** N/A (audio)  
+**Perspective:** N/A  
+**Resolution:** MP3/OGG/WAV  
+**Palette:** N/A  
+**Compatibility group:** style-independent  
+**Notes:** 6 epic orchestral medieval/fantasy music tracks. Includes vocal variants. Tracks: Endless Peace, Fields Of War, Grand Palace, Grasslands, The Horde.  
+
+### `Epic Medieval V Music Pack/`
+**22 files** | Style: epic, orchestral, medieval  
+7 epic medieval/fantasy orchestral music tracks in MP3, OGG, and WAV formats. Includes loopable variants. Tracks: A Forgotten Tale, Battlefield, Follow The Light, Hearth Fire, Reigentanz.  
+**Usage:** Background music for medieval/fantasy RPGs — battle, tavern, exploration  
+**Tags:** audio, music, soundtrack, rpg, medieval, fantasy, epic, orchestral, loop, mp3, ogg, wav  
+**File types:** .mp3(7), .ogg(7), .txt(1), .wav(7)  
+**Art style:** N/A (audio)  
+**Perspective:** N/A  
+**Resolution:** MP3/OGG/WAV  
+**Palette:** N/A  
+**Compatibility group:** style-independent  
+**Notes:** 7 epic orchestral medieval/fantasy music tracks. Includes loopable variants. Tracks: A Forgotten Tale, Battlefield, Follow The Light, Hearth Fire, Reigentanz.  
+
+### `Farming RPG Music Pack 1/`
+**19 files** | Style: pastoral, relaxing  
+6 pastoral/relaxing RPG music tracks in MP3, OGG, and WAV formats. Includes loopable variants. Tracks: Dragonfly, Fate, Good Morning, Seaside Promenade, Village.  
+**Usage:** Background music for farming/life sim games — village, morning, seaside themes  
+**Tags:** audio, music, soundtrack, rpg, farming, pastoral, relaxing, loop, mp3, ogg, wav  
+**File types:** .mp3(6), .ogg(6), .txt(1), .wav(6)  
+**Art style:** N/A (audio)  
+**Perspective:** N/A  
+**Resolution:** MP3/OGG/WAV  
+**Palette:** N/A  
+**Compatibility group:** style-independent  
+**Notes:** 6 pastoral/relaxing farming RPG music tracks with loopable variants. By ElvGames & Pegonthetrack. Series of 5 packs (26 total tracks). Tracks: Dragonfly, Fate, Good Morning, Seaside Promenade, Village.  
+
+### `Farming RPG Music Pack 2/`
+**31 files** | Style: pastoral, relaxing  
+5 pastoral/relaxing RPG music tracks in MP3, OGG, and WAV formats. Loopable and non-loopable variants. Tracks: Cosy Island, Dusk Has Fallen, Falling Leaves, Stargazing, Up At Dawn.  
+**Usage:** Background music for farming/life sim games — evening, seasonal, nature themes  
+**Tags:** audio, music, soundtrack, rpg, farming, pastoral, relaxing, loop, mp3, ogg, wav  
+**File types:** .mp3(10), .ogg(10), .txt(1), .wav(10)  
+**Art style:** N/A (audio)  
+**Perspective:** N/A  
+**Resolution:** MP3/OGG/WAV  
+**Palette:** N/A  
+**Compatibility group:** style-independent  
+**Notes:** 5 pastoral/relaxing farming RPG music tracks with loopable variants. Tracks: Cosy Island, Dusk Has Fallen, Falling Leaves, Stargazing, Up At Dawn.  
+
+### `Farming RPG Music Pack 3/`
+**32 files** | Style: pastoral, relaxing  
+5 pastoral/relaxing RPG music tracks in MP3, OGG, and WAV formats. Loopable and non-loopable variants. Tracks: Nature's Serenity, Picnic Memories, Resting In The Hay, The Fruits Of Labour, Water Lily.  
+**Usage:** Background music for farming/life sim games — nature, harvest, peaceful themes  
+**Tags:** audio, music, soundtrack, rpg, farming, pastoral, relaxing, loop, mp3, ogg, wav  
+**File types:** .ini(1), .mp3(10), .ogg(10), .txt(1), .wav(10)  
+**Art style:** N/A (audio)  
+**Perspective:** N/A  
+**Resolution:** MP3/OGG/WAV  
+**Palette:** N/A  
+**Compatibility group:** style-independent  
+**Notes:** 5 pastoral/relaxing farming RPG music tracks with loopable variants. Tracks: Nature's Serenity, Picnic Memories, Resting In The Hay, The Fruits Of Labour, Water Lily.  
+
+### `Farming RPG Music Pack 4/`
+**32 files** | Style: pastoral, relaxing  
+5 pastoral/relaxing RPG music tracks in MP3, OGG, and WAV formats. Loopable and non-loopable variants. Tracks: Fields of Tranquility, Harvest Festival, Homestead Harmony, Rise and Shine, Sunlit Meadows.  
+**Usage:** Background music for farming/life sim games — harvest, homestead, morning themes  
+**Tags:** audio, music, soundtrack, rpg, farming, pastoral, relaxing, loop, mp3, ogg, wav  
+**File types:** .ini(1), .mp3(10), .ogg(10), .txt(1), .wav(10)  
+**Art style:** N/A (audio)  
+**Perspective:** N/A  
+**Resolution:** MP3/OGG/WAV  
+**Palette:** N/A  
+**Compatibility group:** style-independent  
+**Notes:** 5 pastoral/relaxing farming RPG music tracks with loopable variants. Tracks: Fields of Tranquility, Harvest Festival, Homestead Harmony, Rise and Shine, Sunlit Meadows.  
+
+### `Farming RPG Music Pack 5/`
+**30 files** | Style: pastoral, relaxing  
+5 pastoral/relaxing RPG music tracks in MP3, OGG, and WAV formats. Tracks: Dreams and Memories, Gramp's Still Got It, Lazy Afternoon, Moonlit Cruise, Woodland Melody.  
+**Usage:** Background music for farming/life sim games — evening, nostalgia, woodland themes  
+**Tags:** audio, music, soundtrack, rpg, farming, pastoral, relaxing, mp3, ogg, wav  
+**File types:** .ini(1), .mp3(9), .ogg(9), .txt(1), .wav(10)  
+**Art style:** N/A (audio)  
+**Perspective:** N/A  
+**Resolution:** MP3/OGG/WAV  
+**Palette:** N/A  
+**Compatibility group:** style-independent  
+**Notes:** 5 pastoral/relaxing farming RPG music tracks. Tracks: Dreams and Memories, Gramp's Still Got It, Lazy Afternoon, Moonlit Cruise, Woodland Melody.  
 
 ### `Universal Sound FX/`
 **10102 files** | Style: professional, universal  
@@ -280,6 +475,32 @@ RPG items icon set version 3 — equipment, consumables, and misc items.
 **Notes:** Painted armor/equipment icons with decorative dark border. Semi-realistic rendering. Pairs with painted icon packs.  
 
 ## Mixed
+
+### `10k Game Assets/`
+**10775 files** | Style: mixed — pixel art + HD illustrated  
+Massive multi-category game asset pack by Chequered Ink — 10,000+ assets across pixel art (8-bit adventure, RPG characters/tilesets, inventory icons, retro monsters, control prompts), HD graphics (platformer, UI, 3D cars, dice, icons, puzzles, cards, board games, planets, particles), audio (792 WAV SFX across retro, arcade, RPG, and modern categories), fonts, and 3D vehicle models.  
+**Usage:** General-purpose game assets — prototyping, game jams, full projects. Pixel art for retro/RPG games, HD graphics for modern/casual games, audio for any project  
+**Tags:** pixel, hd, character, sprite, tileset, icon, ui, audio, sfx, platformer, rpg, retro, font, 3d, mixed  
+**File types:** .exe(1), .ini(1), .model(35), .mtl(35), .obj(35), .png(9866), .ttf(5), .txt(3), .url(1), .wav(792), .win(1)  
+**Art style:** mixed — pixel art + HD illustrated  
+**Perspective:** mixed — top-down RPG, side-scrolling platformer, flat icons, isometric  
+**Resolution:** pixel art: 16-64px per sprite/tile. HD: 512-1024px+ per asset  
+**Palette:** pixel: limited retro palettes. HD: full color with gradients and shading  
+**Compatibility group:** mixed-multigroup  
+**Notes:** 10,000+ assets from Chequered Ink spanning two incompatible visual styles. Pixel Art section (4,574 files): 8bit adventure platformer, RPG characters/tilesets, inventory icons, retro monsters, control prompts, 1-bit puzzle assets. HD Graphics section (5,114 files): platformer, UI, 3D cars, dice, icons, puzzles, cards, board games, planets, particles, monsters. Also includes 792 WAV SFX, fonts, and 35 3D vehicle models. Do NOT mix pixel and HD assets in the same project.  
+
+### `Game Assets(2)/`
+**70 files** | Style: pixel art, fantasy  
+Collection of 70 ZIP archives containing pixel art fantasy RPG assets — Fantasy Dreamland tilesets/characters (16x16 tiles, 48x48 characters), Pixel Battlers RPG monster sprites, Pixel VFX spell animations, Platformer World tilesets, and sound effects (MP3). RPG Maker MV/MZ compatible formats included. NOTE: Assets are inside ZIP files and must be extracted before use.  
+**Usage:** Fantasy RPG tilesets, character sprites, monster battlers, spell VFX, platformer tiles — requires extraction from ZIP archives  
+**Tags:** pixel, rpg, tileset, character, monster, vfx, platformer, fantasy, rpgmaker, zip  
+**File types:** .zip(70)  
+**Art style:** pixel art  
+**Perspective:** top-down RPG, side-view platformer, front-facing battlers  
+**Resolution:** 16x16 tiles, 48x48 characters  
+**Palette:** warm colorful fantasy palette  
+**Compatibility group:** pixel-small  
+**Notes:** ZIP ARCHIVES — assets must be extracted before use. Contains: Fantasy Dreamland (tilesets, characters, bosses, enemies, icons — RPG Maker MZ format), Pixel Battlers (RPG monster sprites with multiple animation states), Pixel VFX (fire/ice/light/buff spell animations), Platformer World (16x16 themed platformer tilesets), Sound Effects (footsteps, game SFX, sci-fi UI — MP3). All consistent 16-bit pixel art style.  
 
 ### `medievalrpgpack/`
 **286 files** | Style: pixel art, medieval  
