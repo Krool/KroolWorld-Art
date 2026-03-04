@@ -489,7 +489,7 @@
     "pixel_art": true,
     "animated": true,
     "compatibility_group": "pixel-small",
-    "notes": "ZIP ARCHIVES — assets must be extracted before use. Contains: Fantasy Dreamland (tilesets, characters, bosses, enemies, icons — RPG Maker MZ format), Pixel Battlers (RPG monster sprites with multiple animation states), Pixel VFX (fire/ice/light/buff spell animations), Platformer World (16x16 themed platformer tilesets), Sound Effects (footsteps, game SFX, sci-fi UI — MP3). All consistent 16-bit pixel art style."
+    "notes": "10,000+ extracted pixel art assets. Fantasy Dreamland (35 packs: grasslands, forest, desert, caves, castle, city, dungeon, village, interior tilesets + characters, bosses, enemies, icons — RPG Maker MZ format), Pixel Battlers (12 monster packs with animation states), Pixel VFX (fire/ice/light/buff spell animations), Platformer World (15 themed 16x16 platformer tilesets), Sound Effects (footsteps, game SFX, sci-fi UI — MP3/OGG/WAV). All consistent 16-bit pixel art style."
   },
   "Cute RPG Music Pack 1(1)": {
     "art_style": "N/A (audio)",

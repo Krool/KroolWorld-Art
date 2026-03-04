@@ -1,6 +1,6 @@
 # KroolWorld Shared Asset Library
 
-This folder is a shared game asset library. It contains 56 packs (~66,000 files) — art, UI, icons, sound effects, music, and more.
+This folder is a shared game asset library. It contains 56 packs (~77,000 files) — art, UI, icons, sound effects, music, and more.
 Do not modify the asset folders. Copy assets out to your project using the tools below.
 
 ---
@@ -90,7 +90,7 @@ Read these files before recommending or selecting assets:
 - `FantasyIconsMegaPack` has 2672+ hand-drawn icons — the largest icon pack for non-pixel projects
 - `Tiny RPG Character Asset Pack` has 20 side-view battle characters with full animations — good for combat scenes
 - `10k Game Assets` has 10,000+ assets spanning pixel art AND HD graphics (two incompatible styles) plus audio, fonts, and 3D models — do NOT mix pixel and HD sections
-- `Game Assets(2)` contains ZIP archives that must be extracted before use — pixel art fantasy RPG tilesets, characters, monsters, VFX, platformer tiles
+- `Game Assets(2)` has 10,000+ pixel art fantasy RPG assets — tilesets, characters, monsters, spell VFX, platformer tiles, sound effects (RPG Maker compatible)
 - `Universal Sound FX` contains 10,000+ WAV sound effects across 75+ categories — check it first for any sound need
 - `Cute RPG Music Pack 1–5` has 25 lighthearted RPG music tracks (MP3/OGG/WAV, loopable) — use for cute/casual games
 - `Epic Medieval I–V Music Pack` has 30 epic orchestral tracks — use for serious medieval/fantasy RPGs

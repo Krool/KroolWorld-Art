@@ -1,7 +1,7 @@
 # KroolWorld Art Asset Guide
 
 **Total packs:** 56  
-**Total files:** 66336  
+**Total files:** 76824  
 
 ---
 
@@ -490,17 +490,17 @@ Massive multi-category game asset pack by Chequered Ink — 10,000+ assets acros
 **Notes:** 10,000+ assets from Chequered Ink spanning two incompatible visual styles. Pixel Art section (4,574 files): 8bit adventure platformer, RPG characters/tilesets, inventory icons, retro monsters, control prompts, 1-bit puzzle assets. HD Graphics section (5,114 files): platformer, UI, 3D cars, dice, icons, puzzles, cards, board games, planets, particles, monsters. Also includes 792 WAV SFX, fonts, and 35 3D vehicle models. Do NOT mix pixel and HD assets in the same project.  
 
 ### `Game Assets(2)/`
-**70 files** | Style: pixel art, fantasy  
-Collection of 70 ZIP archives containing pixel art fantasy RPG assets — Fantasy Dreamland tilesets/characters (16x16 tiles, 48x48 characters), Pixel Battlers RPG monster sprites, Pixel VFX spell animations, Platformer World tilesets, and sound effects (MP3). RPG Maker MV/MZ compatible formats included. NOTE: Assets are inside ZIP files and must be extracted before use.  
-**Usage:** Fantasy RPG tilesets, character sprites, monster battlers, spell VFX, platformer tiles — requires extraction from ZIP archives  
-**Tags:** pixel, rpg, tileset, character, monster, vfx, platformer, fantasy, rpgmaker, zip  
-**File types:** .zip(70)  
+**10558 files** | Style: pixel art, fantasy  
+Large pixel art fantasy RPG asset collection — Fantasy Dreamland tilesets/characters (16x16 tiles, 48x48 characters across 35 themed packs: grasslands, forest, desert, caves, castle, city, dungeon, village, interior, etc.), Pixel Battlers RPG monster sprites (12 monster packs with multiple animation states), Pixel VFX spell animations (fire, ice, light, buff/debuff), Platformer World tilesets (15 themed 16x16 platformer environments), and sound effects (footsteps, game SFX, sci-fi UI — MP3/OGG/WAV). RPG Maker MV/MZ compatible formats included.  
+**Usage:** Fantasy RPG tilesets, character sprites, monster battlers, spell VFX, platformer tiles, sound effects  
+**Tags:** pixel, rpg, tileset, character, monster, vfx, platformer, fantasy, rpgmaker, audio, sfx  
+**File types:** .mp3(134), .ogg(134), .png(10086), .txt(70), .wav(134)  
 **Art style:** pixel art  
 **Perspective:** top-down RPG, side-view platformer, front-facing battlers  
 **Resolution:** 16x16 tiles, 48x48 characters  
 **Palette:** warm colorful fantasy palette  
 **Compatibility group:** pixel-small  
-**Notes:** ZIP ARCHIVES — assets must be extracted before use. Contains: Fantasy Dreamland (tilesets, characters, bosses, enemies, icons — RPG Maker MZ format), Pixel Battlers (RPG monster sprites with multiple animation states), Pixel VFX (fire/ice/light/buff spell animations), Platformer World (16x16 themed platformer tilesets), Sound Effects (footsteps, game SFX, sci-fi UI — MP3). All consistent 16-bit pixel art style.  
+**Notes:** 10,000+ extracted pixel art assets. Fantasy Dreamland (35 packs: grasslands, forest, desert, caves, castle, city, dungeon, village, interior tilesets + characters, bosses, enemies, icons — RPG Maker MZ format), Pixel Battlers (12 monster packs with animation states), Pixel VFX (fire/ice/light/buff spell animations), Platformer World (15 themed 16x16 platformer tilesets), Sound Effects (footsteps, game SFX, sci-fi UI — MP3/OGG/WAV). All consistent 16-bit pixel art style.  
 
 ### `medievalrpgpack/`
 **286 files** | Style: pixel art, medieval  

@@ -32,7 +32,7 @@ Some packs are **style-independent** (UI kits, audio, VFX) and can be used with 
 | `HeroEditor` | Customizable fantasy/undead characters, equipment, animations |
 | `Tiny RPG Character Asset Pack v1.03b -Full 20 Characters` | 20 tiny side-view battle characters (heroes + enemies), full animations |
 | `10k Game Assets` (Pixel Art section only) | 8-bit adventure, RPG characters/tilesets, inventory icons, retro monsters, control prompts |
-| `Game Assets(2)` (ZIP — requires extraction) | Fantasy Dreamland tilesets/chars, Pixel Battlers monsters, Pixel VFX, Platformer World tiles |
+| `Game Assets(2)` | Fantasy Dreamland tilesets/chars, Pixel Battlers monsters, Pixel VFX, Platformer World tiles |
 
 **Palette:** Varied but generally muted/earthy or classic bright RPG colors
 **Resolution:** 16–32px per tile/sprite

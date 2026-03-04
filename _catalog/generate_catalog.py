@@ -304,11 +304,11 @@ PACK_CONTEXT = {
         "tags": ["pixel", "hd", "character", "sprite", "tileset", "icon", "ui", "audio", "sfx", "platformer", "rpg", "retro", "font", "3d", "mixed"],
     },
     "Game Assets(2)": {
-        "description": "Collection of 70 ZIP archives containing pixel art fantasy RPG assets — Fantasy Dreamland tilesets/characters (16x16 tiles, 48x48 characters), Pixel Battlers RPG monster sprites, Pixel VFX spell animations, Platformer World tilesets, and sound effects (MP3). RPG Maker MV/MZ compatible formats included. NOTE: Assets are inside ZIP files and must be extracted before use.",
+        "description": "Large pixel art fantasy RPG asset collection — Fantasy Dreamland tilesets/characters (16x16 tiles, 48x48 characters across 35 themed packs: grasslands, forest, desert, caves, castle, city, dungeon, village, interior, etc.), Pixel Battlers RPG monster sprites (12 monster packs with multiple animation states), Pixel VFX spell animations (fire, ice, light, buff/debuff), Platformer World tilesets (15 themed 16x16 platformer environments), and sound effects (footsteps, game SFX, sci-fi UI — MP3/OGG/WAV). RPG Maker MV/MZ compatible formats included.",
         "category": "mixed",
         "style": "pixel art, fantasy",
-        "usage": "Fantasy RPG tilesets, character sprites, monster battlers, spell VFX, platformer tiles — requires extraction from ZIP archives",
-        "tags": ["pixel", "rpg", "tileset", "character", "monster", "vfx", "platformer", "fantasy", "rpgmaker", "zip"],
+        "usage": "Fantasy RPG tilesets, character sprites, monster battlers, spell VFX, platformer tiles, sound effects",
+        "tags": ["pixel", "rpg", "tileset", "character", "monster", "vfx", "platformer", "fantasy", "rpgmaker", "audio", "sfx"],
     },
     "Cute RPG Music Pack 1(1)": {
         "description": "5 cute/lighthearted RPG music tracks in MP3, OGG, and WAV formats. Loopable and non-loopable variants. Tracks: Adorable Adventures, Dreamy Dandelion, Sunny Symphony, Treasure Island, Waddlin' Away.",
