@@ -5,28 +5,58 @@ Do not modify the asset folders. Copy assets out to your project using the tools
 
 ---
 
+## CRITICAL — Do NOT scan or process asset folders directly
+
+This library has **55,000+ files** across 39 packs. The catalog already indexes every file.
+
+**NEVER do any of the following:**
+- `find`, `ls -R`, `glob`, or `grep` inside the asset pack folders
+- Read or open image files to "understand" the collection
+- Attempt to split sprite sheets, rename, resize, or reorganize assets
+- Scan directories to build your own file lists — `assets.jsonl` already has every file
+
+**ALWAYS use the catalog and tools instead:**
+1. Read `_catalog/GUIDE.md` for pack descriptions, tags, styles, and file counts
+2. Read `_catalog/style_rules.md` for compatibility rules before recommending assets
+3. Run `python _catalog/search.py` to find specific assets by keyword, tag, or pack
+4. Run `python _catalog/export.py` to copy assets into your project
+5. Read `_catalog/packs.json` for machine-readable pack metadata (includes visual notes)
+
+The catalog files contain everything you need — descriptions, tags, file types, art style, resolution, palette, compatibility groups, and per-file records. There is no reason to touch the raw asset folders.
+
+---
+
 ## Find assets fast
 
 **Search by keyword, tag, or pack:**
 ```bash
-python _catalog/search.py sword
-python _catalog/search.py --tag icon --tag weapon --ext png
-python _catalog/search.py --pack swordsandshields
-python _catalog/search.py --list-packs
-python _catalog/search.py --list-tags
+python _catalog/search.py sword                    # keyword search (filename + tags)
+python _catalog/search.py --tag icon --tag weapon --ext png  # multi-tag AND filter
+python _catalog/search.py --pack swordsandshields  # browse a specific pack
+python _catalog/search.py --type characters         # filter by category
+python _catalog/search.py --list-packs             # list all 39 packs with descriptions
+python _catalog/search.py --list-tags              # list all tags by frequency
+python _catalog/search.py --limit 100 knight       # increase result limit (default 50)
+python _catalog/search.py --full knight            # show full absolute paths
 ```
 
 **Copy assets to your project:**
 ```bash
-# Ad-hoc
+# Ad-hoc — copy matching assets directly
 python _catalog/export.py --tag sword --ext png --dest /your/project/assets
+python _catalog/export.py --pack swordsandshields --dest /your/project/assets
+python _catalog/export.py --dest /your/project/assets knight  # keyword search
 
 # Manifest-driven (recommended — keeps a record of what your project uses)
 python _catalog/export.py --init-manifest /your/project   # run once to scaffold
 python _catalog/export.py --manifest /your/project/assets.manifest.json
-```
 
-Add `--dry-run` to preview before copying. Source files (PSD, aseprite) are excluded by default; add `--include-source` to include them.
+# Useful flags
+#   --dry-run          Preview what would be copied without copying
+#   --flat             Flatten all files into dest (no subfolders)
+#   --overwrite        Overwrite existing files (default: skip)
+#   --include-source   Include PSD/aseprite/SCML source files (excluded by default)
+```
 
 ---
 
@@ -36,22 +66,41 @@ Read these files before recommending or selecting assets:
 
 | File | Purpose |
 |---|---|
-| `_catalog/GUIDE.md` | Full pack listing — descriptions, usage, tags, file counts |
+| `_catalog/GUIDE.md` | Full pack listing — descriptions, usage, tags, file counts, visual metadata |
 | `_catalog/style_rules.md` | **Critical** — style groups, compatibility rules, what NOT to mix |
 | `_catalog/visual_notes.json` | Per-pack visual metadata: art style, scale, palette, perspective |
-| `_catalog/packs.json` | Machine-readable pack data |
+| `_catalog/packs.json` | Machine-readable pack data (includes visual_notes merged in) |
 | `_catalog/assets.jsonl` | One record per file — pack, path, type, tags, size |
+
+**Workflow for asset recommendations:**
+1. Read `style_rules.md` to understand the 6 style groups and compatibility matrix
+2. Read `GUIDE.md` to find packs matching the project's needs
+3. Use `search.py` to find specific assets within those packs
+4. Use `export.py` to copy selected assets into the target project
 
 ---
 
 ## Key facts for asset recommendations
 
-- Packs fall into **5 visual style groups** plus style-independent packs (UI, audio) — see `_catalog/style_rules.md` before recommending
+- Packs fall into **6 visual style groups** (A–F) plus style-independent packs (UI, audio) — see `_catalog/style_rules.md` before recommending
 - Never mix cartoon/illustrated characters (Group D) with pixel art tilesets (Group A/B)
 - The `rpgworlds*` packs are a cohesive family — use them together
 - `tropicalislandgameassets` and `wintervillagegameassets` are siblings by the same creator
 - `rpggame1700plusicons` is the most comprehensive pixel icon set (1700+ items) — check it first for pixel RPG UI icons
 - `FantasyIconsMegaPack` has 2672+ hand-drawn icons — the largest icon pack for non-pixel projects
+- `Tiny RPG Character Asset Pack` has 20 side-view battle characters with full animations — good for combat scenes
 - `Universal Sound FX` contains 10,000+ WAV sound effects across 75+ categories — check it first for any sound need
 - `Area730` is a complete game UI kit (buttons, bars, panels, dialogs)
 - Source files (.psd, .aseprite, .scml) are excluded from exports by default
+
+---
+
+## Adding new packs to the catalog
+
+When a new asset folder is added to this directory:
+
+1. Add a `PACK_CONTEXT` entry in `_catalog/generate_catalog.py` (description, category, style, usage, tags)
+2. Add a visual metadata entry in `_catalog/visual_notes.json` (art style, perspective, resolution, palette, compatibility group)
+3. Add the pack to the appropriate style group table in `_catalog/style_rules.md`
+4. Run `python _catalog/generate_catalog.py` to regenerate `packs.json`, `assets.jsonl`, and `GUIDE.md`
+5. Update the pack count in this file
