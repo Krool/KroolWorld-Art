@@ -1,13 +1,13 @@
 # KroolWorld Shared Asset Library
 
-This folder is a shared game asset library. It contains 56 packs (~77,000 files) — art, UI, icons, sound effects, music, and more.
+This folder is a shared game asset library. It contains 65 packs (~87,000 files) — art, UI, icons, sound effects, music, and more.
 Do not modify the asset folders. Copy assets out to your project using the tools below.
 
 ---
 
 ## CRITICAL — Do NOT scan or process asset folders directly
 
-This library has **55,000+ files** across 39 packs. The catalog already indexes every file.
+This library has **87,000+ files** across 65 packs. The catalog already indexes every file.
 
 **NEVER do any of the following:**
 - `find`, `ls -R`, `glob`, or `grep` inside the asset pack folders
@@ -34,7 +34,7 @@ python _catalog/search.py sword                    # keyword search (filename + 
 python _catalog/search.py --tag icon --tag weapon --ext png  # multi-tag AND filter
 python _catalog/search.py --pack swordsandshields  # browse a specific pack
 python _catalog/search.py --type characters         # filter by category
-python _catalog/search.py --list-packs             # list all 39 packs with descriptions
+python _catalog/search.py --list-packs             # list all 65 packs with descriptions
 python _catalog/search.py --list-tags              # list all tags by frequency
 python _catalog/search.py --limit 100 knight       # increase result limit (default 50)
 python _catalog/search.py --full knight            # show full absolute paths
@@ -96,6 +96,12 @@ Read these files before recommending or selecting assets:
 - `Epic Medieval I–V Music Pack` has 30 epic orchestral tracks — use for serious medieval/fantasy RPGs
 - `Farming RPG Music Pack 1–5` has 26 pastoral/relaxing tracks — use for farming/life sim games
 - `Area730` is a complete game UI kit (buttons, bars, panels, dialogs)
+- `32rogues` is a complete 32x32 roguelike tileset (v0.5.0) — characters, monsters, items, tiles, autotiles in one pack
+- `CHARACTER MEGAPACK` has 54 tiny pixel characters (heroes with LVL1-4 variants, enemies, NPCs) — from the same creator as SLIMES, RPG HEROES, and Orcs Goblins packs
+- `CHARACTER MEGAPACK`, `SLIMES BLOBS TENTACLES`, `RPG HEROES ENEMIES`, and `Orcs Goblins V2` share identical art style — use them together
+- `OVERBURN AssetPack` has fire/flame VFX in 4 color variants — good for spell effects
+- `ASTRONAUT AssetPack` has 15 color variants with 8-directional animations — ideal for multiplayer
+- `OVERSTELLAR AssetPack` has animated planets, stars, galaxies, and space backgrounds — complete space environment kit
 - Source files (.psd, .aseprite, .scml) are excluded from exports by default
 
 ---

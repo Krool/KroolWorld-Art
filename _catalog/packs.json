@@ -82,6 +82,76 @@
     }
   },
   {
+    "pack": "32rogues",
+    "description": "32x32 pixel art roguelike tileset (v0.5.0) \u2014 35 character classes, 28 monsters, 100+ items, animals, environment tiles, autotiles, animated tiles, and palette swap variants. Sprite sheets with individual frame documentation.",
+    "category": "mixed",
+    "style": "pixel art, roguelike",
+    "usage": "Roguelike/dungeon crawler characters, monsters, items, environment tiles",
+    "tags": [
+      "character",
+      "monster",
+      "item",
+      "tileset",
+      "pixel",
+      "roguelike",
+      "sprite",
+      "animated",
+      "autotile",
+      "32x32"
+    ],
+    "file_count": 17,
+    "file_types": {
+      ".png": 9,
+      ".txt": 8
+    },
+    "visual": {
+      "art_style": "pixel art",
+      "render_method": "pixel art, clean 32x32 grid",
+      "outline": "black pixel outline",
+      "perspective": "top-down, roguelike grid",
+      "approx_resolution": "32x32px per tile/character",
+      "palette": "rich varied colors, dark backgrounds, fantasy roguelike",
+      "pixel_art": true,
+      "animated": true,
+      "compatibility_group": "pixel-small",
+      "notes": "32x32 roguelike tileset v0.5.0 by Seth Byrd. 35 character classes, 28 monsters, 100+ items, animals, tiles, autotiles, animated tiles. Includes palette swap variants. CC0 licensed. Sprite sheets with .txt documentation per sheet."
+    }
+  },
+  {
+    "pack": "32rogues-0.4.0",
+    "description": "32x32 pixel art roguelike tileset (v0.4.0, older version) \u2014 characters, monsters, items, animals, environment tiles. Superseded by 32rogues v0.5.0 which adds autotiles, animated tiles, and palette swaps.",
+    "category": "mixed",
+    "style": "pixel art, roguelike",
+    "usage": "Roguelike/dungeon crawler \u2014 use v0.5.0 instead unless you need the older version",
+    "tags": [
+      "character",
+      "monster",
+      "item",
+      "tileset",
+      "pixel",
+      "roguelike",
+      "sprite",
+      "32x32"
+    ],
+    "file_count": 11,
+    "file_types": {
+      ".png": 5,
+      ".txt": 6
+    },
+    "visual": {
+      "art_style": "pixel art",
+      "render_method": "pixel art, clean 32x32 grid",
+      "outline": "black pixel outline",
+      "perspective": "top-down, roguelike grid",
+      "approx_resolution": "32x32px per tile/character",
+      "palette": "rich varied colors, dark backgrounds, fantasy roguelike",
+      "pixel_art": true,
+      "animated": false,
+      "compatibility_group": "pixel-small",
+      "notes": "Older version (v0.4.0) of 32rogues. Superseded by v0.5.0 which adds autotiles, animated tiles, and palette swaps. Same art style."
+    }
+  },
+  {
     "pack": "7soulsrpggraphics_cavetileset",
     "description": "Cave and underground tileset for RPG games.",
     "category": "tileset",
@@ -181,6 +251,39 @@
     }
   },
   {
+    "pack": "ASTRONAUT AssetPack",
+    "description": "Pixel art astronaut character with 15 color variants (bicolor regular/variant, red, turquoise, green, yellow, orange, white, grey, pink, blue, purple, brown, salmon, black) plus bonus content. Full 8-directional animations: idle, run, jump, fall, dive, roll, land, turn. Both FullBody and DeadBody states. Sprite sheet format with direction/frame grids.",
+    "category": "characters",
+    "style": "pixel art, sci-fi",
+    "usage": "Space game player characters, Among Us-style characters, sci-fi RPG, multiplayer color variants",
+    "tags": [
+      "character",
+      "sprite",
+      "animated",
+      "pixel",
+      "sci-fi",
+      "space",
+      "astronaut",
+      "8-directional"
+    ],
+    "file_count": 327,
+    "file_types": {
+      ".png": 327
+    },
+    "visual": {
+      "art_style": "pixel art",
+      "render_method": "pixel art, small characters on transparent background",
+      "outline": "black pixel outline",
+      "perspective": "top-down, 8-directional",
+      "approx_resolution": "16-24px character height, sprite sheet grids",
+      "palette": "15 distinct color variants, clean bold colors",
+      "pixel_art": true,
+      "animated": true,
+      "compatibility_group": "pixel-small",
+      "notes": "Same creator as OVERBURN and OVERSTELLAR. Among Us-inspired astronaut characters. Full 8-directional movement with FullBody and DeadBody states. Sprite sheet grid format (e.g. 6x4, 8x1). 15 color variants ideal for multiplayer."
+    }
+  },
+  {
     "pack": "Casual_Hit",
     "description": "Casual hit/impact visual effect prefabs with textures. 4 hit variations in 4 color variants (blue, red, yellow, normal). Unity prefabs with materials and shaders.",
     "category": "effects",
@@ -214,6 +317,44 @@
       "animated": true,
       "compatibility_group": "style-independent",
       "notes": "Unity hit/impact VFX. 4 hit variations \u00d7 4 colors. Requires Unity for prefab usage; textures usable standalone."
+    }
+  },
+  {
+    "pack": "CHARACTER MEGAPACK",
+    "description": "54 tiny pixel art RPG characters with full animation sets (ATK, Idle, Move, Dash, DashEnd). Includes heroes (Knight, Dwarfette, Wizard, Ranger, Ninja \u2014 4 level variants each), enemies (Cyclops, Ent, Goblin, Mimic, Frog, Orc, Skeleton, Slime, Spider, Troll, Mushroom, Mummy, Scarecrow), and NPCs (GameMaster, Dummy). Individual frames + sprite sheet strips per animation.",
+    "category": "characters",
+    "style": "pixel art, fantasy, tiny",
+    "usage": "Top-down RPG player characters, enemies, NPCs \u2014 extensive character variety with level progression variants",
+    "tags": [
+      "character",
+      "sprite",
+      "animated",
+      "pixel",
+      "fantasy",
+      "rpg",
+      "knight",
+      "wizard",
+      "goblin",
+      "skeleton",
+      "slime",
+      "orc",
+      "top-down"
+    ],
+    "file_count": 3984,
+    "file_types": {
+      ".png": 3984
+    },
+    "visual": {
+      "art_style": "pixel art",
+      "render_method": "pixel art, tiny sprites on transparent background",
+      "outline": "black pixel outline",
+      "perspective": "top-down / 3/4 view",
+      "approx_resolution": "16-24px character height, sprite sheets vary",
+      "palette": "varied fantasy colors, clean and colorful",
+      "pixel_art": true,
+      "animated": true,
+      "compatibility_group": "pixel-tiny-rpg",
+      "notes": "54 characters by the same creator as SLIMES/ORCS/HEROES packs. Each character has individual frame PNGs + NxM sprite strip PNGs. Level progression variants (LVL1-4) for heroes. Consistent tiny pixel art style across all characters."
     }
   },
   {
@@ -1171,6 +1312,43 @@
     }
   },
   {
+    "pack": "Orcs Goblins V2",
+    "description": "Orc and goblin character sprites V2 in 3 skin color variants (green, blue, red). Includes barrel goblins, regular goblins, orc warriors, and orc riders with full animation sets (ATK, Idle, Move, Hit, Dead). Individual frames + sprite sheet strips. Includes older V1 versions.",
+    "category": "characters",
+    "style": "pixel art, fantasy, tiny",
+    "usage": "Top-down RPG orc and goblin enemies with color-coded variants",
+    "tags": [
+      "character",
+      "sprite",
+      "animated",
+      "pixel",
+      "fantasy",
+      "rpg",
+      "orc",
+      "goblin",
+      "enemy",
+      "top-down"
+    ],
+    "file_count": 684,
+    "file_types": {
+      ".png": 654,
+      ".gif": 24,
+      ".json": 6
+    },
+    "visual": {
+      "art_style": "pixel art",
+      "render_method": "pixel art, tiny sprites on transparent background",
+      "outline": "black pixel outline",
+      "perspective": "top-down / 3/4 view",
+      "approx_resolution": "16-24px character height",
+      "palette": "3 skin color palettes (green, blue, red)",
+      "pixel_art": true,
+      "animated": true,
+      "compatibility_group": "pixel-tiny-rpg",
+      "notes": "Same creator as CHARACTER MEGAPACK. V2 update with improved sprites. Includes older V1 for reference. Barrel goblins, regular goblins, orc warriors, orc riders."
+    }
+  },
+  {
     "pack": "outdoorandforesttileset",
     "description": "Outdoor and forest environment tileset with animated elements. Includes Aseprite source files.",
     "category": "tileset",
@@ -1201,6 +1379,79 @@
       "animated": true,
       "compatibility_group": "pixel-small",
       "notes": "Small pixel art. Animated chest frames. Warm earthy palette."
+    }
+  },
+  {
+    "pack": "OVERBURN AssetPack",
+    "description": "Fire and flame VFX sprite sheets in 4 color variants (yellow-orange, blue, green, purple). Includes flame animations, fireballs, orbs (top-down and isometric), shockwaves, flamethrower effects, realistic fire, and circle/square shaped flames at multiple sizes (32px, 48px, 64px, 96px). Bonus characters (Mage, Flamethrower). Includes PSD source files and preview GIFs.",
+    "category": "effects",
+    "style": "pixel art, VFX",
+    "usage": "Fire spell effects, flame VFX, elemental abilities, torch/campfire animations",
+    "tags": [
+      "effect",
+      "vfx",
+      "fire",
+      "flame",
+      "spell",
+      "pixel",
+      "animated",
+      "fireball",
+      "particle"
+    ],
+    "file_count": 212,
+    "file_types": {
+      ".txt": 2,
+      ".png": 186,
+      ".gif": 5,
+      ".psd": 19
+    },
+    "visual": {
+      "art_style": "pixel art VFX",
+      "render_method": "pixel art, anti-aliased VFX on transparent background",
+      "outline": "none (glow/emission effects)",
+      "perspective": "top-down + isometric variants",
+      "approx_resolution": "32-96px per effect frame, sprite sheet grids",
+      "palette": "4 color themes: yellow-orange, blue, green, purple",
+      "pixel_art": true,
+      "animated": true,
+      "compatibility_group": "style-independent",
+      "notes": "Fire/flame VFX by the same creator as ASTRONAUT and OVERSTELLAR. Sprite sheet grids (NxM format). Includes top-down and isometric orb variants at multiple sizes. PSD source files included. Bonus Mage and Flamethrower character sprites."
+    }
+  },
+  {
+    "pack": "OVERSTELLAR AssetPack",
+    "description": "Space-themed VFX and environment sprite sheets \u2014 animated rotating planets (40+ including solar system replicas), animated suns/stars, asteroids, scrolling star backgrounds, black holes, celestial bodies (comets, nebulae), eclipses, galaxies, meteorites, shooting stars, glowing stars, and scrolling space backgrounds. Pre-rendered 3D-style on sprite sheet grids.",
+    "category": "effects",
+    "style": "pixel art, sci-fi, space",
+    "usage": "Space game backgrounds, planet animations, celestial VFX, sci-fi environments, star fields",
+    "tags": [
+      "effect",
+      "vfx",
+      "space",
+      "planet",
+      "star",
+      "galaxy",
+      "asteroid",
+      "background",
+      "animated",
+      "sci-fi",
+      "pixel"
+    ],
+    "file_count": 422,
+    "file_types": {
+      ".png": 422
+    },
+    "visual": {
+      "art_style": "pixel art / pre-rendered 3D",
+      "render_method": "pre-rendered rotating 3D models as pixel sprite sheets",
+      "outline": "none (natural shading)",
+      "perspective": "front-facing space view",
+      "approx_resolution": "40-100px per planet/object, sprite sheet grids (16x15 typical)",
+      "palette": "deep space \u2014 dark backgrounds, vibrant planet/star colors",
+      "pixel_art": true,
+      "animated": true,
+      "compatibility_group": "style-independent",
+      "notes": "Same creator as OVERBURN and ASTRONAUT. Animated rotating planets (Earth-like, gas, dead, ringed, etc.), solar system replicas, suns, stars, black holes, galaxies, asteroids, meteorites, shooting stars, scrolling space backgrounds. Large sprite sheet grids for smooth rotation animation."
     }
   },
   {
@@ -1264,6 +1515,44 @@
       "animated": false,
       "compatibility_group": "stylized-items",
       "notes": "Stylized cartoon potions with thick outlines. Zelda/adventure game aesthetic. Pairs with swordsandshields style."
+    }
+  },
+  {
+    "pack": "RPG HEROES ENEMIES",
+    "description": "RPG hero and enemy character sprites organized by race \u2014 Humans, Orcs, Trolls, Demons, Weird Creatures \u2014 plus a bonus pseudo-Gameboy style set. Each character has ATK, Idle, Move, Hit, Dead animations. Individual frames + sprite sheet strips.",
+    "category": "characters",
+    "style": "pixel art, fantasy, tiny",
+    "usage": "Top-down RPG heroes and enemies \u2014 multiple races and character types",
+    "tags": [
+      "character",
+      "sprite",
+      "animated",
+      "pixel",
+      "fantasy",
+      "rpg",
+      "human",
+      "orc",
+      "troll",
+      "demon",
+      "enemy",
+      "hero",
+      "top-down"
+    ],
+    "file_count": 588,
+    "file_types": {
+      ".png": 588
+    },
+    "visual": {
+      "art_style": "pixel art",
+      "render_method": "pixel art, tiny sprites on transparent background",
+      "outline": "black pixel outline",
+      "perspective": "top-down / 3/4 view",
+      "approx_resolution": "16-24px character height",
+      "palette": "varied fantasy colors per race",
+      "pixel_art": true,
+      "animated": true,
+      "compatibility_group": "pixel-tiny-rpg",
+      "notes": "Same creator as CHARACTER MEGAPACK. Organized by race (Humans, Orcs, Trolls, Demons, WeirdCreatures). Bonus pseudo-Gameboy monochrome style variant. Individual frames + strip sheets."
     }
   },
   {
@@ -1786,6 +2075,41 @@
       "animated": false,
       "compatibility_group": "illustrated-icons",
       "notes": "250+ skill/ability icons organized by color. Each color may represent a skill school or element. Includes addon/modifier icons."
+    }
+  },
+  {
+    "pack": "SLIMES BLOBS TENTACLES",
+    "description": "Slime, blob, and tentacle enemy sprites in 12 color variants (green, cyan, blue, purple, pink, brown, red, dark green, yellow, orange, turquoise, weird purple). Each color has multiple slime levels with 4-directional attack, hit, idle, and move animations. Individual frames + sprite sheet strips.",
+    "category": "characters",
+    "style": "pixel art, fantasy, tiny",
+    "usage": "RPG enemy sprites \u2014 slimes and blob creatures with color-coded variants for difficulty levels",
+    "tags": [
+      "character",
+      "sprite",
+      "animated",
+      "pixel",
+      "fantasy",
+      "rpg",
+      "monster",
+      "slime",
+      "enemy",
+      "top-down"
+    ],
+    "file_count": 4380,
+    "file_types": {
+      ".png": 4380
+    },
+    "visual": {
+      "art_style": "pixel art",
+      "render_method": "pixel art, tiny sprites on transparent background",
+      "outline": "black pixel outline",
+      "perspective": "top-down / 3/4 view, 4-directional",
+      "approx_resolution": "16-24px character height",
+      "palette": "12 distinct color palettes (one per variant)",
+      "pixel_art": true,
+      "animated": true,
+      "compatibility_group": "pixel-tiny-rpg",
+      "notes": "Same creator as CHARACTER MEGAPACK, RPG HEROES ENEMIES, and Orcs Goblins V2. Slime enemies with level variants (Lvl01-Lvl02+). Individual frames + strip sheets. 4-directional attack animations."
     }
   },
   {

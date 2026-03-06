@@ -670,5 +670,113 @@
     "animated": false,
     "compatibility_group": "style-independent",
     "notes": "5 pastoral/relaxing farming RPG music tracks. Tracks: Dreams and Memories, Gramp's Still Got It, Lazy Afternoon, Moonlit Cruise, Woodland Melody."
+  },
+  "32rogues": {
+    "art_style": "pixel art",
+    "render_method": "pixel art, clean 32x32 grid",
+    "outline": "black pixel outline",
+    "perspective": "top-down, roguelike grid",
+    "approx_resolution": "32x32px per tile/character",
+    "palette": "rich varied colors, dark backgrounds, fantasy roguelike",
+    "pixel_art": true,
+    "animated": true,
+    "compatibility_group": "pixel-small",
+    "notes": "32x32 roguelike tileset v0.5.0 by Seth Byrd. 35 character classes, 28 monsters, 100+ items, animals, tiles, autotiles, animated tiles. Includes palette swap variants. CC0 licensed. Sprite sheets with .txt documentation per sheet."
+  },
+  "32rogues-0.4.0": {
+    "art_style": "pixel art",
+    "render_method": "pixel art, clean 32x32 grid",
+    "outline": "black pixel outline",
+    "perspective": "top-down, roguelike grid",
+    "approx_resolution": "32x32px per tile/character",
+    "palette": "rich varied colors, dark backgrounds, fantasy roguelike",
+    "pixel_art": true,
+    "animated": false,
+    "compatibility_group": "pixel-small",
+    "notes": "Older version (v0.4.0) of 32rogues. Superseded by v0.5.0 which adds autotiles, animated tiles, and palette swaps. Same art style."
+  },
+  "CHARACTER MEGAPACK": {
+    "art_style": "pixel art",
+    "render_method": "pixel art, tiny sprites on transparent background",
+    "outline": "black pixel outline",
+    "perspective": "top-down / 3/4 view",
+    "approx_resolution": "16-24px character height, sprite sheets vary",
+    "palette": "varied fantasy colors, clean and colorful",
+    "pixel_art": true,
+    "animated": true,
+    "compatibility_group": "pixel-tiny-rpg",
+    "notes": "54 characters by the same creator as SLIMES/ORCS/HEROES packs. Each character has individual frame PNGs + NxM sprite strip PNGs. Level progression variants (LVL1-4) for heroes. Consistent tiny pixel art style across all characters."
+  },
+  "SLIMES BLOBS TENTACLES": {
+    "art_style": "pixel art",
+    "render_method": "pixel art, tiny sprites on transparent background",
+    "outline": "black pixel outline",
+    "perspective": "top-down / 3/4 view, 4-directional",
+    "approx_resolution": "16-24px character height",
+    "palette": "12 distinct color palettes (one per variant)",
+    "pixel_art": true,
+    "animated": true,
+    "compatibility_group": "pixel-tiny-rpg",
+    "notes": "Same creator as CHARACTER MEGAPACK, RPG HEROES ENEMIES, and Orcs Goblins V2. Slime enemies with level variants (Lvl01-Lvl02+). Individual frames + strip sheets. 4-directional attack animations."
+  },
+  "RPG HEROES ENEMIES": {
+    "art_style": "pixel art",
+    "render_method": "pixel art, tiny sprites on transparent background",
+    "outline": "black pixel outline",
+    "perspective": "top-down / 3/4 view",
+    "approx_resolution": "16-24px character height",
+    "palette": "varied fantasy colors per race",
+    "pixel_art": true,
+    "animated": true,
+    "compatibility_group": "pixel-tiny-rpg",
+    "notes": "Same creator as CHARACTER MEGAPACK. Organized by race (Humans, Orcs, Trolls, Demons, WeirdCreatures). Bonus pseudo-Gameboy monochrome style variant. Individual frames + strip sheets."
+  },
+  "Orcs Goblins V2": {
+    "art_style": "pixel art",
+    "render_method": "pixel art, tiny sprites on transparent background",
+    "outline": "black pixel outline",
+    "perspective": "top-down / 3/4 view",
+    "approx_resolution": "16-24px character height",
+    "palette": "3 skin color palettes (green, blue, red)",
+    "pixel_art": true,
+    "animated": true,
+    "compatibility_group": "pixel-tiny-rpg",
+    "notes": "Same creator as CHARACTER MEGAPACK. V2 update with improved sprites. Includes older V1 for reference. Barrel goblins, regular goblins, orc warriors, orc riders."
+  },
+  "OVERBURN AssetPack": {
+    "art_style": "pixel art VFX",
+    "render_method": "pixel art, anti-aliased VFX on transparent background",
+    "outline": "none (glow/emission effects)",
+    "perspective": "top-down + isometric variants",
+    "approx_resolution": "32-96px per effect frame, sprite sheet grids",
+    "palette": "4 color themes: yellow-orange, blue, green, purple",
+    "pixel_art": true,
+    "animated": true,
+    "compatibility_group": "style-independent",
+    "notes": "Fire/flame VFX by the same creator as ASTRONAUT and OVERSTELLAR. Sprite sheet grids (NxM format). Includes top-down and isometric orb variants at multiple sizes. PSD source files included. Bonus Mage and Flamethrower character sprites."
+  },
+  "ASTRONAUT AssetPack": {
+    "art_style": "pixel art",
+    "render_method": "pixel art, small characters on transparent background",
+    "outline": "black pixel outline",
+    "perspective": "top-down, 8-directional",
+    "approx_resolution": "16-24px character height, sprite sheet grids",
+    "palette": "15 distinct color variants, clean bold colors",
+    "pixel_art": true,
+    "animated": true,
+    "compatibility_group": "pixel-small",
+    "notes": "Same creator as OVERBURN and OVERSTELLAR. Among Us-inspired astronaut characters. Full 8-directional movement with FullBody and DeadBody states. Sprite sheet grid format (e.g. 6x4, 8x1). 15 color variants ideal for multiplayer."
+  },
+  "OVERSTELLAR AssetPack": {
+    "art_style": "pixel art / pre-rendered 3D",
+    "render_method": "pre-rendered rotating 3D models as pixel sprite sheets",
+    "outline": "none (natural shading)",
+    "perspective": "front-facing space view",
+    "approx_resolution": "40-100px per planet/object, sprite sheet grids (16x15 typical)",
+    "palette": "deep space — dark backgrounds, vibrant planet/star colors",
+    "pixel_art": true,
+    "animated": true,
+    "compatibility_group": "style-independent",
+    "notes": "Same creator as OVERBURN and ASTRONAUT. Animated rotating planets (Earth-like, gas, dead, ringed, etc.), solar system replicas, suns, stars, black holes, galaxies, asteroids, meteorites, shooting stars, scrolling space backgrounds. Large sprite sheet grids for smooth rotation animation."
   }
 }

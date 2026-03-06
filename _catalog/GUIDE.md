@@ -1,7 +1,7 @@
 # KroolWorld Art Asset Guide
 
-**Total packs:** 56  
-**Total files:** 76824  
+**Total packs:** 65  
+**Total files:** 87449  
 
 ---
 
@@ -273,6 +273,32 @@ Cute/chibi-style 2D character sprites with multiple animation states. Includes P
 **Compatibility group:** chibi-cartoon  
 **Notes:** Clean chibi characters, thick outlines. Pairs well with segel2dcharactersbundle.  
 
+### `ASTRONAUT AssetPack/`
+**327 files** | Style: pixel art, sci-fi  
+Pixel art astronaut character with 15 color variants (bicolor regular/variant, red, turquoise, green, yellow, orange, white, grey, pink, blue, purple, brown, salmon, black) plus bonus content. Full 8-directional animations: idle, run, jump, fall, dive, roll, land, turn. Both FullBody and DeadBody states. Sprite sheet format with direction/frame grids.  
+**Usage:** Space game player characters, Among Us-style characters, sci-fi RPG, multiplayer color variants  
+**Tags:** character, sprite, animated, pixel, sci-fi, space, astronaut, 8-directional  
+**File types:** .png(327)  
+**Art style:** pixel art  
+**Perspective:** top-down, 8-directional  
+**Resolution:** 16-24px character height, sprite sheet grids  
+**Palette:** 15 distinct color variants, clean bold colors  
+**Compatibility group:** pixel-small  
+**Notes:** Same creator as OVERBURN and OVERSTELLAR. Among Us-inspired astronaut characters. Full 8-directional movement with FullBody and DeadBody states. Sprite sheet grid format (e.g. 6x4, 8x1). 15 color variants ideal for multiplayer.  
+
+### `CHARACTER MEGAPACK/`
+**3984 files** | Style: pixel art, fantasy, tiny  
+54 tiny pixel art RPG characters with full animation sets (ATK, Idle, Move, Dash, DashEnd). Includes heroes (Knight, Dwarfette, Wizard, Ranger, Ninja — 4 level variants each), enemies (Cyclops, Ent, Goblin, Mimic, Frog, Orc, Skeleton, Slime, Spider, Troll, Mushroom, Mummy, Scarecrow), and NPCs (GameMaster, Dummy). Individual frames + sprite sheet strips per animation.  
+**Usage:** Top-down RPG player characters, enemies, NPCs — extensive character variety with level progression variants  
+**Tags:** character, sprite, animated, pixel, fantasy, rpg, knight, wizard, goblin, skeleton, slime, orc, top-down  
+**File types:** .png(3984)  
+**Art style:** pixel art  
+**Perspective:** top-down / 3/4 view  
+**Resolution:** 16-24px character height, sprite sheets vary  
+**Palette:** varied fantasy colors, clean and colorful  
+**Compatibility group:** pixel-tiny-rpg  
+**Notes:** 54 characters by the same creator as SLIMES/ORCS/HEROES packs. Each character has individual frame PNGs + NxM sprite strip PNGs. Level progression variants (LVL1-4) for heroes. Consistent tiny pixel art style across all characters.  
+
 ### `HeroEditor/`
 **4187 files** | Style: pixel art, fantasy  
 Comprehensive character customization system — Fantasy and Undead hero variants with body part customization (hair, eyes, ears, scars, facial hair), equipment icons across multiple themed sets, 39 animations (walk, run, jump, crouch, climb, combat), ranged weapon assets, and 54+ WAV sound effects. Includes C# inventory/shop system scripts.  
@@ -299,6 +325,32 @@ Large pack of medieval fantasy character sprites with many classes and animation
 **Compatibility group:** pixel-small  
 **Notes:** Very small pixel characters. Large variety of classes. Standard RPGMaker-scale sprites.  
 
+### `Orcs Goblins V2/`
+**684 files** | Style: pixel art, fantasy, tiny  
+Orc and goblin character sprites V2 in 3 skin color variants (green, blue, red). Includes barrel goblins, regular goblins, orc warriors, and orc riders with full animation sets (ATK, Idle, Move, Hit, Dead). Individual frames + sprite sheet strips. Includes older V1 versions.  
+**Usage:** Top-down RPG orc and goblin enemies with color-coded variants  
+**Tags:** character, sprite, animated, pixel, fantasy, rpg, orc, goblin, enemy, top-down  
+**File types:** .gif(24), .json(6), .png(654)  
+**Art style:** pixel art  
+**Perspective:** top-down / 3/4 view  
+**Resolution:** 16-24px character height  
+**Palette:** 3 skin color palettes (green, blue, red)  
+**Compatibility group:** pixel-tiny-rpg  
+**Notes:** Same creator as CHARACTER MEGAPACK. V2 update with improved sprites. Includes older V1 for reference. Barrel goblins, regular goblins, orc warriors, orc riders.  
+
+### `RPG HEROES ENEMIES/`
+**588 files** | Style: pixel art, fantasy, tiny  
+RPG hero and enemy character sprites organized by race — Humans, Orcs, Trolls, Demons, Weird Creatures — plus a bonus pseudo-Gameboy style set. Each character has ATK, Idle, Move, Hit, Dead animations. Individual frames + sprite sheet strips.  
+**Usage:** Top-down RPG heroes and enemies — multiple races and character types  
+**Tags:** character, sprite, animated, pixel, fantasy, rpg, human, orc, troll, demon, enemy, hero, top-down  
+**File types:** .png(588)  
+**Art style:** pixel art  
+**Perspective:** top-down / 3/4 view  
+**Resolution:** 16-24px character height  
+**Palette:** varied fantasy colors per race  
+**Compatibility group:** pixel-tiny-rpg  
+**Notes:** Same creator as CHARACTER MEGAPACK. Organized by race (Humans, Orcs, Trolls, Demons, WeirdCreatures). Bonus pseudo-Gameboy monochrome style variant. Individual frames + strip sheets.  
+
 ### `rpgsurvivalcharacter/`
 **275 files** | Style: pixel art, survival  
 Survival-themed RPG character with animation states. Includes Aseprite source files.  
@@ -324,6 +376,19 @@ Large bundle of 2D character sprites by Segel. Includes Spriter (SCML) animation
 **Palette:** clean, saturated, classic anime-adjacent colors  
 **Compatibility group:** chibi-cartoon  
 **Notes:** Large chibi-style characters for side-scrolling. Spriter SCML skeletal animation. Very high quality. Pairs with 2dcutecharacterspack aesthetic.  
+
+### `SLIMES BLOBS TENTACLES/`
+**4380 files** | Style: pixel art, fantasy, tiny  
+Slime, blob, and tentacle enemy sprites in 12 color variants (green, cyan, blue, purple, pink, brown, red, dark green, yellow, orange, turquoise, weird purple). Each color has multiple slime levels with 4-directional attack, hit, idle, and move animations. Individual frames + sprite sheet strips.  
+**Usage:** RPG enemy sprites — slimes and blob creatures with color-coded variants for difficulty levels  
+**Tags:** character, sprite, animated, pixel, fantasy, rpg, monster, slime, enemy, top-down  
+**File types:** .png(4380)  
+**Art style:** pixel art  
+**Perspective:** top-down / 3/4 view, 4-directional  
+**Resolution:** 16-24px character height  
+**Palette:** 12 distinct color palettes (one per variant)  
+**Compatibility group:** pixel-tiny-rpg  
+**Notes:** Same creator as CHARACTER MEGAPACK, RPG HEROES ENEMIES, and Orcs Goblins V2. Slime enemies with level variants (Lvl01-Lvl02+). Individual frames + strip sheets. 4-directional attack animations.  
 
 ### `Tiny RPG Character Asset Pack v1.03b -Full 20 Characters/`
 **467 files** | Style: pixel art, fantasy  
@@ -352,6 +417,32 @@ Casual hit/impact visual effect prefabs with textures. 4 hit variations in 4 col
 **Palette:** blue, red, yellow, neutral color variants  
 **Compatibility group:** style-independent  
 **Notes:** Unity hit/impact VFX. 4 hit variations × 4 colors. Requires Unity for prefab usage; textures usable standalone.  
+
+### `OVERBURN AssetPack/`
+**212 files** | Style: pixel art, VFX  
+Fire and flame VFX sprite sheets in 4 color variants (yellow-orange, blue, green, purple). Includes flame animations, fireballs, orbs (top-down and isometric), shockwaves, flamethrower effects, realistic fire, and circle/square shaped flames at multiple sizes (32px, 48px, 64px, 96px). Bonus characters (Mage, Flamethrower). Includes PSD source files and preview GIFs.  
+**Usage:** Fire spell effects, flame VFX, elemental abilities, torch/campfire animations  
+**Tags:** effect, vfx, fire, flame, spell, pixel, animated, fireball, particle  
+**File types:** .gif(5), .png(186), .psd(19), .txt(2)  
+**Art style:** pixel art VFX  
+**Perspective:** top-down + isometric variants  
+**Resolution:** 32-96px per effect frame, sprite sheet grids  
+**Palette:** 4 color themes: yellow-orange, blue, green, purple  
+**Compatibility group:** style-independent  
+**Notes:** Fire/flame VFX by the same creator as ASTRONAUT and OVERSTELLAR. Sprite sheet grids (NxM format). Includes top-down and isometric orb variants at multiple sizes. PSD source files included. Bonus Mage and Flamethrower character sprites.  
+
+### `OVERSTELLAR AssetPack/`
+**422 files** | Style: pixel art, sci-fi, space  
+Space-themed VFX and environment sprite sheets — animated rotating planets (40+ including solar system replicas), animated suns/stars, asteroids, scrolling star backgrounds, black holes, celestial bodies (comets, nebulae), eclipses, galaxies, meteorites, shooting stars, glowing stars, and scrolling space backgrounds. Pre-rendered 3D-style on sprite sheet grids.  
+**Usage:** Space game backgrounds, planet animations, celestial VFX, sci-fi environments, star fields  
+**Tags:** effect, vfx, space, planet, star, galaxy, asteroid, background, animated, sci-fi, pixel  
+**File types:** .png(422)  
+**Art style:** pixel art / pre-rendered 3D  
+**Perspective:** front-facing space view  
+**Resolution:** 40-100px per planet/object, sprite sheet grids (16x15 typical)  
+**Palette:** deep space — dark backgrounds, vibrant planet/star colors  
+**Compatibility group:** style-independent  
+**Notes:** Same creator as OVERBURN and ASTRONAUT. Animated rotating planets (Earth-like, gas, dead, ringed, etc.), solar system replicas, suns, stars, black holes, galaxies, asteroids, meteorites, shooting stars, scrolling space backgrounds. Large sprite sheet grids for smooth rotation animation.  
 
 ## Icons
 
@@ -488,6 +579,32 @@ Massive multi-category game asset pack by Chequered Ink — 10,000+ assets acros
 **Palette:** pixel: limited retro palettes. HD: full color with gradients and shading  
 **Compatibility group:** mixed-multigroup  
 **Notes:** 10,000+ assets from Chequered Ink spanning two incompatible visual styles. Pixel Art section (4,574 files): 8bit adventure platformer, RPG characters/tilesets, inventory icons, retro monsters, control prompts, 1-bit puzzle assets. HD Graphics section (5,114 files): platformer, UI, 3D cars, dice, icons, puzzles, cards, board games, planets, particles, monsters. Also includes 792 WAV SFX, fonts, and 35 3D vehicle models. Do NOT mix pixel and HD assets in the same project.  
+
+### `32rogues/`
+**17 files** | Style: pixel art, roguelike  
+32x32 pixel art roguelike tileset (v0.5.0) — 35 character classes, 28 monsters, 100+ items, animals, environment tiles, autotiles, animated tiles, and palette swap variants. Sprite sheets with individual frame documentation.  
+**Usage:** Roguelike/dungeon crawler characters, monsters, items, environment tiles  
+**Tags:** character, monster, item, tileset, pixel, roguelike, sprite, animated, autotile, 32x32  
+**File types:** .png(9), .txt(8)  
+**Art style:** pixel art  
+**Perspective:** top-down, roguelike grid  
+**Resolution:** 32x32px per tile/character  
+**Palette:** rich varied colors, dark backgrounds, fantasy roguelike  
+**Compatibility group:** pixel-small  
+**Notes:** 32x32 roguelike tileset v0.5.0 by Seth Byrd. 35 character classes, 28 monsters, 100+ items, animals, tiles, autotiles, animated tiles. Includes palette swap variants. CC0 licensed. Sprite sheets with .txt documentation per sheet.  
+
+### `32rogues-0.4.0/`
+**11 files** | Style: pixel art, roguelike  
+32x32 pixel art roguelike tileset (v0.4.0, older version) — characters, monsters, items, animals, environment tiles. Superseded by 32rogues v0.5.0 which adds autotiles, animated tiles, and palette swaps.  
+**Usage:** Roguelike/dungeon crawler — use v0.5.0 instead unless you need the older version  
+**Tags:** character, monster, item, tileset, pixel, roguelike, sprite, 32x32  
+**File types:** .png(5), .txt(6)  
+**Art style:** pixel art  
+**Perspective:** top-down, roguelike grid  
+**Resolution:** 32x32px per tile/character  
+**Palette:** rich varied colors, dark backgrounds, fantasy roguelike  
+**Compatibility group:** pixel-small  
+**Notes:** Older version (v0.4.0) of 32rogues. Superseded by v0.5.0 which adds autotiles, animated tiles, and palette swaps. Same art style.  
 
 ### `Game Assets(2)/`
 **10558 files** | Style: pixel art, fantasy  

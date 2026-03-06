@@ -9,7 +9,7 @@ decisions.
 
 ## Style Groups
 
-The visual art packs fall into **5 distinct visual styles**. Mixing across groups will create
+The visual art packs fall into **6 distinct visual styles**. Mixing across groups will create
 visual inconsistency. Within a group, packs are safe to combine.
 Some packs are **style-independent** (UI kits, audio, VFX) and can be used with any group — see the end of this document.
 
@@ -33,6 +33,13 @@ Some packs are **style-independent** (UI kits, audio, VFX) and can be used with 
 | `Tiny RPG Character Asset Pack v1.03b -Full 20 Characters` | 20 tiny side-view battle characters (heroes + enemies), full animations |
 | `10k Game Assets` (Pixel Art section only) | 8-bit adventure, RPG characters/tilesets, inventory icons, retro monsters, control prompts |
 | `Game Assets(2)` | Fantasy Dreamland tilesets/chars, Pixel Battlers monsters, Pixel VFX, Platformer World tiles |
+| `32rogues` | 32x32 roguelike tileset — 35 classes, 28 monsters, 100+ items, tiles, autotiles |
+| `32rogues-0.4.0` | Older version of 32rogues (use v0.5.0 instead) |
+| `CHARACTER MEGAPACK` | 54 tiny characters (heroes LVL1-4, enemies, NPCs), full animations |
+| `SLIMES BLOBS TENTACLES` | Slime enemies in 12 color variants, 4-directional animations |
+| `RPG HEROES ENEMIES` | Heroes & enemies by race (Humans, Orcs, Trolls, Demons), full animations |
+| `Orcs Goblins V2` | Orc/goblin enemies in 3 skin colors, full animations |
+| `ASTRONAUT AssetPack` | Astronaut characters in 15 colors, 8-directional, full animations |
 
 **Palette:** Varied but generally muted/earthy or classic bright RPG colors
 **Resolution:** 16–32px per tile/sprite
@@ -145,6 +152,8 @@ Some packs are **style-independent** (UI kits, audio, VFX) and can be used with 
 | `Area730` | UI Kit | Sliced PNG components — buttons, bars, dialogs, menus, panels |
 | `RPG Unitframe #1` | UI Kit | Unit frame components — health/mana bars, portrait frames |
 | `Casual_Hit` | VFX | Hit/impact effect prefabs (Unity) with textures |
+| `OVERBURN AssetPack` | VFX | Fire/flame effects in 4 color variants, sprite sheets |
+| `OVERSTELLAR AssetPack` | VFX/Environment | Space VFX — planets, stars, galaxies, backgrounds |
 
 ---
 
@@ -220,3 +229,7 @@ When recommending assets from this collection:
 9. **Universal Sound FX** has 10,000+ sound effects — check it first for any audio need
 10. **Area730** and **RPG Unitframe #1** are UI kits — style-independent, usable with any visual group
 11. **Casual_Hit** contains Unity prefabs — only useful in Unity projects
+12. **CHARACTER MEGAPACK**, **SLIMES BLOBS TENTACLES**, **RPG HEROES ENEMIES**, and **Orcs Goblins V2** are from the same creator — they share identical tiny pixel art style and animation format, use them together
+13. **OVERBURN**, **ASTRONAUT**, and **OVERSTELLAR** AssetPacks are from the same creator — consistent format/quality
+14. **32rogues** is a complete 32x32 roguelike tileset — characters, monsters, items, tiles, and autotiles all in one pack
+15. **ASTRONAUT AssetPack** has 15 color variants — ideal for multiplayer character selection
