@@ -69,6 +69,21 @@ Some packs are **style-independent** (UI kits, audio, VFX) and can be used with 
 
 ---
 
+### Group B2 — Pixel Art · Cute RTS / Tiny Swords (32–128px)
+*Detailed chibi-style pixel art with isometric-ish perspective. High detail for size. RTS/strategy aesthetic.*
+
+| Pack | Notes |
+|---|---|
+| `Tiny Swords (Free Pack)` | Buildings (5 factions), terrain, units (5 types × 5 colors), UI, particle FX |
+| `Tiny Swords (Enemy Pack)` | 17 enemy creatures + boat + 16 avatar portraits |
+
+**Palette:** 5 faction colors (black/teal, blue, purple, red, yellow); earthy creature tones for enemies
+**Resolution:** 64–128px buildings, 32–48px units, 16px terrain tiles
+**Perspective:** 3/4 top-down isometric-ish
+**Note:** Both packs by the same creator (Pixel Frog). They are designed as a matched set — use them together. The cute/chibi detailed style is unique in the collection; it does not mix well with other pixel art groups due to its distinctive proportions and detail level.
+
+---
+
 ### Group C — Pixel Art · Large / Polished (48–64px+)
 *Clean, modern pixel art with smooth curves. RPGMaker autotile format.*
 
@@ -164,6 +179,7 @@ COMPATIBLE COMBINATIONS
 ─────────────────────────────────────────────────────
 Group A + Group B     Pixel RPG world (small chars, medium tiles)
 Group B + Group C     Pixel RPG world (medium chars, polished tiles)
+Group B2 only         Cute RTS/strategy game (Tiny Swords family)
 Group C only          Modern RPGMaker project
 Group D only          Side-scroll adventure or chibi action game
 Group E only          Premium UI layer (skill trees, inventory, portraits)
@@ -174,6 +190,7 @@ Any + Style-Indep.    UI kits, audio, and VFX work with everything
 AVOID MIXING
 ─────────────────────────────────────────────────────
 Group A + Group C     Scale mismatch (16px chars on 64px tiles)
+Group B2 + Group A/B  Tiny Swords chibi style clashes with standard pixel art proportions
 Group D + Group A/B   Pixel art world with cartoon characters (style clash)
 Group E + Group D     Painted realism with thick-outline cartoon (style clash)
 Group C + Group D     Polished pixel tiles with cartoon characters (scale/style clash)
@@ -233,3 +250,5 @@ When recommending assets from this collection:
 13. **OVERBURN**, **ASTRONAUT**, and **OVERSTELLAR** AssetPacks are from the same creator — consistent format/quality
 14. **32rogues** is a complete 32x32 roguelike tileset — characters, monsters, items, tiles, and autotiles all in one pack
 15. **ASTRONAUT AssetPack** has 15 color variants — ideal for multiplayer character selection
+16. **Tiny Swords (Free Pack)** and **Tiny Swords (Enemy Pack)** are a matched pair by the same creator — use them together for cute RTS/strategy games
+17. **Tiny Swords (Free Pack)** has 5 faction colors with buildings and units — ideal for faction-based strategy

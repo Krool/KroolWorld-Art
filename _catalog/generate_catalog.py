@@ -478,6 +478,20 @@ PACK_CONTEXT = {
         "usage": "Space game backgrounds, planet animations, celestial VFX, sci-fi environments, star fields",
         "tags": ["effect", "vfx", "space", "planet", "star", "galaxy", "asteroid", "background", "animated", "sci-fi", "pixel"],
     },
+    "Tiny Swords (Free Pack)": {
+        "description": "Cute RTS/strategy pixel art pack — buildings (Castle, Barracks, Archery, Monastery, Tower, Houses) in 5 faction colors (Black, Blue, Purple, Red, Yellow), terrain tileset with decorations and resources, particle FX, UI elements/banners, and 5 unit types (Archer, Lancer, Monk, Pawn, Warrior) in all 5 faction colors with full animations (Idle, Run, Attack, Guard). Includes Aseprite source files.",
+        "category": "mixed",
+        "style": "pixel art, cute, RTS",
+        "usage": "RTS/strategy games, tower defense, faction-based combat, medieval strategy with cute aesthetic",
+        "tags": ["character", "sprite", "animated", "pixel", "building", "tileset", "rts", "strategy", "medieval", "faction", "warrior", "archer", "castle", "ui"],
+    },
+    "Tiny Swords (Enemy Pack)": {
+        "description": "Enemy creature sprites for the Tiny Swords series — 17 enemy types (Bear, Gnoll, Gnome, Harpoon Fish, Lancer, Lizard, Minotaur, Paddle Fish, Panda, Shaman, Skull, Snake, Spider, Thief, Troll, Turtle) plus an enemy boat and 16 enemy avatar portraits. Each creature has full animations (Idle, Attack/Throw/Hit, Run). Includes Aseprite source files.",
+        "category": "characters",
+        "style": "pixel art, cute, RTS",
+        "usage": "RTS/strategy enemy units, monster encounters, creature combat — companion to Tiny Swords Free Pack",
+        "tags": ["character", "sprite", "animated", "pixel", "enemy", "monster", "creature", "rts", "strategy", "portrait", "avatar"],
+    },
 }
 
 # ── Tag inference from filename patterns ───────────────────────────────────────

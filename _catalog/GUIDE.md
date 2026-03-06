@@ -1,7 +1,7 @@
 # KroolWorld Art Asset Guide
 
-**Total packs:** 65  
-**Total files:** 87449  
+**Total packs:** 67  
+**Total files:** 88543  
 
 ---
 
@@ -403,6 +403,19 @@ Slime, blob, and tentacle enemy sprites in 12 color variants (green, cyan, blue,
 **Compatibility group:** pixel-small  
 **Notes:** 20 tiny side-view RPG characters: heroes (Knight, Archer, Wizard, Priest, Soldier, Swordsman, Lancer, Knight Templar), enemies (Orc, Armored Orc, Elite Orc, Orc Rider, Skeleton, Armored Skeleton, Greatsword Skeleton, Skeleton Archer, Slime, Werebear, Werewolf). Full animation sets (idle, walk, attack, death, hurt, block, heal). Includes shadow sprites, split VFX overlays, arrow/magic projectiles, and Aseprite sources. Side-view perspective suits battle scenes and side-scrolling combat. Pairs with HeroEditor for side-view pixel characters.  
 
+### `Tiny Swords (Enemy Pack)/`
+**204 files** | Style: pixel art, cute, RTS  
+Enemy creature sprites for the Tiny Swords series — 17 enemy types (Bear, Gnoll, Gnome, Harpoon Fish, Lancer, Lizard, Minotaur, Paddle Fish, Panda, Shaman, Skull, Snake, Spider, Thief, Troll, Turtle) plus an enemy boat and 16 enemy avatar portraits. Each creature has full animations (Idle, Attack/Throw/Hit, Run). Includes Aseprite source files.  
+**Usage:** RTS/strategy enemy units, monster encounters, creature combat — companion to Tiny Swords Free Pack  
+**Tags:** character, sprite, animated, pixel, enemy, monster, creature, rts, strategy, portrait, avatar  
+**File types:** .aseprite(34), .ds_store(9), .png(161)  
+**Art style:** pixel art, detailed cute/chibi  
+**Perspective:** 3/4 top-down isometric-ish  
+**Resolution:** 32-64px per creature, sprite sheet strips  
+**Palette:** earthy naturalistic creature tones — browns, greens, greys  
+**Compatibility group:** pixel-tinyswords  
+**Notes:** By Pixel Frog. Enemy creatures for the Tiny Swords series. 17 enemy types + boat + 16 avatar portraits. Same art style as Tiny Swords Free Pack — use them together.  
+
 ## Effects
 
 ### `Casual_Hit/`
@@ -631,6 +644,19 @@ General medieval RPG asset pack — mix of tiles, props, and decorative elements
 **Palette:** blue-green, teal, muted  
 **Compatibility group:** pixel-small  
 **Notes:** Quirky bird/creature-style characters with full animation sets. Slightly larger scale than medievalfantasycharacters.  
+
+### `Tiny Swords (Free Pack)/`
+**890 files** | Style: pixel art, cute, RTS  
+Cute RTS/strategy pixel art pack — buildings (Castle, Barracks, Archery, Monastery, Tower, Houses) in 5 faction colors (Black, Blue, Purple, Red, Yellow), terrain tileset with decorations and resources, particle FX, UI elements/banners, and 5 unit types (Archer, Lancer, Monk, Pawn, Warrior) in all 5 faction colors with full animations (Idle, Run, Attack, Guard). Includes Aseprite source files.  
+**Usage:** RTS/strategy games, tower defense, faction-based combat, medieval strategy with cute aesthetic  
+**Tags:** character, sprite, animated, pixel, building, tileset, rts, strategy, medieval, faction, warrior, archer, castle, ui  
+**File types:** .aseprite(36), .ds_store(34), .png(820)  
+**Art style:** pixel art, detailed cute/chibi  
+**Perspective:** 3/4 top-down isometric-ish  
+**Resolution:** 64-128px per building, 32-48px per unit, 16px terrain tiles  
+**Palette:** 5 faction color themes (black/teal, blue, purple, red, yellow) with warm medieval tones  
+**Compatibility group:** pixel-tinyswords  
+**Notes:** By Pixel Frog. Cute RTS/strategy pack with 5 faction colors. Buildings, terrain, units, UI, particle FX. Companion to Tiny Swords Enemy Pack. Distinct chibi-detailed style — higher detail than typical 32px pixel art.  
 
 ## Portraits
 

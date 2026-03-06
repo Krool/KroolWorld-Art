@@ -1,13 +1,13 @@
 # KroolWorld Shared Asset Library
 
-This folder is a shared game asset library. It contains 65 packs (~87,000 files) — art, UI, icons, sound effects, music, and more.
+This folder is a shared game asset library. It contains 67 packs (~88,500 files) — art, UI, icons, sound effects, music, and more.
 Do not modify the asset folders. Copy assets out to your project using the tools below.
 
 ---
 
 ## CRITICAL — Do NOT scan or process asset folders directly
 
-This library has **87,000+ files** across 65 packs. The catalog already indexes every file.
+This library has **88,500+ files** across 67 packs. The catalog already indexes every file.
 
 **NEVER do any of the following:**
 - `find`, `ls -R`, `glob`, or `grep` inside the asset pack folders
@@ -99,6 +99,8 @@ Read these files before recommending or selecting assets:
 - `32rogues` is a complete 32x32 roguelike tileset (v0.5.0) — characters, monsters, items, tiles, autotiles in one pack
 - `CHARACTER MEGAPACK` has 54 tiny pixel characters (heroes with LVL1-4 variants, enemies, NPCs) — from the same creator as SLIMES, RPG HEROES, and Orcs Goblins packs
 - `CHARACTER MEGAPACK`, `SLIMES BLOBS TENTACLES`, `RPG HEROES ENEMIES`, and `Orcs Goblins V2` share identical art style — use them together
+- `Tiny Swords (Free Pack)` has buildings, terrain, units (5 types × 5 faction colors), UI, and particle FX — cute RTS/strategy style
+- `Tiny Swords (Enemy Pack)` has 17 enemy creature types + avatars — companion to Tiny Swords Free Pack, use together
 - `OVERBURN AssetPack` has fire/flame VFX in 4 color variants — good for spell effects
 - `ASTRONAUT AssetPack` has 15 color variants with 8-directional animations — ideal for multiplayer
 - `OVERSTELLAR AssetPack` has animated planets, stars, galaxies, and space backgrounds — complete space environment kit

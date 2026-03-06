@@ -778,5 +778,29 @@
     "animated": true,
     "compatibility_group": "style-independent",
     "notes": "Same creator as OVERBURN and ASTRONAUT. Animated rotating planets (Earth-like, gas, dead, ringed, etc.), solar system replicas, suns, stars, black holes, galaxies, asteroids, meteorites, shooting stars, scrolling space backgrounds. Large sprite sheet grids for smooth rotation animation."
+  },
+  "Tiny Swords (Free Pack)": {
+    "art_style": "pixel art, detailed cute/chibi",
+    "render_method": "pixel art with anti-aliased edges, high detail for size",
+    "outline": "dark pixel outline",
+    "perspective": "3/4 top-down isometric-ish",
+    "approx_resolution": "64-128px per building, 32-48px per unit, 16px terrain tiles",
+    "palette": "5 faction color themes (black/teal, blue, purple, red, yellow) with warm medieval tones",
+    "pixel_art": true,
+    "animated": true,
+    "compatibility_group": "pixel-tinyswords",
+    "notes": "By Pixel Frog. Cute RTS/strategy pack with 5 faction colors. Buildings, terrain, units, UI, particle FX. Companion to Tiny Swords Enemy Pack. Distinct chibi-detailed style — higher detail than typical 32px pixel art."
+  },
+  "Tiny Swords (Enemy Pack)": {
+    "art_style": "pixel art, detailed cute/chibi",
+    "render_method": "pixel art with anti-aliased edges, high detail for size",
+    "outline": "dark pixel outline",
+    "perspective": "3/4 top-down isometric-ish",
+    "approx_resolution": "32-64px per creature, sprite sheet strips",
+    "palette": "earthy naturalistic creature tones — browns, greens, greys",
+    "pixel_art": true,
+    "animated": true,
+    "compatibility_group": "pixel-tinyswords",
+    "notes": "By Pixel Frog. Enemy creatures for the Tiny Swords series. 17 enemy types + boat + 16 avatar portraits. Same art style as Tiny Swords Free Pack — use them together."
   }
 }

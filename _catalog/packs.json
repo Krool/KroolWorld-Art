@@ -2217,6 +2217,85 @@
     }
   },
   {
+    "pack": "Tiny Swords (Enemy Pack)",
+    "description": "Enemy creature sprites for the Tiny Swords series \u2014 17 enemy types (Bear, Gnoll, Gnome, Harpoon Fish, Lancer, Lizard, Minotaur, Paddle Fish, Panda, Shaman, Skull, Snake, Spider, Thief, Troll, Turtle) plus an enemy boat and 16 enemy avatar portraits. Each creature has full animations (Idle, Attack/Throw/Hit, Run). Includes Aseprite source files.",
+    "category": "characters",
+    "style": "pixel art, cute, RTS",
+    "usage": "RTS/strategy enemy units, monster encounters, creature combat \u2014 companion to Tiny Swords Free Pack",
+    "tags": [
+      "character",
+      "sprite",
+      "animated",
+      "pixel",
+      "enemy",
+      "monster",
+      "creature",
+      "rts",
+      "strategy",
+      "portrait",
+      "avatar"
+    ],
+    "file_count": 204,
+    "file_types": {
+      ".aseprite": 34,
+      ".png": 161,
+      ".ds_store": 9
+    },
+    "visual": {
+      "art_style": "pixel art, detailed cute/chibi",
+      "render_method": "pixel art with anti-aliased edges, high detail for size",
+      "outline": "dark pixel outline",
+      "perspective": "3/4 top-down isometric-ish",
+      "approx_resolution": "32-64px per creature, sprite sheet strips",
+      "palette": "earthy naturalistic creature tones \u2014 browns, greens, greys",
+      "pixel_art": true,
+      "animated": true,
+      "compatibility_group": "pixel-tinyswords",
+      "notes": "By Pixel Frog. Enemy creatures for the Tiny Swords series. 17 enemy types + boat + 16 avatar portraits. Same art style as Tiny Swords Free Pack \u2014 use them together."
+    }
+  },
+  {
+    "pack": "Tiny Swords (Free Pack)",
+    "description": "Cute RTS/strategy pixel art pack \u2014 buildings (Castle, Barracks, Archery, Monastery, Tower, Houses) in 5 faction colors (Black, Blue, Purple, Red, Yellow), terrain tileset with decorations and resources, particle FX, UI elements/banners, and 5 unit types (Archer, Lancer, Monk, Pawn, Warrior) in all 5 faction colors with full animations (Idle, Run, Attack, Guard). Includes Aseprite source files.",
+    "category": "mixed",
+    "style": "pixel art, cute, RTS",
+    "usage": "RTS/strategy games, tower defense, faction-based combat, medieval strategy with cute aesthetic",
+    "tags": [
+      "character",
+      "sprite",
+      "animated",
+      "pixel",
+      "building",
+      "tileset",
+      "rts",
+      "strategy",
+      "medieval",
+      "faction",
+      "warrior",
+      "archer",
+      "castle",
+      "ui"
+    ],
+    "file_count": 890,
+    "file_types": {
+      ".png": 820,
+      ".aseprite": 36,
+      ".ds_store": 34
+    },
+    "visual": {
+      "art_style": "pixel art, detailed cute/chibi",
+      "render_method": "pixel art with anti-aliased edges, high detail for size",
+      "outline": "dark pixel outline",
+      "perspective": "3/4 top-down isometric-ish",
+      "approx_resolution": "64-128px per building, 32-48px per unit, 16px terrain tiles",
+      "palette": "5 faction color themes (black/teal, blue, purple, red, yellow) with warm medieval tones",
+      "pixel_art": true,
+      "animated": true,
+      "compatibility_group": "pixel-tinyswords",
+      "notes": "By Pixel Frog. Cute RTS/strategy pack with 5 faction colors. Buildings, terrain, units, UI, particle FX. Companion to Tiny Swords Enemy Pack. Distinct chibi-detailed style \u2014 higher detail than typical 32px pixel art."
+    }
+  },
+  {
     "pack": "tropicalislandgameassets",
     "description": "Comprehensive tropical island asset pack \u2014 tiles, animated shorelines, boats, dolphins, cliffs, doors, and more. Includes RPGMaker MV/MZ support and Aseprite sources.",
     "category": "tileset",
